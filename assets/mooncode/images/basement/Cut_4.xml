@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Cut_4.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Cut 40000" x="1" y="1" width="517" height="403"/>
+	<SubTexture name="Cut 40001" x="1" y="1" width="517" height="403"/>
+	<SubTexture name="Cut 40002" x="523" y="1" width="517" height="403"/>
+	<SubTexture name="Cut 40003" x="523" y="1" width="517" height="403"/>
+	<SubTexture name="Cut 40004" x="1045" y="1" width="517" height="403"/>
+	<SubTexture name="Cut 40005" x="1045" y="1" width="517" height="403"/>
+	<SubTexture name="Cut 40006" x="1" y="409" width="517" height="403"/>
+	<SubTexture name="Cut 40007" x="1" y="409" width="517" height="403"/>
+	<SubTexture name="Cut 40008" x="523" y="409" width="517" height="403"/>
+	<SubTexture name="Cut 40009" x="523" y="409" width="517" height="403"/>
+	<SubTexture name="Cut 40010" x="523" y="409" width="517" height="403"/>
+	<SubTexture name="Cut 40011" x="523" y="409" width="517" height="403"/>
+	<SubTexture name="Cut 40012" x="523" y="409" width="517" height="403"/>
+	<SubTexture name="Cut 40013" x="523" y="409" width="517" height="403"/>
+	<SubTexture name="Cut 40014" x="523" y="409" width="517" height="403"/>
+	<SubTexture name="Cut 40015" x="523" y="409" width="517" height="403"/>
+	<SubTexture name="Cut 40016" x="523" y="409" width="517" height="403"/>
+	<SubTexture name="Cut 40017" x="523" y="409" width="517" height="403"/>
+	<SubTexture name="Cut 40018" x="523" y="409" width="517" height="403"/>
+	<SubTexture name="Cut 40019" x="523" y="409" width="517" height="403"/>
+</TextureAtlas>

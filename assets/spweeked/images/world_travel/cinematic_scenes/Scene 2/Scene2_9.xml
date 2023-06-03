@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Scene2_9.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Scene2_90000" x="4" y="4" width="402" height="391"/>
+	<SubTexture name="Scene2_90001" x="4" y="4" width="402" height="391"/>
+	<SubTexture name="Scene2_90002" x="4" y="4" width="402" height="391"/>
+	<SubTexture name="Scene2_90003" x="4" y="4" width="402" height="391"/>
+	<SubTexture name="Scene2_90004" x="418" y="4" width="402" height="391"/>
+	<SubTexture name="Scene2_90005" x="418" y="4" width="402" height="391"/>
+	<SubTexture name="Scene2_90006" x="418" y="4" width="402" height="391"/>
+	<SubTexture name="Scene2_90007" x="418" y="4" width="402" height="391"/>
+	<SubTexture name="Scene2_90008" x="418" y="4" width="402" height="391"/>
+	<SubTexture name="Scene2_90009" x="832" y="4" width="402" height="391"/>
+	<SubTexture name="Scene2_90010" x="832" y="4" width="402" height="391"/>
+	<SubTexture name="Scene2_90011" x="832" y="4" width="402" height="391"/>
+	<SubTexture name="Scene2_90012" x="832" y="4" width="402" height="391"/>
+</TextureAtlas>

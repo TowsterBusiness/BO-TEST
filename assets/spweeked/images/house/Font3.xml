@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Font3.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Font30000" x="5" y="5" width="1305" height="558" frameX="-50" frameY="-21" frameWidth="1405" frameHeight="600"/>
+	<SubTexture name="Font30001" x="1315" y="5" width="1325" height="567" frameX="-40" frameY="-16" frameWidth="1405" frameHeight="600"/>
+	<SubTexture name="Font30002" x="2645" y="5" width="1345" height="575" frameX="-30" frameY="-12" frameWidth="1405" frameHeight="600"/>
+	<SubTexture name="Font30003" x="3995" y="5" width="1365" height="584" frameX="-20" frameY="-8" frameWidth="1405" frameHeight="600"/>
+	<SubTexture name="Font30004" x="5365" y="5" width="1368" height="584" frameX="-19" frameY="-8" frameWidth="1405" frameHeight="600"/>
+	<SubTexture name="Font30005" x="6738" y="5" width="1371" height="586" frameX="-17" frameY="-7" frameWidth="1405" frameHeight="600"/>
+	<SubTexture name="Font30006" x="5" y="596" width="1374" height="587" frameX="-16" frameY="-7" frameWidth="1405" frameHeight="600"/>
+	<SubTexture name="Font30007" x="1384" y="596" width="1377" height="588" frameX="-14" frameY="-6" frameWidth="1405" frameHeight="600"/>
+	<SubTexture name="Font30008" x="2766" y="596" width="1380" height="590" frameX="-13" frameY="-5" frameWidth="1405" frameHeight="600"/>
+	<SubTexture name="Font30009" x="4151" y="596" width="1383" height="591" frameX="-11" frameY="-5" frameWidth="1405" frameHeight="600"/>
+	<SubTexture name="Font30010" x="5539" y="596" width="1386" height="592" frameX="-10" frameY="-4" frameWidth="1405" frameHeight="600"/>
+	<SubTexture name="Font30011" x="5" y="1193" width="1389" height="594" frameX="-8" frameY="-3" frameWidth="1405" frameHeight="600"/>
+	<SubTexture name="Font30012" x="1399" y="1193" width="1392" height="595" frameX="-7" frameY="-3" frameWidth="1405" frameHeight="600"/>
+	<SubTexture name="Font30013" x="2796" y="1193" width="1395" height="596" frameX="-5" frameY="-2" frameWidth="1405" frameHeight="600"/>
+	<SubTexture name="Font30014" x="4196" y="1193" width="1398" height="598" frameX="-4" frameY="-1" frameWidth="1405" frameHeight="600"/>
+	<SubTexture name="Font30015" x="5599" y="1193" width="1402" height="599" frameX="-2" frameY="-1" frameWidth="1405" frameHeight="600"/>
+	<SubTexture name="Font30016" x="5" y="1797" width="1405" height="600"/>
+	<SubTexture name="Font30017" x="5" y="1797" width="1405" height="600"/>
+	<SubTexture name="Font30018" x="5" y="1797" width="1405" height="600"/>
+	<SubTexture name="Font30019" x="5" y="1797" width="1405" height="600"/>
+	<SubTexture name="Font30020" x="5" y="1797" width="1405" height="600"/>
+	<SubTexture name="Font30021" x="5" y="1797" width="1405" height="600"/>
+	<SubTexture name="Font30022" x="5" y="1797" width="1405" height="600"/>
+</TextureAtlas>

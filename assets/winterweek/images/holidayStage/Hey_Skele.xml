@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Hey_Skele.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SkeletonPassionIntroAnim0000" x="10" y="10" width="1361" height="753"/>
+	<SubTexture name="SkeletonPassionIntroAnim0001" x="10" y="10" width="1361" height="753"/>
+	<SubTexture name="SkeletonPassionIntroAnim0002" x="10" y="10" width="1361" height="753"/>
+	<SubTexture name="SkeletonPassionIntroAnim0003" x="10" y="10" width="1361" height="753"/>
+	<SubTexture name="SkeletonPassionIntroAnim0004" x="10" y="10" width="1361" height="753"/>
+	<SubTexture name="SkeletonPassionIntroAnim0005" x="10" y="10" width="1361" height="753"/>
+	<SubTexture name="SkeletonPassionIntroAnim0006" x="1381" y="10" width="1361" height="753"/>
+	<SubTexture name="SkeletonPassionIntroAnim0007" x="1381" y="10" width="1361" height="753"/>
+	<SubTexture name="SkeletonPassionIntroAnim0008" x="1381" y="10" width="1361" height="753"/>
+	<SubTexture name="SkeletonPassionIntroAnim0009" x="1381" y="10" width="1361" height="753"/>
+	<SubTexture name="SkeletonPassionIntroAnim0010" x="2752" y="10" width="1361" height="753"/>
+	<SubTexture name="SkeletonPassionIntroAnim0011" x="2752" y="10" width="1361" height="753"/>
+	<SubTexture name="SkeletonPassionIntroAnim0012" x="2752" y="10" width="1361" height="753"/>
+	<SubTexture name="SkeletonPassionIntroAnim0013" x="4123" y="10" width="1361" height="753"/>
+	<SubTexture name="SkeletonPassionIntroAnim0014" x="4123" y="10" width="1361" height="753"/>
+	<SubTexture name="SkeletonPassionIntroAnim0015" x="5494" y="10" width="1361" height="753"/>
+	<SubTexture name="SkeletonPassionIntroAnim0016" x="5494" y="10" width="1361" height="753"/>
+	<SubTexture name="SkeletonPassionIntroAnim0017" x="10" y="773" width="1361" height="753"/>
+	<SubTexture name="SkeletonPassionIntroAnim0018" x="10" y="773" width="1361" height="753"/>
+	<SubTexture name="SkeletonPassionIntroAnim0019" x="1381" y="773" width="1361" height="753"/>
+	<SubTexture name="SkeletonPassionIntroAnim0020" x="1381" y="773" width="1361" height="753"/>
+	<SubTexture name="SkeletonPassionIntroAnim0021" x="1381" y="773" width="1361" height="753"/>
+	<SubTexture name="SkeletonPassionIntroAnim0022" x="2752" y="773" width="1361" height="753"/>
+	<SubTexture name="SkeletonPassionIntroAnim0023" x="2752" y="773" width="1361" height="753"/>
+	<SubTexture name="SkeletonPassionIntroAnim0024" x="4123" y="773" width="1361" height="753"/>
+	<SubTexture name="SkeletonPassionIntroAnim0025" x="4123" y="773" width="1361" height="753"/>
+	<SubTexture name="SkeletonPassionIntroAnim0026" x="4123" y="773" width="1361" height="753"/>
+	<SubTexture name="SkeletonPassionIntroAnim0027" x="5494" y="773" width="1361" height="753"/>
+	<SubTexture name="SkeletonPassionIntroAnim0028" x="5494" y="773" width="1361" height="753"/>
+	<SubTexture name="SkeletonPassionIntroAnim0029" x="5494" y="773" width="1361" height="753"/>
+	<SubTexture name="SkeletonPassionIntroAnim0030" x="10" y="1536" width="1361" height="753"/>
+	<SubTexture name="SkeletonPassionIntroAnim0031" x="10" y="1536" width="1361" height="753"/>
+	<SubTexture name="SkeletonPassionIntroAnim0032" x="10" y="1536" width="1361" height="753"/>
+	<SubTexture name="SkeletonPassionIntroAnim0033" x="1381" y="1536" width="1361" height="753"/>
+	<SubTexture name="SkeletonPassionIntroAnim0034" x="1381" y="1536" width="1361" height="753"/>
+	<SubTexture name="SkeletonPassionIntroAnim0035" x="2752" y="1536" width="1361" height="753"/>
+	<SubTexture name="SkeletonPassionIntroAnim0036" x="2752" y="1536" width="1361" height="753"/>
+	<SubTexture name="SkeletonPassionIntroAnim0037" x="4123" y="1536" width="1361" height="753"/>
+	<SubTexture name="SkeletonPassionIntroAnim0038" x="4123" y="1536" width="1361" height="753"/>
+	<SubTexture name="SkeletonPassionIntroAnim0039" x="5494" y="1536" width="1361" height="753"/>
+	<SubTexture name="SkeletonPassionIntroAnim0040" x="10" y="2299" width="1361" height="753"/>
+	<SubTexture name="SkeletonPassionIntroAnim0041" x="1381" y="2299" width="1361" height="753"/>
+	<SubTexture name="SkeletonPassionIntroAnim0042" x="1381" y="2299" width="1361" height="753"/>
+	<SubTexture name="SkeletonPassionIntroAnim0043" x="2752" y="2299" width="1361" height="753"/>
+	<SubTexture name="SkeletonPassionIntroAnim0044" x="2752" y="2299" width="1361" height="753"/>
+	<SubTexture name="SkeletonPassionIntroAnim0045" x="4123" y="2299" width="1361" height="753"/>
+	<SubTexture name="SkeletonPassionIntroAnim0046" x="4123" y="2299" width="1361" height="753"/>
+</TextureAtlas>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Font4.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Font40000" x="5" y="5" width="1880" height="820"/>
+	<SubTexture name="Font40001" x="1890" y="5" width="1880" height="820"/>
+	<SubTexture name="Font40002" x="3775" y="5" width="1880" height="820"/>
+	<SubTexture name="Font40003" x="5660" y="5" width="1880" height="820"/>
+	<SubTexture name="Font40004" x="5" y="830" width="1880" height="820"/>
+	<SubTexture name="Font40005" x="1890" y="830" width="1880" height="820"/>
+	<SubTexture name="Font40006" x="3775" y="830" width="1880" height="820"/>
+	<SubTexture name="Font40007" x="5660" y="830" width="1880" height="820"/>
+	<SubTexture name="Font40008" x="5" y="1655" width="1880" height="820"/>
+	<SubTexture name="Font40009" x="1890" y="1655" width="1880" height="820"/>
+	<SubTexture name="Font40010" x="3775" y="1655" width="1880" height="820"/>
+	<SubTexture name="Font40011" x="5660" y="1655" width="1880" height="820"/>
+	<SubTexture name="Font40012" x="5" y="2480" width="1880" height="820"/>
+	<SubTexture name="Font40013" x="1890" y="2480" width="1880" height="820"/>
+	<SubTexture name="Font40014" x="3775" y="2480" width="1880" height="820"/>
+	<SubTexture name="Font40015" x="5660" y="2480" width="1880" height="820"/>
+	<SubTexture name="Font40016" x="5" y="3305" width="1880" height="820"/>
+	<SubTexture name="Font40017" x="1890" y="3305" width="1880" height="820"/>
+	<SubTexture name="Font40018" x="3775" y="3305" width="1880" height="820"/>
+	<SubTexture name="Font40019" x="5660" y="3305" width="1880" height="820"/>
+	<SubTexture name="Font40020" x="5" y="4130" width="1880" height="820"/>
+	<SubTexture name="Font40021" x="1890" y="4130" width="1880" height="820"/>
+	<SubTexture name="Font40022" x="3775" y="4130" width="1880" height="820"/>
+	<SubTexture name="Font40023" x="5660" y="4130" width="1880" height="820"/>
+	<SubTexture name="Font40024" x="5" y="4955" width="1880" height="820"/>
+	<SubTexture name="Font40025" x="1890" y="4955" width="1880" height="820"/>
+	<SubTexture name="Font40026" x="3775" y="4955" width="1880" height="820"/>
+	<SubTexture name="Font40027" x="5660" y="4955" width="1880" height="820"/>
+	<SubTexture name="Font40028" x="5" y="5780" width="1880" height="820"/>
+	<SubTexture name="Font40029" x="1890" y="5780" width="1880" height="820"/>
+	<SubTexture name="Font40030" x="3775" y="5780" width="1880" height="820"/>
+	<SubTexture name="Font40031" x="5660" y="5780" width="1880" height="820"/>
+	<SubTexture name="Font40032" x="5" y="6605" width="1880" height="820"/>
+	<SubTexture name="Font40033" x="1890" y="6605" width="1880" height="820"/>
+	<SubTexture name="Font40034" x="3775" y="6605" width="1880" height="820"/>
+	<SubTexture name="Font40035" x="5660" y="6605" width="1880" height="820"/>
+	<SubTexture name="Font40036" x="5660" y="6605" width="1880" height="820"/>
+	<SubTexture name="Font40037" x="5660" y="6605" width="1880" height="820"/>
+	<SubTexture name="Font40038" x="5660" y="6605" width="1880" height="820"/>
+	<SubTexture name="Font40039" x="5660" y="6605" width="1880" height="820"/>
+	<SubTexture name="Font40040" x="5660" y="6605" width="1880" height="820"/>
+	<SubTexture name="Font40041" x="5660" y="6605" width="1880" height="820"/>
+	<SubTexture name="Font40042" x="5660" y="6605" width="1880" height="820"/>
+	<SubTexture name="Font40043" x="5660" y="6605" width="1880" height="820"/>
+	<SubTexture name="Font40044" x="5660" y="6605" width="1880" height="820"/>
+	<SubTexture name="Font40045" x="5660" y="6605" width="1880" height="820"/>
+</TextureAtlas>

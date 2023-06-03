@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DoorAnim.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DoorCloseFast0000" x="2" y="2" width="1254" height="715" frameX="0" frameY="0" frameWidth="1254" frameHeight="718"/>
+	<SubTexture name="DoorCloseFast0001" x="1258" y="2" width="1254" height="718"/>
+	<SubTexture name="DoorCloseFast0002" x="1258" y="2" width="1254" height="718"/>
+	<SubTexture name="DoorCloseFast0003" x="2514" y="2" width="1254" height="685" frameX="0" frameY="0" frameWidth="1254" frameHeight="718"/>
+	<SubTexture name="DoorCloseFast0004" x="3770" y="2" width="1254" height="684" frameX="0" frameY="0" frameWidth="1254" frameHeight="718"/>
+	<SubTexture name="DoorCloseFast0005" x="3770" y="2" width="1254" height="684" frameX="0" frameY="0" frameWidth="1254" frameHeight="718"/>
+	<SubTexture name="DoorCloseFast0006" x="5026" y="2" width="1254" height="684" frameX="0" frameY="0" frameWidth="1254" frameHeight="718"/>
+	<SubTexture name="DoorCloseFast0007" x="5026" y="2" width="1254" height="684" frameX="0" frameY="0" frameWidth="1254" frameHeight="718"/>
+	<SubTexture name="DoorCloseFast0008" x="6282" y="2" width="1254" height="684" frameX="0" frameY="0" frameWidth="1254" frameHeight="718"/>
+	<SubTexture name="DoorCloseFast0009" x="6282" y="2" width="1254" height="684" frameX="0" frameY="0" frameWidth="1254" frameHeight="718"/>
+	<SubTexture name="DoorCloseFast0010" x="6282" y="2" width="1254" height="684" frameX="0" frameY="0" frameWidth="1254" frameHeight="718"/>
+	<SubTexture name="DoorCloseFast0011" x="6282" y="2" width="1254" height="684" frameX="0" frameY="0" frameWidth="1254" frameHeight="718"/>
+	<SubTexture name="DoorCloseFast0012" x="6282" y="2" width="1254" height="684" frameX="0" frameY="0" frameWidth="1254" frameHeight="718"/>
+	<SubTexture name="DoorCloseFast0013" x="6282" y="2" width="1254" height="684" frameX="0" frameY="0" frameWidth="1254" frameHeight="718"/>
+	<SubTexture name="DoorCloseFast0014" x="6282" y="2" width="1254" height="684" frameX="0" frameY="0" frameWidth="1254" frameHeight="718"/>
+	<SubTexture name="DoorOpenFast0000" x="2" y="722" width="1253" height="685" frameX="0" frameY="0" frameWidth="1253" frameHeight="693"/>
+	<SubTexture name="DoorOpenFast0001" x="2" y="722" width="1253" height="685" frameX="0" frameY="0" frameWidth="1253" frameHeight="693"/>
+	<SubTexture name="DoorOpenFast0002" x="2" y="722" width="1253" height="685" frameX="0" frameY="0" frameWidth="1253" frameHeight="693"/>
+	<SubTexture name="DoorOpenFast0003" x="2" y="722" width="1253" height="685" frameX="0" frameY="0" frameWidth="1253" frameHeight="693"/>
+	<SubTexture name="DoorOpenFast0004" x="2" y="722" width="1253" height="685" frameX="0" frameY="0" frameWidth="1253" frameHeight="693"/>
+	<SubTexture name="DoorOpenFast0005" x="2" y="722" width="1253" height="685" frameX="0" frameY="0" frameWidth="1253" frameHeight="693"/>
+	<SubTexture name="DoorOpenFast0006" x="2" y="722" width="1253" height="685" frameX="0" frameY="0" frameWidth="1253" frameHeight="693"/>
+	<SubTexture name="DoorOpenFast0007" x="1257" y="722" width="1253" height="693"/>
+	<SubTexture name="DoorOpenFast0008" x="1257" y="722" width="1253" height="693"/>
+	<SubTexture name="DoorOpenFast0009" x="1257" y="722" width="1253" height="693"/>
+	<SubTexture name="DoorOpenFast0010" x="2512" y="722" width="1253" height="685" frameX="0" frameY="0" frameWidth="1253" frameHeight="693"/>
+	<SubTexture name="DoorOpenFast0011" x="2512" y="722" width="1253" height="685" frameX="0" frameY="0" frameWidth="1253" frameHeight="693"/>
+	<SubTexture name="DoorOpenFast0012" x="3767" y="722" width="1253" height="685" frameX="0" frameY="0" frameWidth="1253" frameHeight="693"/>
+	<SubTexture name="DoorOpenFast0013" x="3767" y="722" width="1253" height="685" frameX="0" frameY="0" frameWidth="1253" frameHeight="693"/>
+	<SubTexture name="DoorOpenFast0014" x="5022" y="722" width="1253" height="685" frameX="0" frameY="0" frameWidth="1253" frameHeight="693"/>
+	<SubTexture name="DoorOpenFast0015" x="5022" y="722" width="1253" height="685" frameX="0" frameY="0" frameWidth="1253" frameHeight="693"/>
+	<SubTexture name="DoorOpenFast0016" x="5022" y="722" width="1253" height="685" frameX="0" frameY="0" frameWidth="1253" frameHeight="693"/>
+	<SubTexture name="DoorOpenFast0017" x="5022" y="722" width="1253" height="685" frameX="0" frameY="0" frameWidth="1253" frameHeight="693"/>
+	<SubTexture name="DoorOpenFast0018" x="5022" y="722" width="1253" height="685" frameX="0" frameY="0" frameWidth="1253" frameHeight="693"/>
+	<SubTexture name="DoorOpenFast0019" x="5022" y="722" width="1253" height="685" frameX="0" frameY="0" frameWidth="1253" frameHeight="693"/>
+	<SubTexture name="DoorClosed0001" x="6282" y="2" width="1254" height="684" frameX="0" frameY="0" frameWidth="1254" frameHeight="718"/>
+	<SubTexture name="DoorOpenSlow0000" x="6277" y="722" width="1253" height="685" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0001" x="6277" y="722" width="1253" height="685" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0002" x="2" y="1417" width="1253" height="690" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0003" x="2" y="1417" width="1253" height="690" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0004" x="1257" y="1417" width="1253" height="695" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0005" x="1257" y="1417" width="1253" height="695" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0006" x="2512" y="1417" width="1253" height="699" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0007" x="2512" y="1417" width="1253" height="699" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0008" x="3767" y="1417" width="1253" height="704" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0009" x="3767" y="1417" width="1253" height="704" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0010" x="5022" y="1417" width="1253" height="709" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0011" x="5022" y="1417" width="1253" height="709" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0012" x="6277" y="1417" width="1253" height="714" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0013" x="6277" y="1417" width="1253" height="714" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0014" x="2" y="2133" width="1253" height="719" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0015" x="2" y="2133" width="1253" height="719" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0016" x="1257" y="2133" width="1253" height="723" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0017" x="1257" y="2133" width="1253" height="723" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0018" x="2512" y="2133" width="1253" height="728" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0019" x="2512" y="2133" width="1253" height="728" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0020" x="3767" y="2133" width="1253" height="733" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0021" x="3767" y="2133" width="1253" height="733" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0022" x="5022" y="2133" width="1253" height="738" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0023" x="5022" y="2133" width="1253" height="738" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0024" x="6277" y="2133" width="1253" height="743" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0025" x="2" y="2878" width="1253" height="745" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0026" x="2" y="2878" width="1253" height="745" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0027" x="1257" y="2878" width="1253" height="753" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0028" x="1257" y="2878" width="1253" height="753" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0029" x="2512" y="2878" width="1253" height="762" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0030" x="2512" y="2878" width="1253" height="762" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0031" x="3767" y="2878" width="1253" height="770" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0032" x="3767" y="2878" width="1253" height="770" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0033" x="5022" y="2878" width="1253" height="778" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0034" x="5022" y="2878" width="1253" height="778" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0035" x="6277" y="2878" width="1253" height="786" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0036" x="2" y="3666" width="1253" height="790"/>
+	<SubTexture name="DoorOpenSlow0037" x="2" y="3666" width="1253" height="790"/>
+	<SubTexture name="DoorOpenSlow0038" x="1257" y="3666" width="1253" height="787" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0039" x="1257" y="3666" width="1253" height="787" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0040" x="2512" y="3666" width="1253" height="783" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0041" x="2512" y="3666" width="1253" height="783" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0042" x="3767" y="3666" width="1253" height="780" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0043" x="3767" y="3666" width="1253" height="780" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0044" x="5022" y="3666" width="1253" height="776" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0045" x="5022" y="3666" width="1253" height="776" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0046" x="6277" y="3666" width="1253" height="773" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0047" x="6277" y="3666" width="1253" height="773" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0048" x="2" y="4458" width="1253" height="769" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0049" x="2" y="4458" width="1253" height="769" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0050" x="1257" y="4458" width="1253" height="766" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0051" x="1257" y="4458" width="1253" height="766" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0052" x="2512" y="4458" width="1253" height="715" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0053" x="2512" y="4458" width="1253" height="715" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0054" x="3767" y="4458" width="1253" height="677" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0055" x="3767" y="4458" width="1253" height="677" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0056" x="5022" y="4458" width="1253" height="681" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0057" x="5022" y="4458" width="1253" height="681" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0058" x="6277" y="4458" width="1253" height="686" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0059" x="6277" y="4458" width="1253" height="686" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0060" x="2" y="5229" width="1253" height="692" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0061" x="2" y="5229" width="1253" height="692" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0062" x="1257" y="5229" width="1253" height="697" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0063" x="1257" y="5229" width="1253" height="697" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0064" x="2512" y="5229" width="1253" height="702" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0065" x="2512" y="5229" width="1253" height="702" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0066" x="3767" y="5229" width="1253" height="708" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0067" x="3767" y="5229" width="1253" height="708" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0068" x="5022" y="5229" width="1253" height="710" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0069" x="5022" y="5229" width="1253" height="710" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0070" x="6277" y="5229" width="1253" height="713" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0071" x="2" y="5944" width="1253" height="714" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0072" x="1257" y="5944" width="1253" height="715" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0073" x="2512" y="5944" width="1253" height="716" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0074" x="2512" y="5944" width="1253" height="716" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0075" x="2512" y="5944" width="1253" height="716" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0076" x="2512" y="5944" width="1253" height="716" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+	<SubTexture name="DoorOpenSlow0077" x="2512" y="5944" width="1253" height="716" frameX="0" frameY="0" frameWidth="1253" frameHeight="790"/>
+</TextureAtlas>

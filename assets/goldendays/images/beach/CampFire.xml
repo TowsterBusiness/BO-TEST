@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CampFire.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Fire0000" x="10" y="10" width="199" height="181"/>
+	<SubTexture name="Fire0001" x="10" y="10" width="199" height="181"/>
+	<SubTexture name="Fire0002" x="219" y="10" width="199" height="181"/>
+	<SubTexture name="Fire0003" x="428" y="10" width="199" height="181"/>
+	<SubTexture name="Fire0004" x="637" y="10" width="199" height="181"/>
+	<SubTexture name="Fire0005" x="10" y="201" width="199" height="181"/>
+	<SubTexture name="Fire0006" x="219" y="201" width="199" height="181"/>
+	<SubTexture name="Fire0007" x="428" y="201" width="199" height="181"/>
+	<SubTexture name="Fire0008" x="637" y="201" width="199" height="181"/>
+	<SubTexture name="Fire0009" x="10" y="392" width="199" height="181"/>
+	<SubTexture name="Fire0010" x="219" y="392" width="199" height="181"/>
+	<SubTexture name="Fire0011" x="10" y="10" width="199" height="181"/>
+	<SubTexture name="Fire0012" x="428" y="392" width="199" height="181"/>
+	<SubTexture name="Fire0013" x="428" y="392" width="199" height="181"/>
+	<SubTexture name="Fire0014" x="10" y="10" width="199" height="181"/>
+	<SubTexture name="Fire0015" x="637" y="392" width="199" height="181"/>
+</TextureAtlas>

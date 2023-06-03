@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Scene1_2.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Scene1_20000" x="4" y="4" width="266" height="392"/>
+	<SubTexture name="Scene1_20001" x="4" y="4" width="266" height="392"/>
+	<SubTexture name="Scene1_20002" x="4" y="4" width="266" height="392"/>
+	<SubTexture name="Scene1_20003" x="282" y="4" width="266" height="392"/>
+	<SubTexture name="Scene1_20004" x="282" y="4" width="266" height="392"/>
+	<SubTexture name="Scene1_20005" x="560" y="4" width="266" height="392"/>
+	<SubTexture name="Scene1_20006" x="560" y="4" width="266" height="392"/>
+	<SubTexture name="Scene1_20007" x="838" y="4" width="266" height="392"/>
+	<SubTexture name="Scene1_20008" x="838" y="4" width="266" height="392"/>
+	<SubTexture name="Scene1_20009" x="838" y="4" width="266" height="392"/>
+	<SubTexture name="Scene1_20010" x="560" y="4" width="266" height="392"/>
+	<SubTexture name="Scene1_20011" x="560" y="4" width="266" height="392"/>
+	<SubTexture name="Scene1_20012" x="560" y="4" width="266" height="392"/>
+	<SubTexture name="Scene1_20013" x="838" y="4" width="266" height="392"/>
+	<SubTexture name="Scene1_20014" x="838" y="4" width="266" height="392"/>
+	<SubTexture name="Scene1_20015" x="838" y="4" width="266" height="392"/>
+	<SubTexture name="Scene1_20016" x="560" y="4" width="266" height="392"/>
+	<SubTexture name="Scene1_20017" x="560" y="4" width="266" height="392"/>
+	<SubTexture name="Scene1_20018" x="560" y="4" width="266" height="392"/>
+	<SubTexture name="Scene1_20019" x="838" y="4" width="266" height="392"/>
+	<SubTexture name="Scene1_20020" x="838" y="4" width="266" height="392"/>
+	<SubTexture name="Scene1_20021" x="838" y="4" width="266" height="392"/>
+	<SubTexture name="Scene1_20022" x="560" y="4" width="266" height="392"/>
+	<SubTexture name="Scene1_20023" x="560" y="4" width="266" height="392"/>
+	<SubTexture name="Scene1_20024" x="560" y="4" width="266" height="392"/>
+	<SubTexture name="Scene1_20025" x="838" y="4" width="266" height="392"/>
+	<SubTexture name="Scene1_20026" x="838" y="4" width="266" height="392"/>
+	<SubTexture name="Scene1_20027" x="838" y="4" width="266" height="392"/>
+	<SubTexture name="Scene1_20028" x="560" y="4" width="266" height="392"/>
+	<SubTexture name="Scene1_20029" x="560" y="4" width="266" height="392"/>
+	<SubTexture name="Scene1_20030" x="560" y="4" width="266" height="392"/>
+	<SubTexture name="Scene1_20031" x="838" y="4" width="266" height="392"/>
+	<SubTexture name="Scene1_20032" x="838" y="4" width="266" height="392"/>
+	<SubTexture name="Scene1_20033" x="838" y="4" width="266" height="392"/>
+</TextureAtlas>

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MidGround_Crowd.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Cameos_Claps0000" x="10" y="10" width="920" height="470"/>
+	<SubTexture name="Cameos_Claps0001" x="10" y="10" width="920" height="470"/>
+	<SubTexture name="Cameos_Claps0002" x="940" y="10" width="920" height="470"/>
+	<SubTexture name="Cameos_Claps0003" x="940" y="10" width="920" height="470"/>
+	<SubTexture name="Cameos_Claps0004" x="1870" y="10" width="920" height="470"/>
+	<SubTexture name="Cameos_Claps0005" x="1870" y="10" width="920" height="470"/>
+	<SubTexture name="Cameos_Claps0006" x="2800" y="10" width="920" height="470"/>
+	<SubTexture name="Cameos_Claps0007" x="2800" y="10" width="920" height="470"/>
+	<SubTexture name="Cameos_Claps0008" x="10" y="490" width="920" height="470"/>
+	<SubTexture name="Cameos_Claps0009" x="10" y="490" width="920" height="470"/>
+	<SubTexture name="Cameos_Claps0010" x="10" y="10" width="920" height="470"/>
+	<SubTexture name="Cameos_Claps0011" x="10" y="10" width="920" height="470"/>
+	<SubTexture name="Cameos_Claps0012" x="940" y="10" width="920" height="470"/>
+	<SubTexture name="Cameos_Claps0013" x="940" y="10" width="920" height="470"/>
+	<SubTexture name="Cameos_Claps0014" x="1870" y="10" width="920" height="470"/>
+	<SubTexture name="Cameos_Claps0015" x="1870" y="10" width="920" height="470"/>
+	<SubTexture name="Cameos_Claps0016" x="2800" y="10" width="920" height="470"/>
+	<SubTexture name="Cameos_Claps0017" x="2800" y="10" width="920" height="470"/>
+	<SubTexture name="Cameos_Claps0018" x="10" y="490" width="920" height="470"/>
+	<SubTexture name="Cameos_Claps0019" x="10" y="490" width="920" height="470"/>
+	<SubTexture name="Cameos_Claps0020" x="10" y="10" width="920" height="470"/>
+	<SubTexture name="Cameos_Claps0021" x="10" y="10" width="920" height="470"/>
+	<SubTexture name="Cameos_Claps0022" x="940" y="10" width="920" height="470"/>
+	<SubTexture name="Cameos_Claps0023" x="940" y="10" width="920" height="470"/>
+	<SubTexture name="Cameos_Claps0024" x="1870" y="10" width="920" height="470"/>
+	<SubTexture name="Cameos_Claps0025" x="1870" y="10" width="920" height="470"/>
+	<SubTexture name="Cameos_Claps0026" x="2800" y="10" width="920" height="470"/>
+	<SubTexture name="Cameos_Claps0027" x="2800" y="10" width="920" height="470"/>
+	<SubTexture name="Cameos_Claps0028" x="10" y="490" width="920" height="470"/>
+	<SubTexture name="Cameos_Claps0029" x="10" y="490" width="920" height="470"/>
+	<SubTexture name="Cameos_Sway0000" x="940" y="490" width="924" height="451"/>
+	<SubTexture name="Cameos_Sway0001" x="940" y="490" width="924" height="451"/>
+	<SubTexture name="Cameos_Sway0002" x="1874" y="490" width="924" height="451"/>
+	<SubTexture name="Cameos_Sway0003" x="1874" y="490" width="924" height="451"/>
+	<SubTexture name="Cameos_Sway0004" x="2808" y="490" width="924" height="451"/>
+	<SubTexture name="Cameos_Sway0005" x="2808" y="490" width="924" height="451"/>
+	<SubTexture name="Cameos_Sway0006" x="10" y="970" width="924" height="451"/>
+	<SubTexture name="Cameos_Sway0007" x="944" y="970" width="924" height="451"/>
+	<SubTexture name="Cameos_Sway0008" x="944" y="970" width="924" height="451"/>
+	<SubTexture name="Cameos_Sway0009" x="944" y="970" width="924" height="451"/>
+	<SubTexture name="Cameos_Sway0010" x="1878" y="970" width="924" height="451"/>
+	<SubTexture name="Cameos_Sway0011" x="1878" y="970" width="924" height="451"/>
+	<SubTexture name="Cameos_Sway0012" x="1878" y="970" width="924" height="451"/>
+	<SubTexture name="Cameos_Sway0013" x="2812" y="970" width="924" height="451"/>
+	<SubTexture name="Cameos_Sway0014" x="2812" y="970" width="924" height="451"/>
+	<SubTexture name="Cameos_Sway0015" x="10" y="1431" width="924" height="451"/>
+	<SubTexture name="Cameos_Sway0016" x="10" y="1431" width="924" height="451"/>
+	<SubTexture name="Cameos_Sway0017" x="944" y="1431" width="924" height="451"/>
+	<SubTexture name="Cameos_Sway0018" x="944" y="1431" width="924" height="451"/>
+	<SubTexture name="Cameos_Sway0019" x="1878" y="1431" width="924" height="451"/>
+	<SubTexture name="Cameos_Sway0020" x="1878" y="1431" width="924" height="451"/>
+	<SubTexture name="Cameos_Sway0021" x="2812" y="1431" width="924" height="451"/>
+	<SubTexture name="Cameos_Sway0022" x="10" y="1892" width="924" height="451"/>
+	<SubTexture name="Cameos_Sway0023" x="10" y="1892" width="924" height="451"/>
+	<SubTexture name="Cameos_Sway0024" x="10" y="1892" width="924" height="451"/>
+	<SubTexture name="Cameos_Sway0025" x="944" y="1892" width="924" height="451"/>
+	<SubTexture name="Cameos_Sway0026" x="944" y="1892" width="924" height="451"/>
+	<SubTexture name="Cameos_Sway0027" x="944" y="1892" width="924" height="451"/>
+	<SubTexture name="Cameos_Sway0028" x="1878" y="1892" width="924" height="451"/>
+	<SubTexture name="Cameos_Sway0029" x="1878" y="1892" width="924" height="451"/>
+</TextureAtlas>

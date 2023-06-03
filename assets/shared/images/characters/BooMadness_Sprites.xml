@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BooMadness_Sprites.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MadnessBooDown0000" x="0" y="0" width="603" height="766" frameX="-10" frameY="-42" frameWidth="613" frameHeight="810"/>
+	<SubTexture name="MadnessBooDown0001" x="0" y="0" width="603" height="766" frameX="-10" frameY="-42" frameWidth="613" frameHeight="810"/>
+	<SubTexture name="MadnessBooDown0002" x="703" y="0" width="609" height="797" frameX="-4" frameY="-12" frameWidth="613" frameHeight="810"/>
+	<SubTexture name="MadnessBooDown0003" x="703" y="0" width="609" height="797" frameX="-4" frameY="-12" frameWidth="613" frameHeight="810"/>
+	<SubTexture name="MadnessBooDown0004" x="1412" y="0" width="613" height="810"/>
+	<SubTexture name="MadnessBooDown0005" x="1412" y="0" width="613" height="810"/>
+	<SubTexture name="MadnessBooDown0006" x="2125" y="0" width="613" height="809" frameX="0" frameY="-1" frameWidth="613" frameHeight="810"/>
+	<SubTexture name="MadnessBooDown0007" x="2125" y="0" width="613" height="809" frameX="0" frameY="-1" frameWidth="613" frameHeight="810"/>
+	<SubTexture name="MadnessBooDown0008" x="2125" y="0" width="613" height="809" frameX="0" frameY="-1" frameWidth="613" frameHeight="810"/>
+	<SubTexture name="MadnessBooDown0009" x="2125" y="0" width="613" height="809" frameX="0" frameY="-1" frameWidth="613" frameHeight="810"/>
+	<SubTexture name="MadnessBooDown0010" x="2125" y="0" width="613" height="809" frameX="0" frameY="-1" frameWidth="613" frameHeight="810"/>
+	<SubTexture name="MadnessBooDown0011" x="2125" y="0" width="613" height="809" frameX="0" frameY="-1" frameWidth="613" frameHeight="810"/>
+	<SubTexture name="MadnessBooDown0012" x="2125" y="0" width="613" height="809" frameX="0" frameY="-1" frameWidth="613" frameHeight="810"/>
+	<SubTexture name="MadnessBooDown0013" x="2125" y="0" width="613" height="809" frameX="0" frameY="-1" frameWidth="613" frameHeight="810"/>
+	<SubTexture name="MadnessBooDown miss0000" x="2838" y="0" width="603" height="766" frameX="-49" frameY="-60" frameWidth="752" frameHeight="828"/>
+	<SubTexture name="MadnessBooDown miss0001" x="2838" y="0" width="603" height="766" frameX="-49" frameY="-60" frameWidth="752" frameHeight="828"/>
+	<SubTexture name="MadnessBooDown miss0002" x="3541" y="0" width="747" height="828" frameX="-5" frameY="0" frameWidth="752" frameHeight="828"/>
+	<SubTexture name="MadnessBooDown miss0003" x="3541" y="0" width="747" height="828" frameX="-5" frameY="0" frameWidth="752" frameHeight="828"/>
+	<SubTexture name="MadnessBooDown miss0004" x="4388" y="0" width="747" height="802" frameX="-2" frameY="-26" frameWidth="752" frameHeight="828"/>
+	<SubTexture name="MadnessBooDown miss0005" x="4388" y="0" width="747" height="802" frameX="-2" frameY="-26" frameWidth="752" frameHeight="828"/>
+	<SubTexture name="MadnessBooDown miss0006" x="5235" y="0" width="747" height="787" frameX="0" frameY="-41" frameWidth="752" frameHeight="828"/>
+	<SubTexture name="MadnessBooDown miss0007" x="5235" y="0" width="747" height="787" frameX="0" frameY="-41" frameWidth="752" frameHeight="828"/>
+	<SubTexture name="MadnessBooDown miss0008" x="5235" y="0" width="747" height="787" frameX="0" frameY="-41" frameWidth="752" frameHeight="828"/>
+	<SubTexture name="MadnessBooDown miss0009" x="5235" y="0" width="747" height="787" frameX="0" frameY="-41" frameWidth="752" frameHeight="828"/>
+	<SubTexture name="MadnessBooDown miss0010" x="5235" y="0" width="747" height="787" frameX="0" frameY="-41" frameWidth="752" frameHeight="828"/>
+	<SubTexture name="MadnessBooDown miss0011" x="5235" y="0" width="747" height="787" frameX="0" frameY="-41" frameWidth="752" frameHeight="828"/>
+	<SubTexture name="MadnessBooDown miss0012" x="5235" y="0" width="747" height="787" frameX="0" frameY="-41" frameWidth="752" frameHeight="828"/>
+	<SubTexture name="MadnessBooDown miss0013" x="5235" y="0" width="747" height="787" frameX="0" frameY="-41" frameWidth="752" frameHeight="828"/>
+	<SubTexture name="MadnessBooHit0000" x="6082" y="0" width="614" height="780" frameX="-34" frameY="-10" frameWidth="710" frameHeight="806"/>
+	<SubTexture name="MadnessBooHit0001" x="6796" y="0" width="615" height="760" frameX="-30" frameY="-30" frameWidth="710" frameHeight="806"/>
+	<SubTexture name="MadnessBooHit0002" x="7511" y="0" width="626" height="801" frameX="-51" frameY="-5" frameWidth="710" frameHeight="806"/>
+	<SubTexture name="MadnessBooHit0003" x="0" y="928" width="626" height="801" frameX="-51" frameY="-5" frameWidth="710" frameHeight="806"/>
+	<SubTexture name="MadnessBooHit0004" x="726" y="928" width="708" height="798" frameX="0" frameY="0" frameWidth="710" frameHeight="806"/>
+	<SubTexture name="MadnessBooHit0005" x="726" y="928" width="708" height="798" frameX="0" frameY="0" frameWidth="710" frameHeight="806"/>
+	<SubTexture name="MadnessBooHit0006" x="1534" y="928" width="687" height="798" frameX="-23" frameY="0" frameWidth="710" frameHeight="806"/>
+	<SubTexture name="MadnessBooHit0007" x="2321" y="928" width="687" height="798" frameX="-23" frameY="0" frameWidth="710" frameHeight="806"/>
+	<SubTexture name="MadnessBooHit0008" x="3108" y="928" width="671" height="798" frameX="-35" frameY="0" frameWidth="710" frameHeight="806"/>
+	<SubTexture name="MadnessBooHit0009" x="3879" y="928" width="671" height="798" frameX="-35" frameY="0" frameWidth="710" frameHeight="806"/>
+	<SubTexture name="MadnessBooHit0010" x="4650" y="928" width="671" height="798" frameX="-35" frameY="0" frameWidth="710" frameHeight="806"/>
+	<SubTexture name="MadnessBooHit0011" x="3108" y="928" width="671" height="798" frameX="-35" frameY="0" frameWidth="710" frameHeight="806"/>
+	<SubTexture name="MadnessBooHit0012" x="3879" y="928" width="671" height="798" frameX="-35" frameY="0" frameWidth="710" frameHeight="806"/>
+	<SubTexture name="MadnessBooHit0013" x="4650" y="928" width="671" height="798" frameX="-35" frameY="0" frameWidth="710" frameHeight="806"/>
+	<SubTexture name="MadnessBooHit0014" x="3108" y="928" width="671" height="798" frameX="-35" frameY="0" frameWidth="710" frameHeight="806"/>
+	<SubTexture name="MadnessBooHit0015" x="3879" y="928" width="671" height="798" frameX="-35" frameY="0" frameWidth="710" frameHeight="806"/>
+	<SubTexture name="MadnessBooHit0016" x="4650" y="928" width="671" height="798" frameX="-35" frameY="0" frameWidth="710" frameHeight="806"/>
+	<SubTexture name="MadnessBooHit0017" x="3108" y="928" width="671" height="798" frameX="-35" frameY="0" frameWidth="710" frameHeight="806"/>
+	<SubTexture name="MadnessBooHit0018" x="3879" y="928" width="671" height="798" frameX="-35" frameY="0" frameWidth="710" frameHeight="806"/>
+	<SubTexture name="MadnessBooHit0019" x="4650" y="928" width="671" height="798" frameX="-35" frameY="0" frameWidth="710" frameHeight="806"/>
+	<SubTexture name="MadnessBooHit0020" x="3108" y="928" width="671" height="798" frameX="-35" frameY="0" frameWidth="710" frameHeight="806"/>
+	<SubTexture name="MadnessBooHit0021" x="3879" y="928" width="671" height="798" frameX="-35" frameY="0" frameWidth="710" frameHeight="806"/>
+	<SubTexture name="MadnessBooHit0022" x="4650" y="928" width="671" height="798" frameX="-35" frameY="0" frameWidth="710" frameHeight="806"/>
+	<SubTexture name="MadnessBooHit0023" x="3108" y="928" width="671" height="798" frameX="-35" frameY="0" frameWidth="710" frameHeight="806"/>
+	<SubTexture name="MadnessBooHit0024" x="3879" y="928" width="671" height="798" frameX="-35" frameY="0" frameWidth="710" frameHeight="806"/>
+	<SubTexture name="MadnessBooHit0025" x="4650" y="928" width="671" height="798" frameX="-35" frameY="0" frameWidth="710" frameHeight="806"/>
+	<SubTexture name="MadnessBooIdle0000" x="5421" y="928" width="655" height="780" frameX="-3" frameY="-14" frameWidth="678" frameHeight="795"/>
+	<SubTexture name="MadnessBooIdle0001" x="5421" y="928" width="655" height="780" frameX="-3" frameY="-14" frameWidth="678" frameHeight="795"/>
+	<SubTexture name="MadnessBooIdle0002" x="6176" y="928" width="652" height="782" frameX="0" frameY="-12" frameWidth="678" frameHeight="795"/>
+	<SubTexture name="MadnessBooIdle0003" x="6176" y="928" width="652" height="782" frameX="0" frameY="-12" frameWidth="678" frameHeight="795"/>
+	<SubTexture name="MadnessBooIdle0004" x="6928" y="928" width="661" height="792" frameX="-7" frameY="-3" frameWidth="678" frameHeight="795"/>
+	<SubTexture name="MadnessBooIdle0005" x="6928" y="928" width="661" height="792" frameX="-7" frameY="-3" frameWidth="678" frameHeight="795"/>
+	<SubTexture name="MadnessBooIdle0006" x="0" y="1829" width="663" height="795" frameX="-14" frameY="0" frameWidth="678" frameHeight="795"/>
+	<SubTexture name="MadnessBooIdle0007" x="0" y="1829" width="663" height="795" frameX="-14" frameY="0" frameWidth="678" frameHeight="795"/>
+	<SubTexture name="MadnessBooIdle0008" x="763" y="1829" width="664" height="795" frameX="-14" frameY="0" frameWidth="678" frameHeight="795"/>
+	<SubTexture name="MadnessBooIdle0009" x="763" y="1829" width="664" height="795" frameX="-14" frameY="0" frameWidth="678" frameHeight="795"/>
+	<SubTexture name="MadnessBooIdle0010" x="1527" y="1829" width="664" height="795" frameX="-14" frameY="0" frameWidth="678" frameHeight="795"/>
+	<SubTexture name="MadnessBooIdle0011" x="1527" y="1829" width="664" height="795" frameX="-14" frameY="0" frameWidth="678" frameHeight="795"/>
+	<SubTexture name="MadnessBooIdle0012" x="1527" y="1829" width="664" height="795" frameX="-14" frameY="0" frameWidth="678" frameHeight="795"/>
+	<SubTexture name="MadnessBooIdle0013" x="1527" y="1829" width="664" height="795" frameX="-14" frameY="0" frameWidth="678" frameHeight="795"/>
+	<SubTexture name="MadnessBooLeft0000" x="2291" y="1829" width="582" height="770" frameX="0" frameY="-4" frameWidth="585" frameHeight="774"/>
+	<SubTexture name="MadnessBooLeft0001" x="2291" y="1829" width="582" height="770" frameX="0" frameY="-4" frameWidth="585" frameHeight="774"/>
+	<SubTexture name="MadnessBooLeft0002" x="2973" y="1829" width="581" height="774" frameX="-3" frameY="0" frameWidth="585" frameHeight="774"/>
+	<SubTexture name="MadnessBooLeft0003" x="2973" y="1829" width="581" height="774" frameX="-3" frameY="0" frameWidth="585" frameHeight="774"/>
+	<SubTexture name="MadnessBooLeft0004" x="3654" y="1829" width="581" height="774" frameX="-4" frameY="0" frameWidth="585" frameHeight="774"/>
+	<SubTexture name="MadnessBooLeft0005" x="3654" y="1829" width="581" height="774" frameX="-4" frameY="0" frameWidth="585" frameHeight="774"/>
+	<SubTexture name="MadnessBooLeft0006" x="4335" y="1829" width="581" height="774" frameX="-4" frameY="0" frameWidth="585" frameHeight="774"/>
+	<SubTexture name="MadnessBooLeft0007" x="4335" y="1829" width="581" height="774" frameX="-4" frameY="0" frameWidth="585" frameHeight="774"/>
+	<SubTexture name="MadnessBooLeft0008" x="4335" y="1829" width="581" height="774" frameX="-4" frameY="0" frameWidth="585" frameHeight="774"/>
+	<SubTexture name="MadnessBooLeft0009" x="4335" y="1829" width="581" height="774" frameX="-4" frameY="0" frameWidth="585" frameHeight="774"/>
+	<SubTexture name="MadnessBooLeft0010" x="4335" y="1829" width="581" height="774" frameX="-4" frameY="0" frameWidth="585" frameHeight="774"/>
+	<SubTexture name="MadnessBooLeft0011" x="4335" y="1829" width="581" height="774" frameX="-4" frameY="0" frameWidth="585" frameHeight="774"/>
+	<SubTexture name="MadnessBooLeft0012" x="4335" y="1829" width="581" height="774" frameX="-4" frameY="0" frameWidth="585" frameHeight="774"/>
+	<SubTexture name="MadnessBooLeft0013" x="4335" y="1829" width="581" height="774" frameX="-4" frameY="0" frameWidth="585" frameHeight="774"/>
+	<SubTexture name="MadnessBooLeft miss0000" x="2291" y="1829" width="582" height="770" frameX="0" frameY="-4" frameWidth="585" frameHeight="774"/>
+	<SubTexture name="MadnessBooLeft miss0001" x="2291" y="1829" width="582" height="770" frameX="0" frameY="-4" frameWidth="585" frameHeight="774"/>
+	<SubTexture name="MadnessBooLeft miss0002" x="5016" y="1829" width="584" height="774" frameX="-8" frameY="0" frameWidth="592" frameHeight="774"/>
+	<SubTexture name="MadnessBooLeft miss0003" x="5016" y="1829" width="584" height="774" frameX="-8" frameY="0" frameWidth="592" frameHeight="774"/>
+	<SubTexture name="MadnessBooLeft miss0004" x="5700" y="1829" width="581" height="774" frameX="-4" frameY="0" frameWidth="592" frameHeight="774"/>
+	<SubTexture name="MadnessBooLeft miss0005" x="5700" y="1829" width="581" height="774" frameX="-4" frameY="0" frameWidth="592" frameHeight="774"/>
+	<SubTexture name="MadnessBooLeft miss0006" x="5700" y="1829" width="581" height="774" frameX="-4" frameY="0" frameWidth="592" frameHeight="774"/>
+	<SubTexture name="MadnessBooLeft miss0007" x="5700" y="1829" width="581" height="774" frameX="-4" frameY="0" frameWidth="592" frameHeight="774"/>
+	<SubTexture name="MadnessBooLeft miss0008" x="5700" y="1829" width="581" height="774" frameX="-4" frameY="0" frameWidth="592" frameHeight="774"/>
+	<SubTexture name="MadnessBooLeft miss0009" x="5700" y="1829" width="581" height="774" frameX="-4" frameY="0" frameWidth="592" frameHeight="774"/>
+	<SubTexture name="MadnessBooLeft miss0010" x="5700" y="1829" width="581" height="774" frameX="-4" frameY="0" frameWidth="592" frameHeight="774"/>
+	<SubTexture name="MadnessBooLeft miss0011" x="5700" y="1829" width="581" height="774" frameX="-4" frameY="0" frameWidth="592" frameHeight="774"/>
+	<SubTexture name="MadnessBooLeft miss0012" x="5700" y="1829" width="581" height="774" frameX="-4" frameY="0" frameWidth="592" frameHeight="774"/>
+	<SubTexture name="MadnessBooLeft miss0013" x="5700" y="1829" width="581" height="774" frameX="-4" frameY="0" frameWidth="592" frameHeight="774"/>
+	<SubTexture name="MadnessBooRight0000" x="6381" y="1829" width="589" height="795" frameX="-4" frameY="-12" frameWidth="612" frameHeight="807"/>
+	<SubTexture name="MadnessBooRight0001" x="6381" y="1829" width="589" height="795" frameX="-4" frameY="-12" frameWidth="612" frameHeight="807"/>
+	<SubTexture name="MadnessBooRight0002" x="7070" y="1829" width="600" height="805" frameX="-1" frameY="-2" frameWidth="612" frameHeight="807"/>
+	<SubTexture name="MadnessBooRight0003" x="7070" y="1829" width="600" height="805" frameX="-1" frameY="-2" frameWidth="612" frameHeight="807"/>
+	<SubTexture name="MadnessBooRight0004" x="0" y="2734" width="612" height="807"/>
+	<SubTexture name="MadnessBooRight0005" x="0" y="2734" width="612" height="807"/>
+	<SubTexture name="MadnessBooRight0006" x="712" y="2734" width="608" height="805" frameX="0" frameY="-2" frameWidth="612" frameHeight="807"/>
+	<SubTexture name="MadnessBooRight0007" x="712" y="2734" width="608" height="805" frameX="0" frameY="-2" frameWidth="612" frameHeight="807"/>
+	<SubTexture name="MadnessBooRight0008" x="712" y="2734" width="608" height="805" frameX="0" frameY="-2" frameWidth="612" frameHeight="807"/>
+	<SubTexture name="MadnessBooRight0009" x="712" y="2734" width="608" height="805" frameX="0" frameY="-2" frameWidth="612" frameHeight="807"/>
+	<SubTexture name="MadnessBooRight0010" x="712" y="2734" width="608" height="805" frameX="0" frameY="-2" frameWidth="612" frameHeight="807"/>
+	<SubTexture name="MadnessBooRight0011" x="712" y="2734" width="608" height="805" frameX="0" frameY="-2" frameWidth="612" frameHeight="807"/>
+	<SubTexture name="MadnessBooRight0012" x="712" y="2734" width="608" height="805" frameX="0" frameY="-2" frameWidth="612" frameHeight="807"/>
+	<SubTexture name="MadnessBooRight0013" x="712" y="2734" width="608" height="805" frameX="0" frameY="-2" frameWidth="612" frameHeight="807"/>
+	<SubTexture name="MadnessBooRight miss0000" x="6381" y="1829" width="589" height="795" frameX="-6" frameY="-10" frameWidth="612" frameHeight="807"/>
+	<SubTexture name="MadnessBooRight miss0001" x="6381" y="1829" width="589" height="795" frameX="-6" frameY="-10" frameWidth="612" frameHeight="807"/>
+	<SubTexture name="MadnessBooRight miss0002" x="1420" y="2734" width="608" height="805" frameX="-2" frameY="0" frameWidth="610" frameHeight="805"/>
+	<SubTexture name="MadnessBooRight miss0003" x="1420" y="2734" width="608" height="805" frameX="-2" frameY="0" frameWidth="610" frameHeight="805"/>
+	<SubTexture name="MadnessBooRight miss0004" x="2128" y="2734" width="598" height="799" frameX="0" frameY="-6" frameWidth="610" frameHeight="805"/>
+	<SubTexture name="MadnessBooRight miss0005" x="2128" y="2734" width="598" height="799" frameX="0" frameY="-6" frameWidth="610" frameHeight="805"/>
+	<SubTexture name="MadnessBooRight miss0006" x="2128" y="2734" width="598" height="799" frameX="0" frameY="-6" frameWidth="610" frameHeight="805"/>
+	<SubTexture name="MadnessBooRight miss0007" x="2128" y="2734" width="598" height="799" frameX="0" frameY="-6" frameWidth="610" frameHeight="805"/>
+	<SubTexture name="MadnessBooRight miss0008" x="2128" y="2734" width="598" height="799" frameX="0" frameY="-6" frameWidth="610" frameHeight="805"/>
+	<SubTexture name="MadnessBooRight miss0009" x="2128" y="2734" width="598" height="799" frameX="0" frameY="-6" frameWidth="610" frameHeight="805"/>
+	<SubTexture name="MadnessBooRight miss0010" x="2128" y="2734" width="598" height="799" frameX="0" frameY="-6" frameWidth="610" frameHeight="805"/>
+	<SubTexture name="MadnessBooRight miss0011" x="2128" y="2734" width="598" height="799" frameX="0" frameY="-6" frameWidth="610" frameHeight="805"/>
+	<SubTexture name="MadnessBooRight miss0012" x="2128" y="2734" width="598" height="799" frameX="0" frameY="-6" frameWidth="610" frameHeight="805"/>
+	<SubTexture name="MadnessBooRight miss0013" x="2128" y="2734" width="598" height="799" frameX="0" frameY="-6" frameWidth="610" frameHeight="805"/>
+	<SubTexture name="MadnessBooUp0000" x="2826" y="2734" width="573" height="824" frameX="0" frameY="0" frameWidth="594" frameHeight="824"/>
+	<SubTexture name="MadnessBooUp0001" x="2826" y="2734" width="573" height="824" frameX="0" frameY="0" frameWidth="594" frameHeight="824"/>
+	<SubTexture name="MadnessBooUp0002" x="3499" y="2734" width="589" height="798" frameX="0" frameY="-25" frameWidth="594" frameHeight="824"/>
+	<SubTexture name="MadnessBooUp0003" x="3499" y="2734" width="589" height="798" frameX="0" frameY="-25" frameWidth="594" frameHeight="824"/>
+	<SubTexture name="MadnessBooUp0004" x="4188" y="2734" width="591" height="796" frameX="0" frameY="-28" frameWidth="594" frameHeight="824"/>
+	<SubTexture name="MadnessBooUp0005" x="4188" y="2734" width="591" height="796" frameX="0" frameY="-28" frameWidth="594" frameHeight="824"/>
+	<SubTexture name="MadnessBooUp0006" x="4879" y="2734" width="594" height="797" frameX="0" frameY="-27" frameWidth="594" frameHeight="824"/>
+	<SubTexture name="MadnessBooUp0007" x="4879" y="2734" width="594" height="797" frameX="0" frameY="-27" frameWidth="594" frameHeight="824"/>
+	<SubTexture name="MadnessBooUp0008" x="5573" y="2734" width="594" height="797" frameX="0" frameY="-27" frameWidth="594" frameHeight="824"/>
+	<SubTexture name="MadnessBooUp0009" x="5573" y="2734" width="594" height="797" frameX="0" frameY="-27" frameWidth="594" frameHeight="824"/>
+	<SubTexture name="MadnessBooUp0010" x="5573" y="2734" width="594" height="797" frameX="0" frameY="-27" frameWidth="594" frameHeight="824"/>
+	<SubTexture name="MadnessBooUp0011" x="5573" y="2734" width="594" height="797" frameX="0" frameY="-27" frameWidth="594" frameHeight="824"/>
+	<SubTexture name="MadnessBooUp0012" x="5573" y="2734" width="594" height="797" frameX="0" frameY="-27" frameWidth="594" frameHeight="824"/>
+	<SubTexture name="MadnessBooUp0013" x="5573" y="2734" width="594" height="797" frameX="0" frameY="-27" frameWidth="594" frameHeight="824"/>
+	<SubTexture name="MadnessBooUp miss0000" x="2826" y="2734" width="573" height="824" frameX="0" frameY="0" frameWidth="594" frameHeight="824"/>
+	<SubTexture name="MadnessBooUp miss0001" x="2826" y="2734" width="573" height="824" frameX="0" frameY="0" frameWidth="594" frameHeight="824"/>
+	<SubTexture name="MadnessBooUp miss0002" x="6267" y="2734" width="586" height="774" frameX="0" frameY="-50" frameWidth="594" frameHeight="824"/>
+	<SubTexture name="MadnessBooUp miss0003" x="6267" y="2734" width="586" height="774" frameX="0" frameY="-50" frameWidth="594" frameHeight="824"/>
+	<SubTexture name="MadnessBooUp miss0004" x="6953" y="2734" width="594" height="797" frameX="0" frameY="-27" frameWidth="594" frameHeight="824"/>
+	<SubTexture name="MadnessBooUp miss0005" x="6953" y="2734" width="594" height="797" frameX="0" frameY="-27" frameWidth="594" frameHeight="824"/>
+	<SubTexture name="MadnessBooUp miss0006" x="6953" y="2734" width="594" height="797" frameX="0" frameY="-27" frameWidth="594" frameHeight="824"/>
+	<SubTexture name="MadnessBooUp miss0007" x="6953" y="2734" width="594" height="797" frameX="0" frameY="-27" frameWidth="594" frameHeight="824"/>
+	<SubTexture name="MadnessBooUp miss0008" x="6953" y="2734" width="594" height="797" frameX="0" frameY="-27" frameWidth="594" frameHeight="824"/>
+	<SubTexture name="MadnessBooUp miss0009" x="6953" y="2734" width="594" height="797" frameX="0" frameY="-27" frameWidth="594" frameHeight="824"/>
+	<SubTexture name="MadnessBooUp miss0010" x="6953" y="2734" width="594" height="797" frameX="0" frameY="-27" frameWidth="594" frameHeight="824"/>
+	<SubTexture name="MadnessBooUp miss0011" x="6953" y="2734" width="594" height="797" frameX="0" frameY="-27" frameWidth="594" frameHeight="824"/>
+	<SubTexture name="MadnessBooUp miss0012" x="6953" y="2734" width="594" height="797" frameX="0" frameY="-27" frameWidth="594" frameHeight="824"/>
+	<SubTexture name="MadnessBooUp miss0013" x="6953" y="2734" width="594" height="797" frameX="0" frameY="-27" frameWidth="594" frameHeight="824"/>
+</TextureAtlas>

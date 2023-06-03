@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Cut 2.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Cut 20000" x="1" y="1" width="1117" height="1039"/>
+	<SubTexture name="Cut 20001" x="1" y="1" width="1117" height="1039"/>
+	<SubTexture name="Cut 20002" x="1" y="1" width="1117" height="1039"/>
+	<SubTexture name="Cut 20003" x="1" y="1" width="1117" height="1039"/>
+	<SubTexture name="Cut 20004" x="1" y="1" width="1117" height="1039"/>
+	<SubTexture name="Cut 20005" x="1123" y="1" width="1117" height="1039"/>
+	<SubTexture name="Cut 20006" x="1123" y="1" width="1117" height="1039"/>
+	<SubTexture name="Cut 20007" x="1123" y="1" width="1117" height="1039"/>
+	<SubTexture name="Cut 20008" x="1123" y="1" width="1117" height="1039"/>
+	<SubTexture name="Cut 20009" x="1123" y="1" width="1117" height="1039"/>
+	<SubTexture name="Cut 20010" x="1123" y="1" width="1117" height="1039"/>
+	<SubTexture name="Cut 20011" x="1123" y="1" width="1117" height="1039"/>
+	<SubTexture name="Cut 20012" x="1" y="1" width="1117" height="1039"/>
+	<SubTexture name="Cut 20013" x="1" y="1" width="1117" height="1039"/>
+	<SubTexture name="Cut 20014" x="1" y="1" width="1117" height="1039"/>
+	<SubTexture name="Cut 20015" x="1" y="1" width="1117" height="1039"/>
+	<SubTexture name="Cut 20016" x="1" y="1" width="1117" height="1039"/>
+	<SubTexture name="Cut 20017" x="1" y="1" width="1117" height="1039"/>
+	<SubTexture name="Cut 20018" x="1" y="1" width="1117" height="1039"/>
+</TextureAtlas>

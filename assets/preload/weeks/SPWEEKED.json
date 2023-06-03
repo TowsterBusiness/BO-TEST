@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["poignant-comfort", "ghost", [0, 65, 242]],
+		["tricks", "biggs", [11, 177, 0]],
+		["treats", "daisy", [255, 100, 0]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "Spweeked",
+
+	"storyName": "Trick or Treat",
+	"weekBefore": "tutorial",
+	"weekName": "Spweeked",
+	"startUnlocked": true,
+
+	"hideFreeplay": false,
+	"hideStoryMode": false
+}

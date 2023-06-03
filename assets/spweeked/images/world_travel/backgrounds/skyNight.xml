@@ -1,0 +1,8 @@
+﻿<TextureAtlas imagePath="skyNight.png">
+	<SubTexture name="skyNight0000" x="1" y="1" width="1410" height="779"/>
+	<SubTexture name="skyNight0001" x="1" y="1" width="1410" height="779"/>
+	<SubTexture name="skyNight0002" x="1" y="782" width="1410" height="779"/>
+	<SubTexture name="skyNight0003" x="1" y="782" width="1410" height="779"/>
+	<SubTexture name="skyNight0004" x="1" y="1563" width="1410" height="779"/>
+	<SubTexture name="skyNight0005" x="1" y="1563" width="1410" height="779"/>
+</TextureAtlas>

@@ -1,0 +1,67 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "DaisyStill0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "NOTICE",
+			"indices": [],
+			"name": "DaisyNotice0"
+		},
+		{
+			"offsets": [
+				13,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "LOOKUP",
+			"indices": [],
+			"name": "DaisyLook0"
+		},
+		{
+			"offsets": [
+				5,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "LOOKUPSTILL",
+			"indices": [],
+			"name": "DaisyLookUpStill0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DaisySit",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "daisy",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		100,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

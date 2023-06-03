@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "BB2ded0"
+		},
+		{
+			"offsets": [
+				-42,
+				-2
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "BB2ded loop0"
+		},
+		{
+			"offsets": [
+				-41,
+				135
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "BB2ded confirm0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BiggsBuggs_DoubleDed",
+	"position": [
+		0,
+		310
+	],
+	"healthicon": "biggs",
+	"flip_x": true,
+	"healthbar_colors": [
+		11,
+		177,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

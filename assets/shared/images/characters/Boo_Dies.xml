@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Boo_Dies.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Boo Double Died0000" x="100" y="100" width="143" height="172" frameX="-20" frameY="-11" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0001" x="343" y="100" width="144" height="174" frameX="-20" frameY="-9" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0002" x="587" y="100" width="164" height="160" frameX="0" frameY="-9" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0003" x="851" y="100" width="165" height="160" frameX="0" frameY="-9" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0004" x="1116" y="100" width="163" height="161" frameX="-2" frameY="-9" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0005" x="1379" y="100" width="163" height="161" frameX="-2" frameY="-9" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0006" x="1642" y="100" width="163" height="160" frameX="-2" frameY="-9" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0007" x="1905" y="100" width="143" height="144" frameX="-2" frameY="-25" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0008" x="1905" y="100" width="143" height="144" frameX="-2" frameY="-25" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0009" x="1905" y="100" width="143" height="144" frameX="-2" frameY="-25" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0010" x="1905" y="100" width="143" height="144" frameX="-2" frameY="-25" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0011" x="1905" y="100" width="143" height="144" frameX="-2" frameY="-25" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0012" x="1905" y="100" width="143" height="144" frameX="-2" frameY="-25" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0013" x="2148" y="100" width="143" height="144" frameX="-2" frameY="-25" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0014" x="2148" y="100" width="143" height="144" frameX="-2" frameY="-25" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0015" x="2391" y="100" width="143" height="144" frameX="-2" frameY="-25" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0016" x="2391" y="100" width="143" height="144" frameX="-2" frameY="-25" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0017" x="2634" y="100" width="143" height="144" frameX="-2" frameY="-25" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0018" x="2634" y="100" width="143" height="144" frameX="-2" frameY="-25" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0019" x="2877" y="100" width="143" height="144" frameX="-2" frameY="-25" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0020" x="2877" y="100" width="143" height="144" frameX="-2" frameY="-25" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0021" x="3120" y="100" width="143" height="144" frameX="-2" frameY="-25" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0022" x="3120" y="100" width="143" height="144" frameX="-2" frameY="-25" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0023" x="3363" y="100" width="143" height="144" frameX="-2" frameY="-25" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0024" x="3363" y="100" width="143" height="144" frameX="-2" frameY="-25" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0025" x="3606" y="100" width="143" height="144" frameX="-2" frameY="-25" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0026" x="3606" y="100" width="143" height="144" frameX="-2" frameY="-25" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0027" x="3120" y="100" width="143" height="144" frameX="-2" frameY="-25" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0028" x="3120" y="100" width="143" height="144" frameX="-2" frameY="-25" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0029" x="3363" y="100" width="143" height="144" frameX="-2" frameY="-25" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0030" x="3363" y="100" width="143" height="144" frameX="-2" frameY="-25" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0031" x="3606" y="100" width="143" height="144" frameX="-2" frameY="-25" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0032" x="3849" y="100" width="143" height="144" frameX="-2" frameY="-25" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0033" x="100" y="374" width="143" height="144" frameX="-2" frameY="-25" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0034" x="343" y="374" width="143" height="156" frameX="-2" frameY="-13" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0035" x="586" y="374" width="143" height="156" frameX="-2" frameY="-13" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0036" x="829" y="374" width="143" height="161" frameX="-2" frameY="-8" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0037" x="1072" y="374" width="143" height="161" frameX="-2" frameY="-8" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0038" x="1315" y="374" width="143" height="167" frameX="-2" frameY="-2" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0039" x="1558" y="374" width="143" height="167" frameX="-2" frameY="-2" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0040" x="1801" y="374" width="143" height="168" frameX="-2" frameY="-1" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0041" x="2044" y="374" width="143" height="168" frameX="-2" frameY="-1" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0042" x="2287" y="374" width="143" height="168" frameX="-2" frameY="-1" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0043" x="2530" y="374" width="143" height="168" frameX="-2" frameY="-1" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0044" x="2773" y="374" width="143" height="169" frameX="-2" frameY="0" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0045" x="3016" y="374" width="143" height="169" frameX="-2" frameY="0" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0046" x="3259" y="374" width="143" height="168" frameX="-2" frameY="-1" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0047" x="3502" y="374" width="143" height="168" frameX="-2" frameY="-1" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0048" x="3745" y="374" width="143" height="168" frameX="-2" frameY="-1" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0049" x="100" y="643" width="143" height="168" frameX="-2" frameY="-1" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0050" x="343" y="643" width="143" height="168" frameX="-2" frameY="-1" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0051" x="586" y="643" width="143" height="168" frameX="-2" frameY="-1" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0052" x="829" y="643" width="143" height="168" frameX="-2" frameY="-1" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0053" x="1072" y="643" width="143" height="168" frameX="-2" frameY="-1" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0054" x="1315" y="643" width="143" height="168" frameX="-2" frameY="-1" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0055" x="343" y="643" width="143" height="168" frameX="-2" frameY="-1" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0056" x="1558" y="643" width="143" height="168" frameX="-2" frameY="-1" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0057" x="1801" y="643" width="143" height="168" frameX="-2" frameY="-1" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0058" x="829" y="643" width="143" height="168" frameX="-2" frameY="-1" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0059" x="1072" y="643" width="143" height="168" frameX="-2" frameY="-1" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0060" x="1315" y="643" width="143" height="168" frameX="-2" frameY="-1" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0061" x="343" y="643" width="143" height="168" frameX="-2" frameY="-1" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0062" x="1558" y="643" width="143" height="168" frameX="-2" frameY="-1" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0063" x="1801" y="643" width="143" height="168" frameX="-2" frameY="-1" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0064" x="829" y="643" width="143" height="168" frameX="-2" frameY="-1" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0065" x="1072" y="643" width="143" height="168" frameX="-2" frameY="-1" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0066" x="1315" y="643" width="143" height="168" frameX="-2" frameY="-1" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0067" x="343" y="643" width="143" height="168" frameX="-2" frameY="-1" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0068" x="1558" y="643" width="143" height="168" frameX="-2" frameY="-1" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0069" x="1801" y="643" width="143" height="168" frameX="-2" frameY="-1" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0070" x="829" y="643" width="143" height="168" frameX="-2" frameY="-1" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0071" x="1072" y="643" width="143" height="168" frameX="-2" frameY="-1" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0072" x="1315" y="643" width="143" height="168" frameX="-2" frameY="-1" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0073" x="343" y="643" width="143" height="168" frameX="-2" frameY="-1" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died0074" x="1558" y="643" width="143" height="168" frameX="-2" frameY="-1" frameWidth="165" frameHeight="183"/>
+	<SubTexture name="Boo Double Died Loop0000" x="2044" y="643" width="143" height="168"/>
+	<SubTexture name="Boo Double Died Loop0001" x="2287" y="643" width="143" height="168"/>
+	<SubTexture name="Boo Double Died Loop0002" x="2530" y="643" width="143" height="168"/>
+	<SubTexture name="Boo Double Died Loop0003" x="2773" y="643" width="143" height="168"/>
+	<SubTexture name="Boo Double Died Loop0004" x="3016" y="643" width="143" height="168"/>
+	<SubTexture name="Boo Double Died Loop0005" x="3259" y="643" width="143" height="168"/>
+	<SubTexture name="Boo Doudle Dies confirm0000" x="3502" y="643" width="154" height="223" frameX="-49" frameY="-66" frameWidth="267" frameHeight="290"/>
+	<SubTexture name="Boo Doudle Dies confirm0001" x="3756" y="643" width="174" height="289" frameX="-49" frameY="0" frameWidth="267" frameHeight="290"/>
+	<SubTexture name="Boo Doudle Dies confirm0002" x="100" y="1032" width="174" height="266" frameX="-49" frameY="-23" frameWidth="267" frameHeight="290"/>
+	<SubTexture name="Boo Doudle Dies confirm0003" x="374" y="1032" width="188" height="266" frameX="-39" frameY="-23" frameWidth="267" frameHeight="290"/>
+	<SubTexture name="Boo Doudle Dies confirm0004" x="662" y="1032" width="191" height="259" frameX="-38" frameY="-30" frameWidth="267" frameHeight="290"/>
+	<SubTexture name="Boo Doudle Dies confirm0005" x="953" y="1032" width="208" height="256" frameX="-27" frameY="-33" frameWidth="267" frameHeight="290"/>
+	<SubTexture name="Boo Doudle Dies confirm0006" x="1261" y="1032" width="199" height="196" frameX="-34" frameY="-92" frameWidth="267" frameHeight="290"/>
+	<SubTexture name="Boo Doudle Dies confirm0007" x="1560" y="1032" width="202" height="196" frameX="-32" frameY="-92" frameWidth="267" frameHeight="290"/>
+	<SubTexture name="Boo Doudle Dies confirm0008" x="1862" y="1032" width="206" height="195" frameX="-30" frameY="-93" frameWidth="267" frameHeight="290"/>
+	<SubTexture name="Boo Doudle Dies confirm0009" x="2168" y="1032" width="209" height="195" frameX="-29" frameY="-93" frameWidth="267" frameHeight="290"/>
+	<SubTexture name="Boo Doudle Dies confirm0010" x="2477" y="1032" width="212" height="194" frameX="-27" frameY="-94" frameWidth="267" frameHeight="290"/>
+	<SubTexture name="Boo Doudle Dies confirm0011" x="2789" y="1032" width="216" height="194" frameX="-25" frameY="-94" frameWidth="267" frameHeight="290"/>
+	<SubTexture name="Boo Doudle Dies confirm0012" x="3105" y="1032" width="218" height="194" frameX="-24" frameY="-94" frameWidth="267" frameHeight="290"/>
+	<SubTexture name="Boo Doudle Dies confirm0013" x="3423" y="1032" width="222" height="193" frameX="-22" frameY="-95" frameWidth="267" frameHeight="290"/>
+	<SubTexture name="Boo Doudle Dies confirm0014" x="3745" y="1032" width="224" height="193" frameX="-21" frameY="-95" frameWidth="267" frameHeight="290"/>
+	<SubTexture name="Boo Doudle Dies confirm0015" x="100" y="1398" width="227" height="193" frameX="-20" frameY="-95" frameWidth="267" frameHeight="290"/>
+	<SubTexture name="Boo Doudle Dies confirm0016" x="427" y="1398" width="230" height="192" frameX="-18" frameY="-96" frameWidth="267" frameHeight="290"/>
+	<SubTexture name="Boo Doudle Dies confirm0017" x="757" y="1398" width="232" height="192" frameX="-17" frameY="-96" frameWidth="267" frameHeight="290"/>
+	<SubTexture name="Boo Doudle Dies confirm0018" x="1089" y="1398" width="235" height="190" frameX="-16" frameY="-96" frameWidth="267" frameHeight="290"/>
+	<SubTexture name="Boo Doudle Dies confirm0019" x="1424" y="1398" width="238" height="189" frameX="-14" frameY="-97" frameWidth="267" frameHeight="290"/>
+	<SubTexture name="Boo Doudle Dies confirm0020" x="1762" y="1398" width="240" height="192" frameX="-13" frameY="-97" frameWidth="267" frameHeight="290"/>
+	<SubTexture name="Boo Doudle Dies confirm0021" x="2102" y="1398" width="242" height="192" frameX="-12" frameY="-97" frameWidth="267" frameHeight="290"/>
+	<SubTexture name="Boo Doudle Dies confirm0022" x="2444" y="1398" width="244" height="193" frameX="-11" frameY="-97" frameWidth="267" frameHeight="290"/>
+	<SubTexture name="Boo Doudle Dies confirm0023" x="2788" y="1398" width="246" height="192" frameX="-10" frameY="-98" frameWidth="267" frameHeight="290"/>
+	<SubTexture name="Boo Doudle Dies confirm0024" x="3134" y="1398" width="248" height="192" frameX="-9" frameY="-98" frameWidth="267" frameHeight="290"/>
+	<SubTexture name="Boo Doudle Dies confirm0025" x="3482" y="1398" width="250" height="192" frameX="-8" frameY="-98" frameWidth="267" frameHeight="290"/>
+	<SubTexture name="Boo Doudle Dies confirm0026" x="100" y="1691" width="252" height="192" frameX="-7" frameY="-98" frameWidth="267" frameHeight="290"/>
+	<SubTexture name="Boo Doudle Dies confirm0027" x="452" y="1691" width="254" height="191" frameX="-6" frameY="-99" frameWidth="267" frameHeight="290"/>
+	<SubTexture name="Boo Doudle Dies confirm0028" x="806" y="1691" width="255" height="191" frameX="-6" frameY="-99" frameWidth="267" frameHeight="290"/>
+	<SubTexture name="Boo Doudle Dies confirm0029" x="1161" y="1691" width="256" height="191" frameX="-5" frameY="-99" frameWidth="267" frameHeight="290"/>
+	<SubTexture name="Boo Doudle Dies confirm0030" x="1517" y="1691" width="258" height="191" frameX="-4" frameY="-99" frameWidth="267" frameHeight="290"/>
+	<SubTexture name="Boo Doudle Dies confirm0031" x="1875" y="1691" width="259" height="191" frameX="-4" frameY="-99" frameWidth="267" frameHeight="290"/>
+	<SubTexture name="Boo Doudle Dies confirm0032" x="2234" y="1691" width="260" height="191" frameX="-3" frameY="-99" frameWidth="267" frameHeight="290"/>
+	<SubTexture name="Boo Doudle Dies confirm0033" x="2594" y="1691" width="261" height="190" frameX="-3" frameY="-100" frameWidth="267" frameHeight="290"/>
+	<SubTexture name="Boo Doudle Dies confirm0034" x="2955" y="1691" width="262" height="190" frameX="-2" frameY="-100" frameWidth="267" frameHeight="290"/>
+	<SubTexture name="Boo Doudle Dies confirm0035" x="3317" y="1691" width="263" height="190" frameX="-2" frameY="-100" frameWidth="267" frameHeight="290"/>
+	<SubTexture name="Boo Doudle Dies confirm0036" x="3680" y="1691" width="264" height="190" frameX="-1" frameY="-100" frameWidth="267" frameHeight="290"/>
+	<SubTexture name="Boo Doudle Dies confirm0037" x="100" y="1983" width="264" height="190" frameX="-1" frameY="-100" frameWidth="267" frameHeight="290"/>
+	<SubTexture name="Boo Doudle Dies confirm0038" x="464" y="1983" width="266" height="190" frameX="0" frameY="-100" frameWidth="267" frameHeight="290"/>
+	<SubTexture name="Boo Doudle Dies confirm0039" x="830" y="1983" width="266" height="190" frameX="0" frameY="-100" frameWidth="267" frameHeight="290"/>
+	<SubTexture name="Boo Doudle Dies confirm0040" x="1196" y="1983" width="266" height="190" frameX="0" frameY="-100" frameWidth="267" frameHeight="290"/>
+	<SubTexture name="Boo Doudle Dies confirm0041" x="1562" y="1983" width="266" height="190" frameX="0" frameY="-100" frameWidth="267" frameHeight="290"/>
+	<SubTexture name="Boo Doudle Dies confirm0042" x="1928" y="1983" width="266" height="190" frameX="0" frameY="-100" frameWidth="267" frameHeight="290"/>
+	<SubTexture name="Boo Doudle Dies confirm0043" x="2294" y="1983" width="267" height="190" frameX="0" frameY="-100" frameWidth="267" frameHeight="290"/>
+	<SubTexture name="Boo Doudle Dies confirm0044" x="2661" y="1983" width="267" height="190" frameX="0" frameY="-100" frameWidth="267" frameHeight="290"/>
+</TextureAtlas>

@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				1
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "Glue0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-32,
+				0
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "Glue Loop0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				2
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "Glue confirm0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sticky_Dies",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "sticky",
+	"flip_x": true,
+	"healthbar_colors": [
+		95,
+		160,
+		115
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

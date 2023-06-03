@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BuggsBop.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Buggs Bounce0000" x="5" y="5" width="202" height="210"/>
+	<SubTexture name="Buggs Bounce0001" x="5" y="5" width="202" height="210"/>
+	<SubTexture name="Buggs Bounce0002" x="212" y="5" width="202" height="210"/>
+	<SubTexture name="Buggs Bounce0003" x="212" y="5" width="202" height="210"/>
+	<SubTexture name="Buggs Bounce0004" x="419" y="5" width="202" height="210"/>
+	<SubTexture name="Buggs Bounce0005" x="419" y="5" width="202" height="210"/>
+	<SubTexture name="Buggs Bounce0006" x="626" y="5" width="202" height="210"/>
+	<SubTexture name="Buggs Bounce0007" x="833" y="5" width="202" height="210"/>
+	<SubTexture name="Buggs Bounce0008" x="833" y="5" width="202" height="210"/>
+	<SubTexture name="Buggs Bounce0009" x="5" y="220" width="202" height="210"/>
+	<SubTexture name="Buggs Bounce0010" x="5" y="220" width="202" height="210"/>
+	<SubTexture name="Buggs Bounce0011" x="5" y="220" width="202" height="210"/>
+	<SubTexture name="Buggs Bounce0012" x="5" y="220" width="202" height="210"/>
+	<SubTexture name="Buggs Bounce0013" x="212" y="220" width="202" height="210"/>
+	<SubTexture name="Buggs Bounce0014" x="212" y="220" width="202" height="210"/>
+	<SubTexture name="Buggs Bounce0015" x="419" y="220" width="202" height="210"/>
+	<SubTexture name="Buggs Bounce0016" x="419" y="220" width="202" height="210"/>
+	<SubTexture name="Buggs Bounce0017" x="626" y="220" width="202" height="210"/>
+	<SubTexture name="Buggs Bounce0018" x="626" y="220" width="202" height="210"/>
+	<SubTexture name="Buggs Bounce0019" x="833" y="220" width="202" height="210"/>
+	<SubTexture name="Buggs Bounce0020" x="833" y="220" width="202" height="210"/>
+	<SubTexture name="Buggs Bounce0021" x="5" y="435" width="202" height="210"/>
+	<SubTexture name="Buggs Bounce0022" x="212" y="435" width="202" height="210"/>
+	<SubTexture name="Buggs Bounce0023" x="419" y="435" width="202" height="210"/>
+	<SubTexture name="Buggs Bounce0024" x="626" y="435" width="202" height="210"/>
+	<SubTexture name="Buggs Bounce0025" x="626" y="435" width="202" height="210"/>
+	<SubTexture name="Buggs Bounce0026" x="626" y="435" width="202" height="210"/>
+	<SubTexture name="Buggs Bounce0027" x="626" y="435" width="202" height="210"/>
+	<SubTexture name="Buggs Bounce0028" x="833" y="435" width="202" height="210"/>
+	<SubTexture name="Buggs Bounce0029" x="833" y="435" width="202" height="210"/>
+</TextureAtlas>

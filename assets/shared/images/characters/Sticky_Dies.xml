@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sticky_Dies.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Glue Loop0000" x="10" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0001" x="10" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0002" x="10" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0003" x="10" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0004" x="10" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0005" x="10" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0006" x="294" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0007" x="294" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0008" x="10" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0009" x="10" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0010" x="10" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0011" x="10" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0012" x="10" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0013" x="10" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0014" x="578" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0015" x="578" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0016" x="578" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0017" x="862" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0018" x="862" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0019" x="862" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0020" x="862" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0021" x="1146" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0022" x="1146" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0023" x="1146" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0024" x="1146" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0025" x="1146" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0026" x="1430" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0027" x="1430" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0028" x="1430" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0029" x="1430" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0030" x="1430" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0031" x="1430" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0032" x="1430" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0033" x="1430" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0034" x="1430" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0035" x="1430" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0036" x="1430" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0037" x="1430" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0038" x="1430" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0039" x="1430" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0040" x="1430" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0041" x="1430" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0042" x="1430" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0043" x="1430" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0044" x="1714" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0045" x="1714" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0046" x="1714" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0047" x="1714" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0048" x="1714" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0049" x="1714" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0050" x="10" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0051" x="10" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0052" x="10" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0053" x="10" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0054" x="10" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0055" x="10" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0056" x="10" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0057" x="10" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0058" x="10" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0059" x="10" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0060" x="10" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0061" x="10" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0062" x="10" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0063" x="10" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0064" x="10" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0065" x="10" y="10" width="274" height="426"/>
+	<SubTexture name="Glue Loop0066" x="10" y="10" width="274" height="426"/>
+	<SubTexture name="Glue confirm0000" x="1998" y="10" width="308" height="434"/>
+	<SubTexture name="Glue confirm0001" x="1998" y="10" width="308" height="434"/>
+	<SubTexture name="Glue confirm0002" x="2316" y="10" width="308" height="434"/>
+	<SubTexture name="Glue confirm0003" x="2316" y="10" width="308" height="434"/>
+	<SubTexture name="Glue confirm0004" x="2634" y="10" width="308" height="434"/>
+	<SubTexture name="Glue confirm0005" x="2634" y="10" width="308" height="434"/>
+	<SubTexture name="Glue confirm0006" x="2952" y="10" width="308" height="434"/>
+	<SubTexture name="Glue confirm0007" x="2952" y="10" width="308" height="434"/>
+	<SubTexture name="Glue confirm0008" x="3270" y="10" width="308" height="434"/>
+	<SubTexture name="Glue confirm0009" x="3270" y="10" width="308" height="434"/>
+	<SubTexture name="Glue confirm0010" x="3588" y="10" width="308" height="434"/>
+	<SubTexture name="Glue confirm0011" x="3588" y="10" width="308" height="434"/>
+	<SubTexture name="Glue confirm0012" x="10" y="454" width="308" height="434"/>
+	<SubTexture name="Glue confirm0013" x="10" y="454" width="308" height="434"/>
+	<SubTexture name="Glue confirm0014" x="328" y="454" width="308" height="434"/>
+	<SubTexture name="Glue confirm0015" x="328" y="454" width="308" height="434"/>
+	<SubTexture name="Glue confirm0016" x="646" y="454" width="308" height="434"/>
+	<SubTexture name="Glue confirm0017" x="646" y="454" width="308" height="434"/>
+	<SubTexture name="Glue confirm0018" x="964" y="454" width="308" height="434"/>
+	<SubTexture name="Glue confirm0019" x="964" y="454" width="308" height="434"/>
+	<SubTexture name="Glue confirm0020" x="964" y="454" width="308" height="434"/>
+	<SubTexture name="Glue confirm0021" x="964" y="454" width="308" height="434"/>
+	<SubTexture name="Glue confirm0022" x="964" y="454" width="308" height="434"/>
+	<SubTexture name="Glue confirm0023" x="964" y="454" width="308" height="434"/>
+	<SubTexture name="Glue confirm0024" x="964" y="454" width="308" height="434"/>
+	<SubTexture name="Glue confirm0025" x="964" y="454" width="308" height="434"/>
+	<SubTexture name="Glue confirm0026" x="964" y="454" width="308" height="434"/>
+	<SubTexture name="Glue confirm0027" x="964" y="454" width="308" height="434"/>
+	<SubTexture name="Glue confirm0028" x="964" y="454" width="308" height="434"/>
+	<SubTexture name="Glue confirm0029" x="964" y="454" width="308" height="434"/>
+	<SubTexture name="Glue confirm0030" x="964" y="454" width="308" height="434"/>
+	<SubTexture name="Glue confirm0031" x="964" y="454" width="308" height="434"/>
+	<SubTexture name="Glue confirm0032" x="964" y="454" width="308" height="434"/>
+	<SubTexture name="Glue confirm0033" x="964" y="454" width="308" height="434"/>
+	<SubTexture name="Glue confirm0034" x="964" y="454" width="308" height="434"/>
+	<SubTexture name="Glue confirm0035" x="964" y="454" width="308" height="434"/>
+	<SubTexture name="Glue confirm0036" x="964" y="454" width="308" height="434"/>
+	<SubTexture name="Glue confirm0037" x="964" y="454" width="308" height="434"/>
+	<SubTexture name="Glue confirm0038" x="964" y="454" width="308" height="434"/>
+	<SubTexture name="Glue confirm0039" x="964" y="454" width="308" height="434"/>
+	<SubTexture name="Glue confirm0040" x="964" y="454" width="308" height="434"/>
+	<SubTexture name="Glue confirm0041" x="964" y="454" width="308" height="434"/>
+	<SubTexture name="Glue confirm0042" x="964" y="454" width="308" height="434"/>
+	<SubTexture name="Glue confirm0043" x="964" y="454" width="308" height="434"/>
+	<SubTexture name="Glue confirm0044" x="964" y="454" width="308" height="434"/>
+	<SubTexture name="Glue0000" x="1282" y="454" width="311" height="449"/>
+	<SubTexture name="Glue0001" x="1282" y="454" width="311" height="449"/>
+	<SubTexture name="Glue0002" x="1603" y="454" width="311" height="449"/>
+	<SubTexture name="Glue0003" x="1603" y="454" width="311" height="449"/>
+	<SubTexture name="Glue0004" x="1924" y="454" width="311" height="449"/>
+	<SubTexture name="Glue0005" x="1924" y="454" width="311" height="449"/>
+	<SubTexture name="Glue0006" x="2245" y="454" width="311" height="449"/>
+	<SubTexture name="Glue0007" x="2245" y="454" width="311" height="449"/>
+	<SubTexture name="Glue0008" x="2245" y="454" width="311" height="449"/>
+	<SubTexture name="Glue0009" x="2245" y="454" width="311" height="449"/>
+	<SubTexture name="Glue0010" x="2566" y="454" width="311" height="449"/>
+	<SubTexture name="Glue0011" x="2566" y="454" width="311" height="449"/>
+	<SubTexture name="Glue0012" x="2887" y="454" width="311" height="449"/>
+	<SubTexture name="Glue0013" x="2887" y="454" width="311" height="449"/>
+	<SubTexture name="Glue0014" x="3208" y="454" width="311" height="449"/>
+	<SubTexture name="Glue0015" x="3208" y="454" width="311" height="449"/>
+	<SubTexture name="Glue0016" x="3208" y="454" width="311" height="449"/>
+	<SubTexture name="Glue0017" x="3208" y="454" width="311" height="449"/>
+	<SubTexture name="Glue0018" x="3208" y="454" width="311" height="449"/>
+	<SubTexture name="Glue0019" x="3208" y="454" width="311" height="449"/>
+	<SubTexture name="Glue0020" x="3208" y="454" width="311" height="449"/>
+	<SubTexture name="Glue0021" x="3208" y="454" width="311" height="449"/>
+	<SubTexture name="Glue0022" x="3208" y="454" width="311" height="449"/>
+	<SubTexture name="Glue0023" x="3208" y="454" width="311" height="449"/>
+	<SubTexture name="Glue0024" x="3529" y="454" width="311" height="449"/>
+	<SubTexture name="Glue0025" x="3529" y="454" width="311" height="449"/>
+	<SubTexture name="Glue0026" x="10" y="913" width="311" height="449"/>
+	<SubTexture name="Glue0027" x="10" y="913" width="311" height="449"/>
+	<SubTexture name="Glue0028" x="331" y="913" width="311" height="449"/>
+	<SubTexture name="Glue0029" x="331" y="913" width="311" height="449"/>
+	<SubTexture name="Glue0030" x="652" y="913" width="311" height="449"/>
+	<SubTexture name="Glue0031" x="652" y="913" width="311" height="449"/>
+	<SubTexture name="Glue0032" x="652" y="913" width="311" height="449"/>
+	<SubTexture name="Glue0033" x="652" y="913" width="311" height="449"/>
+	<SubTexture name="Glue0034" x="652" y="913" width="311" height="449"/>
+	<SubTexture name="Glue0035" x="973" y="913" width="311" height="449"/>
+	<SubTexture name="Glue0036" x="973" y="913" width="311" height="449"/>
+	<SubTexture name="Glue0037" x="973" y="913" width="311" height="449"/>
+	<SubTexture name="Glue0038" x="973" y="913" width="311" height="449"/>
+	<SubTexture name="Glue0039" x="973" y="913" width="311" height="449"/>
+	<SubTexture name="Glue0040" x="973" y="913" width="311" height="449"/>
+	<SubTexture name="Glue0041" x="973" y="913" width="311" height="449"/>
+	<SubTexture name="Glue0042" x="973" y="913" width="311" height="449"/>
+	<SubTexture name="Glue0043" x="973" y="913" width="311" height="449"/>
+	<SubTexture name="Glue0044" x="973" y="913" width="311" height="449"/>
+	<SubTexture name="Glue0045" x="973" y="913" width="311" height="449"/>
+	<SubTexture name="Glue0046" x="973" y="913" width="311" height="449"/>
+	<SubTexture name="Glue0047" x="973" y="913" width="311" height="449"/>
+	<SubTexture name="Glue0048" x="973" y="913" width="311" height="449"/>
+</TextureAtlas>

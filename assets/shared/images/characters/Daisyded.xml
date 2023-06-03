@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Daisyded.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Daisyded0000" x="10" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0001" x="10" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0002" x="134" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0003" x="134" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0004" x="134" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0005" x="258" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0006" x="258" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0007" x="382" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0008" x="382" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0009" x="506" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0010" x="506" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0011" x="506" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0012" x="630" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0013" x="630" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0014" x="630" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0015" x="754" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0016" x="754" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0017" x="878" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0018" x="878" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0019" x="878" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0020" x="1002" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0021" x="1002" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0022" x="1126" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0023" x="1126" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0024" x="1250" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0025" x="1250" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0026" x="1374" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0027" x="1374" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0028" x="1498" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0029" x="1498" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0030" x="1498" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0031" x="1498" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0032" x="1622" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0033" x="1622" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0034" x="1746" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0035" x="1746" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0036" x="1870" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0037" x="1870" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0038" x="1994" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0039" x="1994" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0040" x="2118" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0041" x="2118" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0042" x="2242" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0043" x="2242" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0044" x="2366" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0045" x="2366" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0046" x="2490" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0047" x="2490" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0048" x="2614" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0049" x="2614" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0050" x="2738" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0051" x="2738" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0052" x="2862" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0053" x="2862" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0054" x="2738" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0055" x="2738" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0056" x="2986" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0057" x="2986" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0058" x="2862" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0059" x="2862" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0060" x="2738" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0061" x="2738" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0062" x="2986" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0063" x="2986" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0064" x="2862" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0065" x="2862" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0066" x="2738" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0067" x="2738" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0068" x="2986" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0069" x="2986" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0070" x="2862" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0071" x="2862" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0072" x="2738" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0073" x="2738" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded0074" x="2986" y="10" width="114" height="120"/>
+	<SubTexture name="Daisyded confirm0000" x="3110" y="10" width="273" height="282"/>
+	<SubTexture name="Daisyded confirm0001" x="3393" y="10" width="273" height="282"/>
+	<SubTexture name="Daisyded confirm0002" x="3676" y="10" width="273" height="282"/>
+	<SubTexture name="Daisyded confirm0003" x="10" y="302" width="273" height="282"/>
+	<SubTexture name="Daisyded confirm0004" x="293" y="302" width="273" height="282"/>
+	<SubTexture name="Daisyded confirm0005" x="576" y="302" width="273" height="282"/>
+	<SubTexture name="Daisyded confirm0006" x="859" y="302" width="273" height="282"/>
+	<SubTexture name="Daisyded confirm0007" x="1142" y="302" width="273" height="282"/>
+	<SubTexture name="Daisyded confirm0008" x="1425" y="302" width="273" height="282"/>
+	<SubTexture name="Daisyded confirm0009" x="1708" y="302" width="273" height="282"/>
+	<SubTexture name="Daisyded confirm0010" x="1991" y="302" width="273" height="282"/>
+	<SubTexture name="Daisyded confirm0011" x="2274" y="302" width="273" height="282"/>
+	<SubTexture name="Daisyded confirm0012" x="2557" y="302" width="273" height="282"/>
+	<SubTexture name="Daisyded confirm0013" x="2840" y="302" width="273" height="282"/>
+	<SubTexture name="Daisyded confirm0014" x="3123" y="302" width="273" height="282"/>
+	<SubTexture name="Daisyded confirm0015" x="3406" y="302" width="273" height="282"/>
+	<SubTexture name="Daisyded confirm0016" x="3689" y="302" width="273" height="282"/>
+	<SubTexture name="Daisyded confirm0017" x="10" y="594" width="273" height="282"/>
+	<SubTexture name="Daisyded confirm0018" x="293" y="594" width="273" height="282"/>
+	<SubTexture name="Daisyded confirm0019" x="576" y="594" width="273" height="282"/>
+	<SubTexture name="Daisyded confirm0020" x="859" y="594" width="273" height="282"/>
+	<SubTexture name="Daisyded confirm0021" x="1142" y="594" width="273" height="282"/>
+	<SubTexture name="Daisyded confirm0022" x="1425" y="594" width="273" height="282"/>
+	<SubTexture name="Daisyded confirm0023" x="1708" y="594" width="273" height="282"/>
+	<SubTexture name="Daisyded confirm0024" x="1991" y="594" width="273" height="282"/>
+	<SubTexture name="Daisyded confirm0025" x="2274" y="594" width="273" height="282"/>
+	<SubTexture name="Daisyded confirm0026" x="2557" y="594" width="273" height="282"/>
+	<SubTexture name="Daisyded confirm0027" x="2840" y="594" width="273" height="282"/>
+	<SubTexture name="Daisyded confirm0028" x="3123" y="594" width="273" height="282"/>
+	<SubTexture name="Daisyded confirm0029" x="3406" y="594" width="273" height="282"/>
+	<SubTexture name="Daisyded confirm0030" x="3689" y="594" width="273" height="282"/>
+	<SubTexture name="Daisyded confirm0031" x="10" y="886" width="273" height="282"/>
+	<SubTexture name="Daisyded confirm0032" x="293" y="886" width="273" height="282"/>
+	<SubTexture name="Daisyded confirm0033" x="576" y="886" width="273" height="282"/>
+	<SubTexture name="Daisyded confirm0034" x="859" y="886" width="273" height="282"/>
+	<SubTexture name="Daisyded confirm0035" x="1142" y="886" width="273" height="282"/>
+	<SubTexture name="Daisyded confirm0036" x="1425" y="886" width="273" height="282"/>
+	<SubTexture name="Daisyded confirm0037" x="1708" y="886" width="273" height="282"/>
+	<SubTexture name="Daisyded confirm0038" x="1991" y="886" width="273" height="282"/>
+	<SubTexture name="Daisyded confirm0039" x="2274" y="886" width="273" height="282"/>
+	<SubTexture name="Daisyded confirm0040" x="2557" y="886" width="273" height="282"/>
+	<SubTexture name="Daisyded confirm0041" x="2840" y="886" width="273" height="282"/>
+	<SubTexture name="Daisyded confirm0042" x="3123" y="886" width="273" height="282"/>
+	<SubTexture name="Daisyded confirm0043" x="2840" y="886" width="273" height="282"/>
+	<SubTexture name="Daisyded confirm0044" x="3406" y="886" width="273" height="282"/>
+	<SubTexture name="Daisyded loop0000" x="3689" y="886" width="113" height="96"/>
+	<SubTexture name="Daisyded loop0001" x="3689" y="886" width="113" height="96"/>
+	<SubTexture name="Daisyded loop0002" x="3812" y="886" width="113" height="96"/>
+	<SubTexture name="Daisyded loop0003" x="3812" y="886" width="113" height="96"/>
+	<SubTexture name="Daisyded loop0004" x="3935" y="886" width="113" height="96"/>
+	<SubTexture name="Daisyded loop0005" x="3935" y="886" width="113" height="96"/>
+</TextureAtlas>

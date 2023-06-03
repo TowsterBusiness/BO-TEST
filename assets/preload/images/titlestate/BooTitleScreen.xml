@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BooTitleScreen.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Boozette0000" x="5" y="5" width="1289" height="1269" frameX="0" frameY="-7" frameWidth="1332" frameHeight="1296"/>
+	<SubTexture name="Boozette0001" x="5" y="5" width="1289" height="1269" frameX="0" frameY="-7" frameWidth="1332" frameHeight="1296"/>
+	<SubTexture name="Boozette0002" x="1299" y="5" width="1299" height="1279" frameX="-1" frameY="-3" frameWidth="1332" frameHeight="1296"/>
+	<SubTexture name="Boozette0003" x="1299" y="5" width="1299" height="1279" frameX="-1" frameY="-3" frameWidth="1332" frameHeight="1296"/>
+	<SubTexture name="Boozette0004" x="2603" y="5" width="1309" height="1286" frameX="-3" frameY="0" frameWidth="1332" frameHeight="1296"/>
+	<SubTexture name="Boozette0005" x="2603" y="5" width="1309" height="1286" frameX="-3" frameY="0" frameWidth="1332" frameHeight="1296"/>
+	<SubTexture name="Boozette0006" x="5" y="1296" width="1319" height="1290" frameX="-7" frameY="-1" frameWidth="1332" frameHeight="1296"/>
+	<SubTexture name="Boozette0007" x="5" y="1296" width="1319" height="1290" frameX="-7" frameY="-1" frameWidth="1332" frameHeight="1296"/>
+	<SubTexture name="Boozette0008" x="1329" y="1296" width="1320" height="1295" frameX="-12" frameY="-1" frameWidth="1332" frameHeight="1296"/>
+	<SubTexture name="Boozette0009" x="1329" y="1296" width="1320" height="1295" frameX="-12" frameY="-1" frameWidth="1332" frameHeight="1296"/>
+	<SubTexture name="Boozette0010" x="1329" y="1296" width="1320" height="1295" frameX="-12" frameY="-1" frameWidth="1332" frameHeight="1296"/>
+	<SubTexture name="Boozette0011" x="1329" y="1296" width="1320" height="1295" frameX="-12" frameY="-1" frameWidth="1332" frameHeight="1296"/>
+	<SubTexture name="Boozette0012" x="1329" y="1296" width="1320" height="1295" frameX="-12" frameY="-1" frameWidth="1332" frameHeight="1296"/>
+	<SubTexture name="Boozette0013" x="1329" y="1296" width="1320" height="1295" frameX="-12" frameY="-1" frameWidth="1332" frameHeight="1296"/>
+</TextureAtlas>

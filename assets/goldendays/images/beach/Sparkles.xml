@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sparkles.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sparkley0000" x="10" y="10" width="48" height="90"/>
+	<SubTexture name="Sparkley0001" x="10" y="10" width="48" height="90"/>
+	<SubTexture name="Sparkley0002" x="68" y="10" width="48" height="90"/>
+	<SubTexture name="Sparkley0003" x="126" y="10" width="48" height="90"/>
+	<SubTexture name="Sparkley0004" x="184" y="10" width="48" height="90"/>
+	<SubTexture name="Sparkley0005" x="242" y="10" width="48" height="90"/>
+	<SubTexture name="Sparkley0006" x="242" y="10" width="48" height="90"/>
+	<SubTexture name="Sparkley0007" x="300" y="10" width="48" height="90"/>
+	<SubTexture name="Sparkley0008" x="358" y="10" width="48" height="90"/>
+	<SubTexture name="Sparkley0009" x="416" y="10" width="48" height="90"/>
+	<SubTexture name="Sparkley0010" x="10" y="110" width="48" height="90"/>
+	<SubTexture name="Sparkley0011" x="10" y="110" width="48" height="90"/>
+	<SubTexture name="Sparkley0012" x="68" y="110" width="48" height="90"/>
+	<SubTexture name="Sparkley0013" x="68" y="110" width="48" height="90"/>
+	<SubTexture name="Sparkley0014" x="68" y="110" width="48" height="90"/>
+	<SubTexture name="Sparkley0015" x="126" y="110" width="48" height="90"/>
+	<SubTexture name="Sparkley0016" x="126" y="110" width="48" height="90"/>
+	<SubTexture name="Sparkley0017" x="184" y="110" width="48" height="90"/>
+	<SubTexture name="Sparkley0018" x="184" y="110" width="48" height="90"/>
+	<SubTexture name="Sparkley0019" x="184" y="110" width="48" height="90"/>
+	<SubTexture name="Sparkley0020" x="184" y="110" width="48" height="90"/>
+	<SubTexture name="Sparkley0021" x="184" y="110" width="48" height="90"/>
+	<SubTexture name="Sparkley0022" x="184" y="110" width="48" height="90"/>
+	<SubTexture name="Sparkley0023" x="184" y="110" width="48" height="90"/>
+	<SubTexture name="Sparkley0024" x="184" y="110" width="48" height="90"/>
+</TextureAtlas>

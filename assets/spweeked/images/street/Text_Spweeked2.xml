@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Text_Spweeked2.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="1" x="10" y="10" width="176" height="132"/>
+	<SubTexture name="2" x="196" y="10" width="176" height="132"/>
+	<SubTexture name="3" x="382" y="10" width="176" height="132"/>
+	<SubTexture name="4" x="568" y="10" width="176" height="132"/>
+	<SubTexture name="5" x="754" y="10" width="176" height="132"/>
+	<SubTexture name="6" x="10" y="152" width="176" height="132"/>
+	<SubTexture name="Now" x="196" y="152" width="176" height="132"/>
+</TextureAtlas>

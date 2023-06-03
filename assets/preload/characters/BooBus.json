@@ -1,0 +1,232 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-30,
+				-270
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "booidle instance"
+		},
+		{
+			"offsets": [
+				-41,
+				-268
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "boodown instance"
+		},
+		{
+			"offsets": [
+				-35,
+				-255
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "boo up instance"
+		},
+		{
+			"offsets": [
+				-31,
+				-269
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "booleft instance"
+		},
+		{
+			"offsets": [
+				-41,
+				-269
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "booright instance"
+		},
+		{
+			"offsets": [
+				-30,
+				-270
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "booidleAlt instance"
+		},
+		{
+			"offsets": [
+				-38,
+				-267
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "boodownAlt instance"
+		},
+		{
+			"offsets": [
+				-32,
+				-255
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "boo upAlt instance"
+		},
+		{
+			"offsets": [
+				-32,
+				-270
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "booleft instance"
+		},
+		{
+			"offsets": [
+				-51,
+				-269
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "boorightAlt instance"
+		},
+		{
+			"offsets": [
+				-41,
+				-268
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "boodownmiss instance"
+		},
+		{
+			"offsets": [
+				-35,
+				-253
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "boo upmiss instance"
+		},
+		{
+			"offsets": [
+				-33,
+				-269
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "booleftmiss instance"
+		},
+		{
+			"offsets": [
+				-39,
+				-267
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "boorightmiss instance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-39,
+				-269
+			],
+			"anim": "midEvent",
+			"fps": 24,
+			"name": "boo mid animation instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-37,
+				-268
+			],
+			"anim": "singDOWNmiss-alt",
+			"fps": 24,
+			"name": "boodownmiss instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-33,
+				-255
+			],
+			"anim": "singUPmiss-alt",
+			"fps": 24,
+			"name": "boo upmiss instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-34,
+				-269
+			],
+			"anim": "singLEFTmiss-alt",
+			"fps": 24,
+			"name": "booleftmiss instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-39,
+				-267
+			],
+			"anim": "singRIGHTmiss-alt",
+			"fps": 24,
+			"name": "boorightmiss instance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BooBus",
+	"position": [
+		760,
+		30
+	],
+	"healthicon": "ghost",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		65,
+		242
+	],
+	"camera_position": [
+		60,
+		300
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

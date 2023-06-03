@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				102,
+				-22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BFConfusionLeft"
+		},
+		{
+			"offsets": [
+				-10,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BFConfusionight"
+		},
+		{
+			"offsets": [
+				-10,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BFConfusionUp"
+		},
+		{
+			"offsets": [
+				40,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BFConfusionDown"
+		},
+		{
+			"offsets": [
+				120,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "BFMissLeft"
+		},
+		{
+			"offsets": [
+				-46,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "BFMissUp"
+		},
+		{
+			"offsets": [
+				-33,
+				-19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "BFMissDown"
+		},
+		{
+			"offsets": [
+				-79,
+				-21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "BFMissRight"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				271,
+				-1
+			],
+			"anim": "idleStill",
+			"fps": 24,
+			"name": "BF_IdleStill",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF_Idle instance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/StickyBoyMan",
+	"position": [
+		170,
+		150
+	],
+	"healthicon": "sticky",
+	"flip_x": true,
+	"healthbar_colors": [
+		95,
+		160,
+		115
+	],
+	"camera_position": [
+		420,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

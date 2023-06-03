@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Tossler Epic Idle0"
+		},
+		{
+			"offsets": [
+				235,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Tossler Epic NOTE LEFT0"
+		},
+		{
+			"offsets": [
+				0,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Tossler Epic NOTE DOWN0"
+		},
+		{
+			"offsets": [
+				-15,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Tossler Epic NOTE UP0"
+		},
+		{
+			"offsets": [
+				-15,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Tossler Epic NOTE RIGHT0"
+		},
+		{
+			"offsets": [
+				230,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Tossler Epic MISS LEFT0"
+		},
+		{
+			"offsets": [
+				115,
+				-45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Tossler Epic MISS DOWN0"
+		},
+		{
+			"offsets": [
+				60,
+				62
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Tossler Epic MISS UP0"
+		},
+		{
+			"offsets": [
+				-10,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Tossler Epic MISS RIGHT0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/da_tossy",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "tossler",
+	"flip_x": false,
+	"healthbar_colors": [
+		173,
+		55,
+		51
+	],
+	"camera_position": [
+		-60,
+		150
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

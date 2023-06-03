@@ -1,0 +1,7 @@
+Yo, ok so because I was really lazy about how I implemented images loading from github,
+I made a bunch of txt files having wither the number of images for names that repeat (ex. Loading Screen)
+Or a list of file names. 
+
+So, just so i don't forget them all, this is the list to keep them all tracked.
+
+assets/preload/images/loadingScreenCount.txt

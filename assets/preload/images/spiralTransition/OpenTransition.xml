@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="OpenTransition.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol0000" x="1" y="1" width="852" height="454"/>
+	<SubTexture name="Symbol0001" x="1" y="1" width="852" height="454"/>
+	<SubTexture name="Symbol0002" x="854" y="1" width="852" height="454"/>
+	<SubTexture name="Symbol0003" x="1707" y="1" width="852" height="454"/>
+	<SubTexture name="Symbol0004" x="2560" y="1" width="852" height="454"/>
+	<SubTexture name="Symbol0005" x="1" y="456" width="852" height="454"/>
+	<SubTexture name="Symbol0006" x="854" y="456" width="852" height="454"/>
+	<SubTexture name="Symbol0007" x="1707" y="456" width="852" height="454"/>
+	<SubTexture name="Symbol0008" x="2560" y="456" width="852" height="454"/>
+	<SubTexture name="Symbol0009" x="1" y="911" width="852" height="454"/>
+	<SubTexture name="Symbol0010" x="854" y="911" width="852" height="454"/>
+	<SubTexture name="Symbol0011" x="1707" y="911" width="852" height="454"/>
+	<SubTexture name="Symbol0012" x="2560" y="911" width="852" height="454"/>
+	<SubTexture name="Symbol0013" x="2560" y="911" width="852" height="454"/>
+	<SubTexture name="Symbol0014" x="1" y="1366" width="852" height="454"/>
+	<SubTexture name="Symbol0015" x="854" y="1366" width="852" height="454"/>
+	<SubTexture name="Symbol0016" x="1707" y="1366" width="852" height="454"/>
+	<SubTexture name="Symbol0017" x="2560" y="1366" width="852" height="454"/>
+	<SubTexture name="Symbol0018" x="1" y="1821" width="852" height="454"/>
+	<SubTexture name="Symbol0019" x="854" y="1821" width="852" height="454"/>
+	<SubTexture name="Symbol0020" x="1707" y="1821" width="852" height="454"/>
+	<SubTexture name="Symbol0021" x="2560" y="1821" width="852" height="454"/>
+	<SubTexture name="Symbol0022" x="1" y="2276" width="852" height="454"/>
+	<SubTexture name="Symbol0023" x="854" y="2276" width="852" height="454"/>
+	<SubTexture name="Symbol0024" x="1707" y="2276" width="852" height="454"/>
+	<SubTexture name="Symbol0025" x="1707" y="2276" width="852" height="454"/>
+	<SubTexture name="Symbol0026" x="2560" y="2276" width="852" height="454"/>
+	<SubTexture name="Symbol0027" x="2560" y="2276" width="852" height="454"/>
+	<SubTexture name="Symbol0028" x="2560" y="2276" width="852" height="454"/>
+</TextureAtlas>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Foreground.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Foreground_KnightandGhost0000" x="100" y="100" width="1418" height="1059"/>
+	<SubTexture name="Foreground_KnightandGhost0001" x="100" y="100" width="1418" height="1059"/>
+	<SubTexture name="Foreground_KnightandGhost0002" x="1618" y="100" width="1418" height="1059"/>
+	<SubTexture name="Foreground_KnightandGhost0003" x="1618" y="100" width="1418" height="1059"/>
+	<SubTexture name="Foreground_KnightandGhost0004" x="3136" y="100" width="1418" height="1059"/>
+	<SubTexture name="Foreground_KnightandGhost0005" x="3136" y="100" width="1418" height="1059"/>
+	<SubTexture name="Foreground_KnightandGhost0006" x="4654" y="100" width="1418" height="1059"/>
+	<SubTexture name="Foreground_KnightandGhost0007" x="6172" y="100" width="1418" height="1059"/>
+	<SubTexture name="Foreground_KnightandGhost0008" x="100" y="1259" width="1418" height="1059"/>
+	<SubTexture name="Foreground_KnightandGhost0009" x="100" y="1259" width="1418" height="1059"/>
+	<SubTexture name="Foreground_KnightandGhost0010" x="1618" y="1259" width="1418" height="1059"/>
+	<SubTexture name="Foreground_KnightandGhost0011" x="1618" y="1259" width="1418" height="1059"/>
+	<SubTexture name="Foreground_KnightandGhost0012" x="3136" y="1259" width="1418" height="1059"/>
+	<SubTexture name="Foreground_KnightandGhost0013" x="4654" y="1259" width="1418" height="1059"/>
+	<SubTexture name="Foreground_KnightandGhost0014" x="6172" y="1259" width="1418" height="1059"/>
+	<SubTexture name="Foreground_KnightandGhost0015" x="100" y="2418" width="1418" height="1059"/>
+	<SubTexture name="Foreground_KnightandGhost0016" x="1618" y="2418" width="1418" height="1059"/>
+	<SubTexture name="Foreground_KnightandGhost0017" x="3136" y="2418" width="1418" height="1059"/>
+	<SubTexture name="Foreground_KnightandGhost0018" x="4654" y="2418" width="1418" height="1059"/>
+	<SubTexture name="Foreground_KnightandGhost0019" x="6172" y="2418" width="1418" height="1059"/>
+	<SubTexture name="Foreground_KnightandGhost0020" x="6172" y="2418" width="1418" height="1059"/>
+	<SubTexture name="Foreground_KnightandGhost0021" x="100" y="3577" width="1418" height="1059"/>
+	<SubTexture name="Foreground_KnightandGhost0022" x="1618" y="3577" width="1418" height="1059"/>
+	<SubTexture name="Foreground_KnightandGhost0023" x="1618" y="3577" width="1418" height="1059"/>
+	<SubTexture name="Foreground_KnightandGhost0024" x="1618" y="3577" width="1418" height="1059"/>
+	<SubTexture name="Foreground_KnightandGhost0025" x="3136" y="3577" width="1418" height="1059"/>
+	<SubTexture name="Foreground_KnightandGhost0026" x="3136" y="3577" width="1418" height="1059"/>
+	<SubTexture name="Foreground_KnightandGhost0027" x="3136" y="3577" width="1418" height="1059"/>
+	<SubTexture name="Foreground_KnightandGhost0028" x="4654" y="3577" width="1418" height="1059"/>
+	<SubTexture name="Foreground_KnightandGhost0029" x="4654" y="3577" width="1418" height="1059"/>
+</TextureAtlas>

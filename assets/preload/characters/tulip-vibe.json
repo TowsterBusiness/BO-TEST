@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "TulipIdle0"
+		},
+		{
+			"offsets": [
+				15,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "TulipLeft0"
+		},
+		{
+			"offsets": [
+				35,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "TulipDown0"
+		},
+		{
+			"offsets": [
+				10,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "TulipUp0"
+		},
+		{
+			"offsets": [
+				45,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "TulipRight0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/TulipVibe",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "tulip-daisy",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		55,
+		73
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

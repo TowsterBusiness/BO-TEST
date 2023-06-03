@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ShootingStar.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ShootingStar0000" x="10" y="10" width="122" height="91"/>
+	<SubTexture name="ShootingStar0001" x="10" y="10" width="122" height="91"/>
+	<SubTexture name="ShootingStar0002" x="142" y="10" width="122" height="91"/>
+	<SubTexture name="ShootingStar0003" x="142" y="10" width="122" height="91"/>
+	<SubTexture name="ShootingStar0004" x="274" y="10" width="122" height="91"/>
+	<SubTexture name="ShootingStar0005" x="10" y="111" width="122" height="91"/>
+	<SubTexture name="ShootingStar0006" x="142" y="111" width="122" height="91"/>
+	<SubTexture name="ShootingStar0007" x="142" y="111" width="122" height="91"/>
+	<SubTexture name="ShootingStar0008" x="274" y="111" width="122" height="91"/>
+	<SubTexture name="ShootingStar0009" x="274" y="111" width="122" height="91"/>
+	<SubTexture name="ShootingStar0010" x="10" y="212" width="122" height="91"/>
+	<SubTexture name="ShootingStar0011" x="142" y="212" width="122" height="91"/>
+	<SubTexture name="ShootingStar0012" x="274" y="212" width="122" height="91"/>
+	<SubTexture name="ShootingStar0013" x="274" y="212" width="122" height="91"/>
+	<SubTexture name="ShootingStar0014" x="10" y="313" width="122" height="91"/>
+	<SubTexture name="ShootingStar0015" x="10" y="313" width="122" height="91"/>
+	<SubTexture name="ShootingStar0016" x="142" y="313" width="122" height="91"/>
+	<SubTexture name="ShootingStar0017" x="274" y="313" width="122" height="91"/>
+	<SubTexture name="ShootingStar0018" x="274" y="313" width="122" height="91"/>
+</TextureAtlas>

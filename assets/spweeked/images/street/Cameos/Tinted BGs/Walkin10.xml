@@ -1,0 +1,13 @@
+﻿<TextureAtlas imagePath="Walkin10.png">
+	<SubTexture name="Walkin0000" x="1" y="1" width="164" height="234"/>
+	<SubTexture name="Walkin0001" x="1" y="1" width="164" height="234"/>
+	<SubTexture name="Walkin0002" x="167" y="1" width="164" height="234"/>
+	<SubTexture name="Walkin0003" x="167" y="1" width="164" height="234"/>
+	<SubTexture name="Walkin0004" x="333" y="1" width="164" height="234"/>
+	<SubTexture name="Walkin0005" x="333" y="1" width="164" height="234"/>
+	<SubTexture name="Walkin0006" x="333" y="1" width="164" height="234"/>
+	<SubTexture name="Walkin0007" x="333" y="1" width="164" height="234"/>
+	<SubTexture name="Walkin0008" x="333" y="1" width="164" height="234"/>
+	<SubTexture name="Walkin0009" x="333" y="1" width="164" height="234"/>
+	<SubTexture name="Walkin0010" x="333" y="1" width="164" height="234"/>
+</TextureAtlas>

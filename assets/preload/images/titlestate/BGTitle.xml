@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BGTitle.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BGTitle0000" x="5" y="5" width="1453" height="893"/>
+	<SubTexture name="BGTitle0001" x="1463" y="5" width="1453" height="893"/>
+	<SubTexture name="BGTitle0002" x="5" y="903" width="1453" height="893"/>
+	<SubTexture name="BGTitle0003" x="1463" y="903" width="1453" height="893"/>
+	<SubTexture name="BGTitle0004" x="5" y="1801" width="1453" height="893"/>
+	<SubTexture name="BGTitle0005" x="1463" y="1801" width="1453" height="893"/>
+	<SubTexture name="BGTitle0006" x="1463" y="1801" width="1453" height="893"/>
+	<SubTexture name="BGTitle0007" x="1463" y="1801" width="1453" height="893"/>
+	<SubTexture name="BGTitle0008" x="5" y="2699" width="1453" height="893"/>
+	<SubTexture name="BGTitle0009" x="5" y="2699" width="1453" height="893"/>
+	<SubTexture name="BGTitle0010" x="1463" y="2699" width="1453" height="893"/>
+	<SubTexture name="BGTitle0011" x="1463" y="2699" width="1453" height="893"/>
+	<SubTexture name="BGTitle0012" x="1463" y="2699" width="1453" height="893"/>
+	<SubTexture name="BGTitle0013" x="1463" y="2699" width="1453" height="893"/>
+</TextureAtlas>
