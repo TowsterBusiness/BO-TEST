@@ -24,4 +24,4 @@ jobs:
         github_token: ${{secrets.GITHUB_TOKEN}}
         publish_dir: ./export/html5/bin
         force_orphan: true
-      if: ${{ github.ref == 'refs/heads/main' }}
+      if: github.ref == 'refs/heads/master'
