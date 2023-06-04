@@ -1,0 +1,738 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BOONormie.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GhostDownNorm instance 10000" x="100" y="100" width="504" height="546" frameX="-22" frameY="-9" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownNorm instance 10001" x="100" y="100" width="504" height="546" frameX="-22" frameY="-9" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownNorm instance 10002" x="704" y="100" width="546" height="538" frameX="-2" frameY="-2" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownNorm instance 10003" x="704" y="100" width="546" height="538" frameX="-2" frameY="-2" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownNorm instance 10004" x="1350" y="100" width="553" height="538" frameX="-1" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownNorm instance 10005" x="1350" y="100" width="553" height="538" frameX="-1" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownNorm instance 10006" x="2003" y="100" width="554" height="537" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownNorm instance 10007" x="2003" y="100" width="554" height="537" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownNorm instance 10008" x="2003" y="100" width="554" height="537" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownNorm instance 10009" x="2003" y="100" width="554" height="537" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownNorm instance 10010" x="2003" y="100" width="554" height="537" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownNorm instance 10011" x="2003" y="100" width="554" height="537" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownNorm instance 10012" x="2003" y="100" width="554" height="537" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownNorm instance 10013" x="2003" y="100" width="554" height="537" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownNorm instance 10014" x="2003" y="100" width="554" height="537" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownNorm instance 10015" x="2003" y="100" width="554" height="537" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownNorm instance 10016" x="2003" y="100" width="554" height="537" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownNorm instance 10017" x="2003" y="100" width="554" height="537" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownNorm instance 10018" x="2003" y="100" width="554" height="537" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownNorm instance 10019" x="2003" y="100" width="554" height="537" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownNorm instance 10020" x="2003" y="100" width="554" height="537" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownNorm instance 10021" x="2003" y="100" width="554" height="537" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostGone1 instance 10000" x="2657" y="100" width="602" height="529"/>
+	<SubTexture name="GhostGone1 instance 10001" x="2657" y="100" width="602" height="529"/>
+	<SubTexture name="GhostGone2 instance 10000" x="3359" y="100" width="466" height="576"/>
+	<SubTexture name="GhostGone2 instance 10001" x="3359" y="100" width="466" height="576"/>
+	<SubTexture name="GhostIdle instance 10000" x="3925" y="100" width="570" height="540" frameX="0" frameY="-5" frameWidth="570" frameHeight="548"/>
+	<SubTexture name="GhostIdle instance 10001" x="3925" y="100" width="570" height="540" frameX="0" frameY="-5" frameWidth="570" frameHeight="548"/>
+	<SubTexture name="GhostIdle instance 10002" x="4595" y="100" width="567" height="541" frameX="-2" frameY="-5" frameWidth="570" frameHeight="548"/>
+	<SubTexture name="GhostIdle instance 10003" x="4595" y="100" width="567" height="541" frameX="-2" frameY="-5" frameWidth="570" frameHeight="548"/>
+	<SubTexture name="GhostIdle instance 10004" x="5262" y="100" width="560" height="544" frameX="-4" frameY="-4" frameWidth="570" frameHeight="548"/>
+	<SubTexture name="GhostIdle instance 10005" x="5262" y="100" width="560" height="544" frameX="-4" frameY="-4" frameWidth="570" frameHeight="548"/>
+	<SubTexture name="GhostIdle instance 10006" x="5922" y="100" width="553" height="548" frameX="-4" frameY="0" frameWidth="570" frameHeight="548"/>
+	<SubTexture name="GhostIdle instance 10007" x="5922" y="100" width="553" height="548" frameX="-4" frameY="0" frameWidth="570" frameHeight="548"/>
+	<SubTexture name="GhostIdle instance 10008" x="6575" y="100" width="552" height="547" frameX="-4" frameY="-1" frameWidth="570" frameHeight="548"/>
+	<SubTexture name="GhostIdle instance 10009" x="6575" y="100" width="552" height="547" frameX="-4" frameY="-1" frameWidth="570" frameHeight="548"/>
+	<SubTexture name="GhostIdle instance 10010" x="6575" y="100" width="552" height="547" frameX="-4" frameY="-1" frameWidth="570" frameHeight="548"/>
+	<SubTexture name="GhostIdle instance 10011" x="6575" y="100" width="552" height="547" frameX="-4" frameY="-1" frameWidth="570" frameHeight="548"/>
+	<SubTexture name="GhostIdle instance 10012" x="6575" y="100" width="552" height="547" frameX="-4" frameY="-1" frameWidth="570" frameHeight="548"/>
+	<SubTexture name="GhostIdle instance 10013" x="6575" y="100" width="552" height="547" frameX="-4" frameY="-1" frameWidth="570" frameHeight="548"/>
+	<SubTexture name="GhostLeftNorm instance 10000" x="7227" y="100" width="527" height="535" frameX="-9" frameY="-7" frameWidth="591" frameHeight="549"/>
+	<SubTexture name="GhostLeftNorm instance 10001" x="7227" y="100" width="527" height="535" frameX="-9" frameY="-7" frameWidth="591" frameHeight="549"/>
+	<SubTexture name="GhostLeftNorm instance 10002" x="100" y="776" width="573" height="540" frameX="-7" frameY="-6" frameWidth="591" frameHeight="549"/>
+	<SubTexture name="GhostLeftNorm instance 10003" x="100" y="776" width="573" height="540" frameX="-7" frameY="-6" frameWidth="591" frameHeight="549"/>
+	<SubTexture name="GhostLeftNorm instance 10004" x="773" y="776" width="587" height="545" frameX="-1" frameY="-3" frameWidth="591" frameHeight="549"/>
+	<SubTexture name="GhostLeftNorm instance 10005" x="773" y="776" width="587" height="545" frameX="-1" frameY="-3" frameWidth="591" frameHeight="549"/>
+	<SubTexture name="GhostLeftNorm instance 10006" x="1460" y="776" width="591" height="549"/>
+	<SubTexture name="GhostLeftNorm instance 10007" x="2151" y="776" width="591" height="549"/>
+	<SubTexture name="GhostLeftNorm instance 10008" x="2151" y="776" width="591" height="549"/>
+	<SubTexture name="GhostLeftNorm instance 10009" x="2151" y="776" width="591" height="549"/>
+	<SubTexture name="GhostLeftNorm instance 10010" x="2151" y="776" width="591" height="549"/>
+	<SubTexture name="GhostLeftNorm instance 10011" x="2151" y="776" width="591" height="549"/>
+	<SubTexture name="GhostLeftNorm instance 10012" x="2151" y="776" width="591" height="549"/>
+	<SubTexture name="GhostLeftNorm instance 10013" x="2151" y="776" width="591" height="549"/>
+	<SubTexture name="GhostLeftNorm instance 10014" x="2151" y="776" width="591" height="549"/>
+	<SubTexture name="GhostLeftNorm instance 10015" x="2151" y="776" width="591" height="549"/>
+	<SubTexture name="GhostLeftNorm instance 10016" x="2151" y="776" width="591" height="549"/>
+	<SubTexture name="GhostLeftNorm instance 10017" x="2151" y="776" width="591" height="549"/>
+	<SubTexture name="GhostLeftNorm instance 10018" x="2151" y="776" width="591" height="549"/>
+	<SubTexture name="GhostLeftNorm instance 10019" x="2151" y="776" width="591" height="549"/>
+	<SubTexture name="GhostLeftNorm instance 10020" x="2151" y="776" width="591" height="549"/>
+	<SubTexture name="GhostLeftNorm instance 10021" x="2151" y="776" width="591" height="549"/>
+	<SubTexture name="GhostLookaround instance 10000" x="2842" y="776" width="566" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10001" x="2842" y="776" width="566" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10002" x="3508" y="776" width="566" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10003" x="3508" y="776" width="566" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10004" x="4174" y="776" width="566" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10005" x="4174" y="776" width="566" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10006" x="4840" y="776" width="566" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10007" x="4840" y="776" width="566" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10008" x="5506" y="776" width="566" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10009" x="5506" y="776" width="566" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10010" x="5506" y="776" width="566" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10011" x="5506" y="776" width="566" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10012" x="5506" y="776" width="566" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10013" x="5506" y="776" width="566" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10014" x="5506" y="776" width="566" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10015" x="5506" y="776" width="566" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10016" x="5506" y="776" width="566" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10017" x="5506" y="776" width="566" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10018" x="6172" y="776" width="566" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10019" x="6172" y="776" width="566" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10020" x="6838" y="776" width="565" height="548" frameX="-18" frameY="-3" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10021" x="6838" y="776" width="565" height="548" frameX="-18" frameY="-3" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10022" x="7503" y="776" width="533" height="523" frameX="-32" frameY="-8" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10023" x="7503" y="776" width="533" height="523" frameX="-32" frameY="-8" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10024" x="100" y="1425" width="505" height="525" frameX="-34" frameY="-2" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10025" x="100" y="1425" width="505" height="525" frameX="-34" frameY="-2" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10026" x="705" y="1425" width="496" height="524" frameX="-36" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10027" x="705" y="1425" width="496" height="524" frameX="-36" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10028" x="705" y="1425" width="496" height="524" frameX="-36" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10029" x="705" y="1425" width="496" height="524" frameX="-36" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10030" x="705" y="1425" width="496" height="524" frameX="-36" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10031" x="705" y="1425" width="496" height="524" frameX="-36" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10032" x="705" y="1425" width="496" height="524" frameX="-36" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10033" x="705" y="1425" width="496" height="524" frameX="-36" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10034" x="705" y="1425" width="496" height="524" frameX="-36" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10035" x="705" y="1425" width="496" height="524" frameX="-36" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10036" x="705" y="1425" width="496" height="524" frameX="-36" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10037" x="1301" y="1425" width="496" height="524" frameX="-36" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10038" x="1301" y="1425" width="496" height="524" frameX="-36" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10039" x="1897" y="1425" width="490" height="536" frameX="-50" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10040" x="1897" y="1425" width="490" height="536" frameX="-50" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10041" x="2487" y="1425" width="543" height="537" frameX="-9" frameY="0" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10042" x="2487" y="1425" width="543" height="537" frameX="-9" frameY="0" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10043" x="3130" y="1425" width="556" height="534" frameX="0" frameY="-1" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10044" x="3130" y="1425" width="556" height="534" frameX="0" frameY="-1" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10045" x="3786" y="1425" width="557" height="538" frameX="-4" frameY="-5" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10046" x="3786" y="1425" width="557" height="538" frameX="-4" frameY="-5" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10047" x="3786" y="1425" width="557" height="538" frameX="-4" frameY="-5" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10048" x="3786" y="1425" width="557" height="538" frameX="-4" frameY="-5" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10049" x="3786" y="1425" width="557" height="538" frameX="-4" frameY="-5" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10050" x="3786" y="1425" width="557" height="538" frameX="-4" frameY="-5" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10051" x="3786" y="1425" width="557" height="538" frameX="-4" frameY="-5" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10052" x="3786" y="1425" width="557" height="538" frameX="-4" frameY="-5" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10053" x="3786" y="1425" width="557" height="538" frameX="-4" frameY="-5" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10054" x="3786" y="1425" width="557" height="538" frameX="-4" frameY="-5" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10055" x="3786" y="1425" width="557" height="538" frameX="-4" frameY="-5" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10056" x="3786" y="1425" width="557" height="538" frameX="-4" frameY="-5" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10057" x="3786" y="1425" width="557" height="538" frameX="-4" frameY="-5" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10058" x="3786" y="1425" width="557" height="538" frameX="-4" frameY="-5" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10059" x="3786" y="1425" width="557" height="538" frameX="-4" frameY="-5" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10060" x="4443" y="1425" width="536" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10061" x="4443" y="1425" width="536" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10062" x="4443" y="1425" width="536" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10063" x="5079" y="1425" width="559" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10064" x="5079" y="1425" width="559" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10065" x="5079" y="1425" width="559" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10066" x="4443" y="1425" width="536" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10067" x="4443" y="1425" width="536" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10068" x="4443" y="1425" width="536" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10069" x="5079" y="1425" width="559" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10070" x="5079" y="1425" width="559" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10071" x="5079" y="1425" width="559" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10072" x="4443" y="1425" width="536" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10073" x="4443" y="1425" width="536" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10074" x="4443" y="1425" width="536" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10075" x="5079" y="1425" width="559" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10076" x="5079" y="1425" width="559" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10077" x="5079" y="1425" width="559" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10078" x="4443" y="1425" width="536" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10079" x="4443" y="1425" width="536" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10080" x="4443" y="1425" width="536" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10081" x="5079" y="1425" width="559" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10082" x="5079" y="1425" width="559" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10083" x="5079" y="1425" width="559" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10084" x="5079" y="1425" width="559" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10085" x="5079" y="1425" width="559" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10086" x="5079" y="1425" width="559" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10087" x="5079" y="1425" width="559" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10088" x="5079" y="1425" width="559" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10089" x="5079" y="1425" width="559" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10090" x="5079" y="1425" width="559" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10091" x="5079" y="1425" width="559" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10092" x="5079" y="1425" width="559" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10093" x="5079" y="1425" width="559" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostLookaround instance 10094" x="5079" y="1425" width="559" height="547" frameX="-11" frameY="-4" frameWidth="583" frameHeight="551"/>
+	<SubTexture name="GhostNormStill instance 10000" x="5738" y="1425" width="552" height="548"/>
+	<SubTexture name="GhostNormStill instance 10001" x="5738" y="1425" width="552" height="548"/>
+	<SubTexture name="GhostNormStill instance 10002" x="5738" y="1425" width="552" height="548"/>
+	<SubTexture name="GhostNormStill instance 10003" x="5738" y="1425" width="552" height="548"/>
+	<SubTexture name="GhostNormStill instance 10004" x="5738" y="1425" width="552" height="548"/>
+	<SubTexture name="GhostNormStill instance 10005" x="5738" y="1425" width="552" height="548"/>
+	<SubTexture name="GhostNormStill instance 10006" x="5738" y="1425" width="552" height="548"/>
+	<SubTexture name="GhostNormStill instance 10007" x="5738" y="1425" width="552" height="548"/>
+	<SubTexture name="GhostNormStill instance 10008" x="5738" y="1425" width="552" height="548"/>
+	<SubTexture name="GhostNormStill instance 10009" x="5738" y="1425" width="552" height="548"/>
+	<SubTexture name="GhostNormStill instance 10010" x="5738" y="1425" width="552" height="548"/>
+	<SubTexture name="GhostNormStill instance 10011" x="5738" y="1425" width="552" height="548"/>
+	<SubTexture name="GhostNormStill instance 10012" x="5738" y="1425" width="552" height="548"/>
+	<SubTexture name="GhostNormStill instance 10013" x="5738" y="1425" width="552" height="548"/>
+	<SubTexture name="GhostNormStill instance 10014" x="5738" y="1425" width="552" height="548"/>
+	<SubTexture name="GhostNormStill instance 10015" x="5738" y="1425" width="552" height="548"/>
+	<SubTexture name="GhostNormStill instance 10016" x="5738" y="1425" width="552" height="548"/>
+	<SubTexture name="GhostNormStill instance 10017" x="5738" y="1425" width="552" height="548"/>
+	<SubTexture name="GhostRightNorm instance 10000" x="6390" y="1425" width="511" height="557" frameX="-5" frameY="0" frameWidth="550" frameHeight="557"/>
+	<SubTexture name="GhostRightNorm instance 10001" x="6390" y="1425" width="511" height="557" frameX="-5" frameY="0" frameWidth="550" frameHeight="557"/>
+	<SubTexture name="GhostRightNorm instance 10002" x="7001" y="1425" width="532" height="551" frameX="-2" frameY="0" frameWidth="550" frameHeight="557"/>
+	<SubTexture name="GhostRightNorm instance 10003" x="7001" y="1425" width="532" height="551" frameX="-2" frameY="0" frameWidth="550" frameHeight="557"/>
+	<SubTexture name="GhostRightNorm instance 10004" x="100" y="2082" width="545" height="550" frameX="0" frameY="0" frameWidth="550" frameHeight="557"/>
+	<SubTexture name="GhostRightNorm instance 10005" x="100" y="2082" width="545" height="550" frameX="0" frameY="0" frameWidth="550" frameHeight="557"/>
+	<SubTexture name="GhostRightNorm instance 10006" x="745" y="2082" width="550" height="549" frameX="0" frameY="0" frameWidth="550" frameHeight="557"/>
+	<SubTexture name="GhostRightNorm instance 10007" x="745" y="2082" width="550" height="549" frameX="0" frameY="0" frameWidth="550" frameHeight="557"/>
+	<SubTexture name="GhostRightNorm instance 10008" x="745" y="2082" width="550" height="549" frameX="0" frameY="0" frameWidth="550" frameHeight="557"/>
+	<SubTexture name="GhostRightNorm instance 10009" x="745" y="2082" width="550" height="549" frameX="0" frameY="0" frameWidth="550" frameHeight="557"/>
+	<SubTexture name="GhostRightNorm instance 10010" x="745" y="2082" width="550" height="549" frameX="0" frameY="0" frameWidth="550" frameHeight="557"/>
+	<SubTexture name="GhostRightNorm instance 10011" x="745" y="2082" width="550" height="549" frameX="0" frameY="0" frameWidth="550" frameHeight="557"/>
+	<SubTexture name="GhostRightNorm instance 10012" x="745" y="2082" width="550" height="549" frameX="0" frameY="0" frameWidth="550" frameHeight="557"/>
+	<SubTexture name="GhostRightNorm instance 10013" x="745" y="2082" width="550" height="549" frameX="0" frameY="0" frameWidth="550" frameHeight="557"/>
+	<SubTexture name="GhostRightNorm instance 10014" x="745" y="2082" width="550" height="549" frameX="0" frameY="0" frameWidth="550" frameHeight="557"/>
+	<SubTexture name="GhostShockOg instance 10000" x="1395" y="2082" width="601" height="576"/>
+	<SubTexture name="GhostShockOg instance 10001" x="1395" y="2082" width="601" height="576"/>
+	<SubTexture name="GhostShockOg instance 10002" x="100" y="6703" width="570" height="548" frameX="-15" frameY="-15" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="GhostShockOg instance 10003" x="100" y="6703" width="570" height="548" frameX="-15" frameY="-15" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="GhostShockOg instance 10004" x="2096" y="2082" width="565" height="546" frameX="-15" frameY="-15" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="GhostShockOg instance 10005" x="2096" y="2082" width="565" height="546" frameX="-15" frameY="-15" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="GhostShockOg instance 10006" x="2761" y="2082" width="565" height="546" frameX="-15" frameY="-15" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="GhostShockOg instance 10007" x="2761" y="2082" width="565" height="546" frameX="-15" frameY="-15" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="GhostShockOg instance 10008" x="2761" y="2082" width="565" height="546" frameX="-15" frameY="-15" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="GhostShockOg instance 10009" x="2761" y="2082" width="565" height="546" frameX="-15" frameY="-15" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="GhostShockOg instance 10010" x="2761" y="2082" width="565" height="546" frameX="-15" frameY="-15" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="GhostShockOg instance 10011" x="2761" y="2082" width="565" height="546" frameX="-15" frameY="-15" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="GhostShockOg instance 10012" x="2761" y="2082" width="565" height="546" frameX="-15" frameY="-15" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="GhostShockOg instance 10013" x="2761" y="2082" width="565" height="546" frameX="-15" frameY="-15" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="GhostShockOg instance 10014" x="2761" y="2082" width="565" height="546" frameX="-15" frameY="-15" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="GhostShockOg instance 10015" x="2761" y="2082" width="565" height="546" frameX="-15" frameY="-15" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="GhostShockOg instance 10016" x="2761" y="2082" width="565" height="546" frameX="-15" frameY="-15" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="GhostShockOg instance 10017" x="2761" y="2082" width="565" height="546" frameX="-15" frameY="-15" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="GhostShockOg instance 10018" x="3426" y="2082" width="565" height="546" frameX="-15" frameY="-15" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="GhostShockOg instance 10019" x="3426" y="2082" width="565" height="546" frameX="-15" frameY="-15" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="GhostShockOg instance 10020" x="3426" y="2082" width="565" height="546" frameX="-15" frameY="-15" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="GhostShockOg instance 10021" x="4091" y="2082" width="565" height="546" frameX="-15" frameY="-15" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="GhostShockOg instance 10022" x="4091" y="2082" width="565" height="546" frameX="-15" frameY="-15" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="GhostShockOg instance 10023" x="2761" y="2082" width="565" height="546" frameX="-15" frameY="-15" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="GhostShockOg instance 10024" x="2761" y="2082" width="565" height="546" frameX="-15" frameY="-15" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="GhostShockOg instance 10025" x="2761" y="2082" width="565" height="546" frameX="-15" frameY="-15" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="GhostShockOg instance 10026" x="2761" y="2082" width="565" height="546" frameX="-15" frameY="-15" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="GhostShockOg instance 10027" x="2761" y="2082" width="565" height="546" frameX="-15" frameY="-15" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="GhostShockOg instance 10028" x="2761" y="2082" width="565" height="546" frameX="-15" frameY="-15" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="GhostShockOg instance 10029" x="2761" y="2082" width="565" height="546" frameX="-15" frameY="-15" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="GhostShockOg instance 10030" x="2761" y="2082" width="565" height="546" frameX="-15" frameY="-15" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="GhostShockOg instance 10031" x="2761" y="2082" width="565" height="546" frameX="-15" frameY="-15" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="GhostShockOg instance 10032" x="2761" y="2082" width="565" height="546" frameX="-15" frameY="-15" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="GhostShockOg instance 10033" x="2761" y="2082" width="565" height="546" frameX="-15" frameY="-15" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="GhostShockOg instance 10034" x="2761" y="2082" width="565" height="546" frameX="-15" frameY="-15" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="GhostShockOg instance 10035" x="2761" y="2082" width="565" height="546" frameX="-15" frameY="-15" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="GhostShockOg instance 10036" x="2761" y="2082" width="565" height="546" frameX="-15" frameY="-15" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="GhostShockOg instance 10037" x="2761" y="2082" width="565" height="546" frameX="-15" frameY="-15" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="GhostUpNorm instance 10000" x="4756" y="2082" width="560" height="541" frameX="-32" frameY="0" frameWidth="604" frameHeight="543"/>
+	<SubTexture name="GhostUpNorm instance 10001" x="4756" y="2082" width="560" height="541" frameX="-32" frameY="0" frameWidth="604" frameHeight="543"/>
+	<SubTexture name="GhostUpNorm instance 10002" x="1457" y="4082" width="593" height="532" frameX="-13" frameY="-10" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="GhostUpNorm instance 10003" x="1457" y="4082" width="593" height="532" frameX="-13" frameY="-10" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="GhostUpNorm instance 10004" x="5416" y="2082" width="603" height="526" frameX="0" frameY="-17" frameWidth="604" frameHeight="543"/>
+	<SubTexture name="GhostUpNorm instance 10005" x="5416" y="2082" width="603" height="526" frameX="0" frameY="-17" frameWidth="604" frameHeight="543"/>
+	<SubTexture name="GhostUpNorm instance 10006" x="5416" y="2082" width="603" height="526" frameX="0" frameY="-17" frameWidth="604" frameHeight="543"/>
+	<SubTexture name="GhostUpNorm instance 10007" x="5416" y="2082" width="603" height="526" frameX="0" frameY="-17" frameWidth="604" frameHeight="543"/>
+	<SubTexture name="GhostUpNorm instance 10008" x="5416" y="2082" width="603" height="526" frameX="0" frameY="-17" frameWidth="604" frameHeight="543"/>
+	<SubTexture name="GhostUpNorm instance 10009" x="5416" y="2082" width="603" height="526" frameX="0" frameY="-17" frameWidth="604" frameHeight="543"/>
+	<SubTexture name="GhostUpNorm instance 10010" x="5416" y="2082" width="603" height="526" frameX="0" frameY="-17" frameWidth="604" frameHeight="543"/>
+	<SubTexture name="GhostUpNorm instance 10011" x="5416" y="2082" width="603" height="526" frameX="0" frameY="-17" frameWidth="604" frameHeight="543"/>
+	<SubTexture name="GhostUpNorm instance 10012" x="5416" y="2082" width="603" height="526" frameX="0" frameY="-17" frameWidth="604" frameHeight="543"/>
+	<SubTexture name="GhostUpNorm instance 10013" x="5416" y="2082" width="603" height="526" frameX="0" frameY="-17" frameWidth="604" frameHeight="543"/>
+	<SubTexture name="GhostUpNorm instance 10014" x="5416" y="2082" width="603" height="526" frameX="0" frameY="-17" frameWidth="604" frameHeight="543"/>
+	<SubTexture name="Ghost_Open's door instance 10000" x="6119" y="2082" width="576" height="548" frameX="0" frameY="-15" frameWidth="604" frameHeight="563"/>
+	<SubTexture name="Ghost_Open's door instance 10001" x="6119" y="2082" width="576" height="548" frameX="0" frameY="-15" frameWidth="604" frameHeight="563"/>
+	<SubTexture name="Ghost_Open's door instance 10002" x="6795" y="2082" width="586" height="548" frameX="-11" frameY="-4" frameWidth="604" frameHeight="563"/>
+	<SubTexture name="Ghost_Open's door instance 10003" x="6795" y="2082" width="586" height="548" frameX="-11" frameY="-4" frameWidth="604" frameHeight="563"/>
+	<SubTexture name="Ghost_Open's door instance 10004" x="7481" y="2082" width="589" height="548" frameX="-15" frameY="0" frameWidth="604" frameHeight="563"/>
+	<SubTexture name="Ghost_Open's door instance 10005" x="7481" y="2082" width="589" height="548" frameX="-15" frameY="0" frameWidth="604" frameHeight="563"/>
+	<SubTexture name="Ghost_Open's door instance 10006" x="100" y="2758" width="589" height="548" frameX="-15" frameY="0" frameWidth="604" frameHeight="563"/>
+	<SubTexture name="Ghost_Open's door instance 10007" x="100" y="2758" width="589" height="548" frameX="-15" frameY="0" frameWidth="604" frameHeight="563"/>
+	<SubTexture name="Ghost_Open's door instance 10008" x="789" y="2758" width="589" height="548" frameX="-15" frameY="0" frameWidth="604" frameHeight="563"/>
+	<SubTexture name="Ghost_Open's door instance 10009" x="789" y="2758" width="589" height="548" frameX="-15" frameY="0" frameWidth="604" frameHeight="563"/>
+	<SubTexture name="Ghost_Open's door instance 10010" x="1478" y="2758" width="589" height="548" frameX="-15" frameY="0" frameWidth="604" frameHeight="563"/>
+	<SubTexture name="Ghost_Open's door instance 10011" x="1478" y="2758" width="589" height="548" frameX="-15" frameY="0" frameWidth="604" frameHeight="563"/>
+	<SubTexture name="Ghost_Open's door instance 10012" x="1478" y="2758" width="589" height="548" frameX="-15" frameY="0" frameWidth="604" frameHeight="563"/>
+	<SubTexture name="Ghost_Open's door instance 10013" x="2167" y="2758" width="589" height="548" frameX="-15" frameY="0" frameWidth="604" frameHeight="563"/>
+	<SubTexture name="Ghost_Open's door instance 10014" x="2167" y="2758" width="589" height="548" frameX="-15" frameY="0" frameWidth="604" frameHeight="563"/>
+	<SubTexture name="Ghost_Open's door instance 10015" x="2167" y="2758" width="589" height="548" frameX="-15" frameY="0" frameWidth="604" frameHeight="563"/>
+	<SubTexture name="Ghost_Open's door instance 10016" x="2167" y="2758" width="589" height="548" frameX="-15" frameY="0" frameWidth="604" frameHeight="563"/>
+	<SubTexture name="Ghost_Open's door instance 10017" x="2167" y="2758" width="589" height="548" frameX="-15" frameY="0" frameWidth="604" frameHeight="563"/>
+	<SubTexture name="Ghost_Open's door instance 10018" x="2167" y="2758" width="589" height="548" frameX="-15" frameY="0" frameWidth="604" frameHeight="563"/>
+	<SubTexture name="Ghost_Open's door instance 10019" x="2167" y="2758" width="589" height="548" frameX="-15" frameY="0" frameWidth="604" frameHeight="563"/>
+	<SubTexture name="Ghost_Open's door instance 10020" x="2167" y="2758" width="589" height="548" frameX="-15" frameY="0" frameWidth="604" frameHeight="563"/>
+	<SubTexture name="Ghost_Open's door instance 10021" x="2167" y="2758" width="589" height="548" frameX="-15" frameY="0" frameWidth="604" frameHeight="563"/>
+	<SubTexture name="Ghost_Open's door instance 10022" x="2167" y="2758" width="589" height="548" frameX="-15" frameY="0" frameWidth="604" frameHeight="563"/>
+	<SubTexture name="Ghost_Open's door instance 10023" x="2856" y="2758" width="589" height="548" frameX="-15" frameY="0" frameWidth="604" frameHeight="563"/>
+	<SubTexture name="Ghost_Open's door instance 10024" x="2856" y="2758" width="589" height="548" frameX="-15" frameY="0" frameWidth="604" frameHeight="563"/>
+	<SubTexture name="Ghost_Open's door instance 10025" x="2856" y="2758" width="589" height="548" frameX="-15" frameY="0" frameWidth="604" frameHeight="563"/>
+	<SubTexture name="Ghost_Open's door instance 10026" x="3545" y="2758" width="589" height="548" frameX="-15" frameY="0" frameWidth="604" frameHeight="563"/>
+	<SubTexture name="Ghost_Open's door instance 10027" x="3545" y="2758" width="589" height="548" frameX="-15" frameY="0" frameWidth="604" frameHeight="563"/>
+	<SubTexture name="Ghost_Open's door instance 10028" x="3545" y="2758" width="589" height="548" frameX="-15" frameY="0" frameWidth="604" frameHeight="563"/>
+	<SubTexture name="Ghost_Open's door instance 10029" x="4234" y="2758" width="589" height="548" frameX="-15" frameY="0" frameWidth="604" frameHeight="563"/>
+	<SubTexture name="Ghost_Open's door instance 10030" x="4234" y="2758" width="589" height="548" frameX="-15" frameY="0" frameWidth="604" frameHeight="563"/>
+	<SubTexture name="Ghost_Open's door instance 10031" x="4234" y="2758" width="589" height="548" frameX="-15" frameY="0" frameWidth="604" frameHeight="563"/>
+	<SubTexture name="Ghost_Open's door instance 10032" x="4923" y="2758" width="577" height="548" frameX="-15" frameY="0" frameWidth="604" frameHeight="563"/>
+	<SubTexture name="Ghost_Open's door instance 10033" x="4923" y="2758" width="577" height="548" frameX="-15" frameY="0" frameWidth="604" frameHeight="563"/>
+	<SubTexture name="Ghost_Open's door instance 10034" x="5600" y="2758" width="544" height="548" frameX="-15" frameY="0" frameWidth="604" frameHeight="563"/>
+	<SubTexture name="Ghost_Open's door instance 10035" x="5600" y="2758" width="544" height="548" frameX="-15" frameY="0" frameWidth="604" frameHeight="563"/>
+	<SubTexture name="Ghost_Open's door instance 10036" x="6244" y="2758" width="551" height="548" frameX="-15" frameY="0" frameWidth="604" frameHeight="563"/>
+	<SubTexture name="Ghost_Open's door instance 10037" x="6244" y="2758" width="551" height="548" frameX="-15" frameY="0" frameWidth="604" frameHeight="563"/>
+	<SubTexture name="Ghost_Open's door instance 10038" x="6895" y="2758" width="553" height="548" frameX="-15" frameY="0" frameWidth="604" frameHeight="563"/>
+	<SubTexture name="Ghost_Open's door instance 10039" x="6895" y="2758" width="553" height="548" frameX="-15" frameY="0" frameWidth="604" frameHeight="563"/>
+	<SubTexture name="Ghost_Open's door instance 10040" x="6895" y="2758" width="553" height="548" frameX="-15" frameY="0" frameWidth="604" frameHeight="563"/>
+	<SubTexture name="Ghost_Scared instance 10000" x="100" y="3406" width="570" height="547" frameX="-1" frameY="0" frameWidth="579" frameHeight="547"/>
+	<SubTexture name="Ghost_Scared instance 10001" x="100" y="3406" width="570" height="547" frameX="-1" frameY="0" frameWidth="579" frameHeight="547"/>
+	<SubTexture name="Ghost_Scared instance 10002" x="770" y="3406" width="575" height="547" frameX="-1" frameY="0" frameWidth="579" frameHeight="547"/>
+	<SubTexture name="Ghost_Scared instance 10003" x="770" y="3406" width="575" height="547" frameX="-1" frameY="0" frameWidth="579" frameHeight="547"/>
+	<SubTexture name="Ghost_Scared instance 10004" x="1445" y="3406" width="579" height="547"/>
+	<SubTexture name="Ghost_Scared instance 10005" x="1445" y="3406" width="579" height="547"/>
+	<SubTexture name="Ghost_Scared instance 10006" x="1445" y="3406" width="579" height="547"/>
+	<SubTexture name="Ghost_Scared instance 10007" x="1445" y="3406" width="579" height="547"/>
+	<SubTexture name="Ghost_Scared instance 10008" x="1445" y="3406" width="579" height="547"/>
+	<SubTexture name="Ghost_Scared instance 10009" x="1445" y="3406" width="579" height="547"/>
+	<SubTexture name="Ghost_Scared instance 10010" x="1445" y="3406" width="579" height="547"/>
+	<SubTexture name="Ghost_Scared instance 10011" x="1445" y="3406" width="579" height="547"/>
+	<SubTexture name="Ghost_Scared instance 10012" x="1445" y="3406" width="579" height="547"/>
+	<SubTexture name="Ghost_Scared instance 10013" x="1445" y="3406" width="579" height="547"/>
+	<SubTexture name="Ghost_Scared instance 10014" x="1445" y="3406" width="579" height="547"/>
+	<SubTexture name="Ghost_Scared instance 10015" x="1445" y="3406" width="579" height="547"/>
+	<SubTexture name="Ghost_Scared instance 10016" x="1445" y="3406" width="579" height="547"/>
+	<SubTexture name="Ghost_Shock instance 10000" x="2124" y="3406" width="569" height="548" frameX="0" frameY="0" frameWidth="578" frameHeight="548"/>
+	<SubTexture name="Ghost_Shock instance 10001" x="2124" y="3406" width="569" height="548" frameX="0" frameY="0" frameWidth="578" frameHeight="548"/>
+	<SubTexture name="Ghost_Shock instance 10002" x="2793" y="3406" width="575" height="548" frameX="0" frameY="0" frameWidth="578" frameHeight="548"/>
+	<SubTexture name="Ghost_Shock instance 10003" x="2793" y="3406" width="575" height="548" frameX="0" frameY="0" frameWidth="578" frameHeight="548"/>
+	<SubTexture name="Ghost_Shock instance 10004" x="3468" y="3406" width="578" height="548"/>
+	<SubTexture name="Ghost_Shock instance 10005" x="3468" y="3406" width="578" height="548"/>
+	<SubTexture name="Ghost_Shock instance 10006" x="3468" y="3406" width="578" height="548"/>
+	<SubTexture name="Ghost_Shock instance 10007" x="3468" y="3406" width="578" height="548"/>
+	<SubTexture name="Ghost_Shock instance 10008" x="3468" y="3406" width="578" height="548"/>
+	<SubTexture name="Ghost_Shock instance 10009" x="3468" y="3406" width="578" height="548"/>
+	<SubTexture name="Ghost_Shock instance 10010" x="3468" y="3406" width="578" height="548"/>
+	<SubTexture name="Ghost_Shock instance 10011" x="3468" y="3406" width="578" height="548"/>
+	<SubTexture name="Ghost_Shock instance 10012" x="3468" y="3406" width="578" height="548"/>
+	<SubTexture name="Ghost_Shock instance 10013" x="3468" y="3406" width="578" height="548"/>
+	<SubTexture name="Ghost_Shock instance 10014" x="3468" y="3406" width="578" height="548"/>
+	<SubTexture name="Ghost_Shock instance 10015" x="3468" y="3406" width="578" height="548"/>
+	<SubTexture name="Ghost_Shock instance 10016" x="3468" y="3406" width="578" height="548"/>
+	<SubTexture name="Ghost_Shock instance 10017" x="3468" y="3406" width="578" height="548"/>
+	<SubTexture name="Ghost_Shock instance 10018" x="3468" y="3406" width="578" height="548"/>
+	<SubTexture name="Ghost_Shock instance 10019" x="3468" y="3406" width="578" height="548"/>
+	<SubTexture name="Ghost_Shock instance 10020" x="3468" y="3406" width="578" height="548"/>
+	<SubTexture name="Ghost_Shock instance 10021" x="3468" y="3406" width="578" height="548"/>
+	<SubTexture name="Ghost_Shock instance 10022" x="3468" y="3406" width="578" height="548"/>
+	<SubTexture name="Ghost_Shock instance 10023" x="3468" y="3406" width="578" height="548"/>
+	<SubTexture name="Ghost_Shock instance 10024" x="3468" y="3406" width="578" height="548"/>
+	<SubTexture name="Ghost_Shock3 instance 10000" x="4146" y="3406" width="510" height="576" frameX="-44" frameY="0" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10001" x="4146" y="3406" width="510" height="576" frameX="-44" frameY="0" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10002" x="4756" y="3406" width="536" height="556" frameX="-30" frameY="-15" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10003" x="4756" y="3406" width="536" height="556" frameX="-30" frameY="-15" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10004" x="5392" y="3406" width="553" height="548" frameX="-22" frameY="-19" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10005" x="5392" y="3406" width="553" height="548" frameX="-22" frameY="-19" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10006" x="5392" y="3406" width="553" height="548" frameX="-22" frameY="-19" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10007" x="5392" y="3406" width="553" height="548" frameX="-22" frameY="-19" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10008" x="6045" y="3406" width="553" height="548" frameX="-22" frameY="-19" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10009" x="6045" y="3406" width="553" height="548" frameX="-22" frameY="-19" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10010" x="6698" y="3406" width="553" height="548" frameX="-22" frameY="-19" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10011" x="6698" y="3406" width="553" height="548" frameX="-22" frameY="-19" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10012" x="7351" y="3406" width="553" height="548" frameX="-22" frameY="-19" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10013" x="7351" y="3406" width="553" height="548" frameX="-22" frameY="-19" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10014" x="7351" y="3406" width="553" height="548" frameX="-22" frameY="-19" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10015" x="100" y="4082" width="553" height="548" frameX="-22" frameY="-19" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10016" x="100" y="4082" width="553" height="548" frameX="-22" frameY="-19" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10017" x="100" y="4082" width="553" height="548" frameX="-22" frameY="-19" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10018" x="100" y="4082" width="553" height="548" frameX="-22" frameY="-19" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10019" x="100" y="4082" width="553" height="548" frameX="-22" frameY="-19" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10020" x="100" y="4082" width="553" height="548" frameX="-22" frameY="-19" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10021" x="100" y="4082" width="553" height="548" frameX="-22" frameY="-19" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10022" x="100" y="4082" width="553" height="548" frameX="-22" frameY="-19" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10023" x="100" y="4082" width="553" height="548" frameX="-22" frameY="-19" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10024" x="100" y="4082" width="553" height="548" frameX="-22" frameY="-19" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10025" x="100" y="4082" width="553" height="548" frameX="-22" frameY="-19" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10026" x="100" y="4082" width="553" height="548" frameX="-22" frameY="-19" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10027" x="100" y="4082" width="553" height="548" frameX="-22" frameY="-19" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10028" x="100" y="4082" width="553" height="548" frameX="-22" frameY="-19" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10029" x="100" y="4082" width="553" height="548" frameX="-22" frameY="-19" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10030" x="100" y="4082" width="553" height="548" frameX="-22" frameY="-19" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10031" x="100" y="4082" width="553" height="548" frameX="-22" frameY="-19" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10032" x="100" y="4082" width="553" height="548" frameX="-22" frameY="-19" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10033" x="100" y="4082" width="553" height="548" frameX="-22" frameY="-19" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10034" x="753" y="4082" width="604" height="525" frameX="0" frameY="-28" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10035" x="753" y="4082" width="604" height="525" frameX="0" frameY="-28" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10036" x="1457" y="4082" width="593" height="532" frameX="-12" frameY="-20" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10037" x="1457" y="4082" width="593" height="532" frameX="-12" frameY="-20" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10038" x="2150" y="4082" width="561" height="541" frameX="-32" frameY="-10" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10039" x="2150" y="4082" width="561" height="541" frameX="-32" frameY="-10" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10040" x="2811" y="4082" width="601" height="525" frameX="0" frameY="-28" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10041" x="2811" y="4082" width="601" height="525" frameX="0" frameY="-28" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10042" x="3512" y="4082" width="541" height="538" frameX="-8" frameY="-15" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10043" x="3512" y="4082" width="541" height="538" frameX="-8" frameY="-15" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10044" x="4153" y="4082" width="554" height="537" frameX="-8" frameY="-21" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10045" x="4153" y="4082" width="554" height="537" frameX="-8" frameY="-21" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10046" x="4807" y="4082" width="564" height="534" frameX="-8" frameY="-27" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10047" x="4807" y="4082" width="564" height="534" frameX="-8" frameY="-27" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10048" x="5471" y="4082" width="564" height="534" frameX="-8" frameY="-27" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10049" x="5471" y="4082" width="564" height="534" frameX="-8" frameY="-27" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10050" x="6135" y="4082" width="564" height="534" frameX="-8" frameY="-27" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10051" x="6799" y="4082" width="543" height="547" frameX="-20" frameY="-21" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10052" x="6799" y="4082" width="543" height="547" frameX="-20" frameY="-21" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10053" x="7442" y="4082" width="546" height="548" frameX="-23" frameY="-20" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10054" x="7442" y="4082" width="546" height="548" frameX="-23" frameY="-20" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10055" x="100" y="4730" width="553" height="548" frameX="-22" frameY="-19" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10056" x="100" y="4730" width="553" height="548" frameX="-22" frameY="-19" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10057" x="753" y="4730" width="553" height="548" frameX="-22" frameY="-19" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10058" x="753" y="4730" width="553" height="548" frameX="-22" frameY="-19" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10059" x="753" y="4730" width="553" height="548" frameX="-22" frameY="-19" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10060" x="753" y="4730" width="553" height="548" frameX="-22" frameY="-19" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10061" x="753" y="4730" width="553" height="548" frameX="-22" frameY="-19" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10062" x="753" y="4730" width="553" height="548" frameX="-22" frameY="-19" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10063" x="753" y="4730" width="553" height="548" frameX="-22" frameY="-19" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10064" x="753" y="4730" width="553" height="548" frameX="-22" frameY="-19" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10065" x="753" y="4730" width="553" height="548" frameX="-22" frameY="-19" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10066" x="753" y="4730" width="553" height="548" frameX="-22" frameY="-19" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10067" x="753" y="4730" width="553" height="548" frameX="-22" frameY="-19" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10068" x="753" y="4730" width="553" height="548" frameX="-22" frameY="-19" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock3 instance 10069" x="753" y="4730" width="553" height="548" frameX="-22" frameY="-19" frameWidth="605" frameHeight="576"/>
+	<SubTexture name="Ghost_Shock4 instance 10000" x="1406" y="4730" width="565" height="548"/>
+	<SubTexture name="Ghost_Shock4 instance 10001" x="1406" y="4730" width="565" height="548"/>
+	<SubTexture name="Ghost_Shock4 instance 10002" x="2071" y="4730" width="565" height="548"/>
+	<SubTexture name="Ghost_Shock4 instance 10003" x="2071" y="4730" width="565" height="548"/>
+	<SubTexture name="Ghost_Shock4 instance 10004" x="2736" y="4730" width="565" height="548"/>
+	<SubTexture name="Ghost_Shock4 instance 10005" x="2736" y="4730" width="565" height="548"/>
+	<SubTexture name="Ghost_Shock4 instance 10006" x="3401" y="4730" width="565" height="548"/>
+	<SubTexture name="Ghost_Shock4 instance 10007" x="3401" y="4730" width="565" height="548"/>
+	<SubTexture name="Ghost_Shock4 instance 10008" x="3401" y="4730" width="565" height="548"/>
+	<SubTexture name="Ghost_Shock4 instance 10009" x="4066" y="4730" width="565" height="548"/>
+	<SubTexture name="Ghost_Shock4 instance 10010" x="4066" y="4730" width="565" height="548"/>
+	<SubTexture name="Ghost_Shock4 instance 10011" x="4066" y="4730" width="565" height="548"/>
+	<SubTexture name="Ghost_Shock4 instance 10012" x="4066" y="4730" width="565" height="548"/>
+	<SubTexture name="Ghost_Shock4 instance 10013" x="4066" y="4730" width="565" height="548"/>
+	<SubTexture name="Ghost_Shock4 instance 10014" x="4066" y="4730" width="565" height="548"/>
+	<SubTexture name="Ghost_Shock4 instance 10015" x="4731" y="4730" width="565" height="548"/>
+	<SubTexture name="Ghost_Shock4 instance 10016" x="4731" y="4730" width="565" height="548"/>
+	<SubTexture name="Ghost_Shock4 instance 10017" x="4731" y="4730" width="565" height="548"/>
+	<SubTexture name="Ghost_Shock4 instance 10018" x="4731" y="4730" width="565" height="548"/>
+	<SubTexture name="Ghost_Shock4 instance 10019" x="4731" y="4730" width="565" height="548"/>
+	<SubTexture name="Ghost_Shock4 instance 10020" x="4731" y="4730" width="565" height="548"/>
+	<SubTexture name="Ghost_Shock4 instance 10021" x="4731" y="4730" width="565" height="548"/>
+	<SubTexture name="Ghost_Shock4 instance 10022" x="4731" y="4730" width="565" height="548"/>
+	<SubTexture name="Ghost_Shock4 instance 10023" x="5396" y="4730" width="565" height="548"/>
+	<SubTexture name="Ghost_Shock4 instance 10024" x="5396" y="4730" width="565" height="548"/>
+	<SubTexture name="Ghost_Shock4 instance 10025" x="5396" y="4730" width="565" height="548"/>
+	<SubTexture name="Ghost_Shock4 instance 10026" x="5396" y="4730" width="565" height="548"/>
+	<SubTexture name="Ghost_Shock4 instance 10027" x="5396" y="4730" width="565" height="548"/>
+	<SubTexture name="Ghost_Shock4 instance 10028" x="5396" y="4730" width="565" height="548"/>
+	<SubTexture name="Ghost_Shock4 instance 10029" x="5396" y="4730" width="565" height="548"/>
+	<SubTexture name="Ghost_Shock4 instance 10030" x="5396" y="4730" width="565" height="548"/>
+	<SubTexture name="Ghost_Shock4 instance 10031" x="5396" y="4730" width="565" height="548"/>
+	<SubTexture name="Ghost_Shock4 instance 10032" x="5396" y="4730" width="565" height="548"/>
+	<SubTexture name="Ghost_Shock4 instance 10033" x="5396" y="4730" width="565" height="548"/>
+	<SubTexture name="Ghost_Shock4 instance 10034" x="5396" y="4730" width="565" height="548"/>
+	<SubTexture name="Ghost_Shock4 instance 10035" x="5396" y="4730" width="565" height="548"/>
+	<SubTexture name="Ghost_Shock4 instance 10036" x="5396" y="4730" width="565" height="548"/>
+	<SubTexture name="Ghost_Shock4 instance 10037" x="5396" y="4730" width="565" height="548"/>
+	<SubTexture name="Ghost_Shock4 instance 10038" x="5396" y="4730" width="565" height="548"/>
+	<SubTexture name="Ghost_Shock4 instance 10039" x="5396" y="4730" width="565" height="548"/>
+	<SubTexture name="Ghost_Shock4 instance 10040" x="5396" y="4730" width="565" height="548"/>
+	<SubTexture name="Ghost_TeleButton instance 10000" x="6061" y="4730" width="515" height="548"/>
+	<SubTexture name="Ghost_TeleButton instance 10001" x="6061" y="4730" width="515" height="548"/>
+	<SubTexture name="Ghost_TeleButton instance 10002" x="6676" y="4730" width="515" height="548"/>
+	<SubTexture name="Ghost_TeleButton instance 10003" x="6676" y="4730" width="515" height="548"/>
+	<SubTexture name="Ghost_TeleButton instance 10004" x="7291" y="4730" width="515" height="548"/>
+	<SubTexture name="Ghost_TeleButton instance 10005" x="7291" y="4730" width="515" height="548"/>
+	<SubTexture name="Ghost_TeleButton instance 10006" x="7291" y="4730" width="515" height="548"/>
+	<SubTexture name="Ghost_TeleButton instance 10007" x="7291" y="4730" width="515" height="548"/>
+	<SubTexture name="Ghost_TeleButton instance 10008" x="7291" y="4730" width="515" height="548"/>
+	<SubTexture name="Ghost_TeleButton instance 10009" x="7291" y="4730" width="515" height="548"/>
+	<SubTexture name="Ghost_TeleButton instance 10010" x="7291" y="4730" width="515" height="548"/>
+	<SubTexture name="Ghost_TeleButton instance 10011" x="7291" y="4730" width="515" height="548"/>
+	<SubTexture name="Ghost_TeleButton instance 10012" x="7291" y="4730" width="515" height="548"/>
+	<SubTexture name="Ghost_TeleButton instance 10013" x="7291" y="4730" width="515" height="548"/>
+	<SubTexture name="Ghost_TeleButton instance 10014" x="7291" y="4730" width="515" height="548"/>
+	<SubTexture name="Ghost_TeleButton instance 10015" x="7291" y="4730" width="515" height="548"/>
+	<SubTexture name="Ghost_TeleButton instance 10016" x="7291" y="4730" width="515" height="548"/>
+	<SubTexture name="Ghost_TeleButton instance 10017" x="7291" y="4730" width="515" height="548"/>
+	<SubTexture name="Ghost_TeleButton instance 10018" x="7291" y="4730" width="515" height="548"/>
+	<SubTexture name="Ghost_TeleButton instance 10019" x="7291" y="4730" width="515" height="548"/>
+	<SubTexture name="Ghost_TeleButton instance 10020" x="7291" y="4730" width="515" height="548"/>
+	<SubTexture name="Ghost_TeleButton instance 10021" x="7291" y="4730" width="515" height="548"/>
+	<SubTexture name="Ghost_TeleButton instance 10022" x="7291" y="4730" width="515" height="548"/>
+	<SubTexture name="Ghost_TeleButton instance 10023" x="7291" y="4730" width="515" height="548"/>
+	<SubTexture name="Ghost_TeleButtonBruh instance 10000" x="100" y="5378" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButtonBruh instance 10001" x="100" y="5378" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButtonBruh instance 10002" x="714" y="5378" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButtonBruh instance 10003" x="714" y="5378" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButtonBruh instance 10004" x="1328" y="5378" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButtonBruh instance 10005" x="1328" y="5378" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButtonBruh instance 10006" x="1328" y="5378" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButtonBruh instance 10007" x="1328" y="5378" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButtonBruh instance 10008" x="1328" y="5378" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButtonBruh instance 10009" x="1328" y="5378" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButtonBruh instance 10010" x="1328" y="5378" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButtonBruh instance 10011" x="1328" y="5378" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButtonBruh instance 10012" x="1328" y="5378" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButtonBruh instance 10013" x="1328" y="5378" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButtonBruh instance 10014" x="1328" y="5378" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButtonBruh instance 10015" x="1328" y="5378" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButtonBruh instance 10016" x="1328" y="5378" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButtonBruh instance 10017" x="1328" y="5378" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButtonBruh instance 10018" x="1328" y="5378" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButtonBruh instance 10019" x="1328" y="5378" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButtonBruh instance 10020" x="1328" y="5378" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButtonBruh instance 10021" x="1328" y="5378" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButtonBruh instance 10022" x="1328" y="5378" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButtonBruh instance 10023" x="1328" y="5378" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButtonBruh instance 10024" x="1328" y="5378" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButtonBruh instance 10025" x="1328" y="5378" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButtonBruh instance 10026" x="1328" y="5378" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButtonBruh instance 10027" x="1328" y="5378" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButtonBruh instance 10028" x="1328" y="5378" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButtonBruh instance 10029" x="1328" y="5378" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButtonBruh instance 10030" x="1328" y="5378" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButtonBruh instance 10031" x="1328" y="5378" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButtonBruh instance 10032" x="1328" y="5378" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButtonBruh instance 10033" x="1328" y="5378" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButtonBruh instance 10034" x="1328" y="5378" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButtonBruh instance 10035" x="1328" y="5378" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleDown instance 10000" x="1942" y="5378" width="601" height="542" frameX="-3" frameY="-17" frameWidth="604" frameHeight="559"/>
+	<SubTexture name="Ghost_TeleDown instance 10001" x="1942" y="5378" width="601" height="542" frameX="-3" frameY="-17" frameWidth="604" frameHeight="559"/>
+	<SubTexture name="Ghost_TeleDown instance 10002" x="2643" y="5378" width="593" height="534" frameX="0" frameY="-3" frameWidth="604" frameHeight="559"/>
+	<SubTexture name="Ghost_TeleDown instance 10003" x="2643" y="5378" width="593" height="534" frameX="0" frameY="-3" frameWidth="604" frameHeight="559"/>
+	<SubTexture name="Ghost_TeleDown instance 10004" x="3336" y="5378" width="576" height="531" frameX="-9" frameY="0" frameWidth="604" frameHeight="559"/>
+	<SubTexture name="Ghost_TeleDown instance 10005" x="3336" y="5378" width="576" height="531" frameX="-9" frameY="0" frameWidth="604" frameHeight="559"/>
+	<SubTexture name="Ghost_TeleDown instance 10006" x="4012" y="5378" width="569" height="528" frameX="-12" frameY="-1" frameWidth="604" frameHeight="559"/>
+	<SubTexture name="Ghost_TeleDown instance 10007" x="4012" y="5378" width="569" height="528" frameX="-12" frameY="-1" frameWidth="604" frameHeight="559"/>
+	<SubTexture name="Ghost_TeleDown instance 10008" x="4012" y="5378" width="569" height="528" frameX="-12" frameY="-1" frameWidth="604" frameHeight="559"/>
+	<SubTexture name="Ghost_TeleDown instance 10009" x="4012" y="5378" width="569" height="528" frameX="-12" frameY="-1" frameWidth="604" frameHeight="559"/>
+	<SubTexture name="Ghost_TeleDown instance 10010" x="4012" y="5378" width="569" height="528" frameX="-12" frameY="-1" frameWidth="604" frameHeight="559"/>
+	<SubTexture name="Ghost_TeleDown instance 10011" x="4012" y="5378" width="569" height="528" frameX="-12" frameY="-1" frameWidth="604" frameHeight="559"/>
+	<SubTexture name="Ghost_TeleDown instance 10012" x="4012" y="5378" width="569" height="528" frameX="-12" frameY="-1" frameWidth="604" frameHeight="559"/>
+	<SubTexture name="Ghost_TeleDown instance 10013" x="4012" y="5378" width="569" height="528" frameX="-12" frameY="-1" frameWidth="604" frameHeight="559"/>
+	<SubTexture name="Ghost_TeleDown instance 10014" x="4012" y="5378" width="569" height="528" frameX="-12" frameY="-1" frameWidth="604" frameHeight="559"/>
+	<SubTexture name="Ghost_TeleDown instance 10015" x="4012" y="5378" width="569" height="528" frameX="-12" frameY="-1" frameWidth="604" frameHeight="559"/>
+	<SubTexture name="Ghost_TeleDown instance 10016" x="4012" y="5378" width="569" height="528" frameX="-12" frameY="-1" frameWidth="604" frameHeight="559"/>
+	<SubTexture name="Ghost_TeleDown instance 10017" x="4012" y="5378" width="569" height="528" frameX="-12" frameY="-1" frameWidth="604" frameHeight="559"/>
+	<SubTexture name="Ghost_TeleDown instance 10018" x="4012" y="5378" width="569" height="528" frameX="-12" frameY="-1" frameWidth="604" frameHeight="559"/>
+	<SubTexture name="Ghost_TeleDown instance 10019" x="4012" y="5378" width="569" height="528" frameX="-12" frameY="-1" frameWidth="604" frameHeight="559"/>
+	<SubTexture name="Ghost_TeleDown instance 10020" x="4012" y="5378" width="569" height="528" frameX="-12" frameY="-1" frameWidth="604" frameHeight="559"/>
+	<SubTexture name="Ghost_TeleDown instance 10021" x="4012" y="5378" width="569" height="528" frameX="-12" frameY="-1" frameWidth="604" frameHeight="559"/>
+	<SubTexture name="Ghost_TeleDown instance 10022" x="4012" y="5378" width="569" height="528" frameX="-12" frameY="-1" frameWidth="604" frameHeight="559"/>
+	<SubTexture name="Ghost_TeleDown instance 10023" x="4012" y="5378" width="569" height="528" frameX="-12" frameY="-1" frameWidth="604" frameHeight="559"/>
+	<SubTexture name="Ghost_TeleDown instance 10024" x="4012" y="5378" width="569" height="528" frameX="-12" frameY="-1" frameWidth="604" frameHeight="559"/>
+	<SubTexture name="Ghost_TeleDown instance 10025" x="4012" y="5378" width="569" height="528" frameX="-12" frameY="-1" frameWidth="604" frameHeight="559"/>
+	<SubTexture name="Ghost_TeleDown instance 10026" x="4012" y="5378" width="569" height="528" frameX="-12" frameY="-1" frameWidth="604" frameHeight="559"/>
+	<SubTexture name="Ghost_TeleDown instance 10027" x="4012" y="5378" width="569" height="528" frameX="-12" frameY="-1" frameWidth="604" frameHeight="559"/>
+	<SubTexture name="Ghost_TeleDown instance 10028" x="4012" y="5378" width="569" height="528" frameX="-12" frameY="-1" frameWidth="604" frameHeight="559"/>
+	<SubTexture name="Ghost_TeleDown instance 10029" x="4012" y="5378" width="569" height="528" frameX="-12" frameY="-1" frameWidth="604" frameHeight="559"/>
+	<SubTexture name="Ghost_TeleDown instance 10030" x="4012" y="5378" width="569" height="528" frameX="-12" frameY="-1" frameWidth="604" frameHeight="559"/>
+	<SubTexture name="Ghost_TeleDown instance 10031" x="4012" y="5378" width="569" height="528" frameX="-12" frameY="-1" frameWidth="604" frameHeight="559"/>
+	<SubTexture name="Ghost_TeleDown instance 10032" x="4012" y="5378" width="569" height="528" frameX="-12" frameY="-1" frameWidth="604" frameHeight="559"/>
+	<SubTexture name="Ghost_TeleDown instance 10033" x="4012" y="5378" width="569" height="528" frameX="-12" frameY="-1" frameWidth="604" frameHeight="559"/>
+	<SubTexture name="Ghost_TeleDown instance 10034" x="4012" y="5378" width="569" height="528" frameX="-12" frameY="-1" frameWidth="604" frameHeight="559"/>
+	<SubTexture name="Ghost_TeleDown instance 10035" x="4012" y="5378" width="569" height="528" frameX="-12" frameY="-1" frameWidth="604" frameHeight="559"/>
+	<SubTexture name="Ghost_TeleDown instance 10036" x="4012" y="5378" width="569" height="528" frameX="-12" frameY="-1" frameWidth="604" frameHeight="559"/>
+	<SubTexture name="Ghost_TeleDown instance 10037" x="4012" y="5378" width="569" height="528" frameX="-12" frameY="-1" frameWidth="604" frameHeight="559"/>
+	<SubTexture name="Ghost_TeleDown instance 10038" x="4012" y="5378" width="569" height="528" frameX="-12" frameY="-1" frameWidth="604" frameHeight="559"/>
+	<SubTexture name="Ghost_TeleDown instance 10039" x="4012" y="5378" width="569" height="528" frameX="-12" frameY="-1" frameWidth="604" frameHeight="559"/>
+	<SubTexture name="Ghost_TeleDown instance 10040" x="4012" y="5378" width="569" height="528" frameX="-12" frameY="-1" frameWidth="604" frameHeight="559"/>
+	<SubTexture name="Ghost_TeleDown instance 10041" x="4012" y="5378" width="569" height="528" frameX="-12" frameY="-1" frameWidth="604" frameHeight="559"/>
+	<SubTexture name="Ghost_TeleDown instance 10042" x="4012" y="5378" width="569" height="528" frameX="-12" frameY="-1" frameWidth="604" frameHeight="559"/>
+	<SubTexture name="Ghost_TeleDown instance 10043" x="4012" y="5378" width="569" height="528" frameX="-12" frameY="-1" frameWidth="604" frameHeight="559"/>
+	<SubTexture name="Ghost_TeleDown instance 10044" x="4012" y="5378" width="569" height="528" frameX="-12" frameY="-1" frameWidth="604" frameHeight="559"/>
+	<SubTexture name="Ghost_TeleDown instance 10045" x="4012" y="5378" width="569" height="528" frameX="-12" frameY="-1" frameWidth="604" frameHeight="559"/>
+	<SubTexture name="Ghost_TeleDown instance 10046" x="4012" y="5378" width="569" height="528" frameX="-12" frameY="-1" frameWidth="604" frameHeight="559"/>
+	<SubTexture name="Ghost_TeleDown instance 10047" x="4012" y="5378" width="569" height="528" frameX="-12" frameY="-1" frameWidth="604" frameHeight="559"/>
+	<SubTexture name="Ghost_TeleDown instance 10048" x="4012" y="5378" width="569" height="528" frameX="-12" frameY="-1" frameWidth="604" frameHeight="559"/>
+	<SubTexture name="Ghost_TeleDown instance 10049" x="4012" y="5378" width="569" height="528" frameX="-12" frameY="-1" frameWidth="604" frameHeight="559"/>
+	<SubTexture name="Ghost_TeleDown instance 10050" x="4012" y="5378" width="569" height="528" frameX="-12" frameY="-1" frameWidth="604" frameHeight="559"/>
+	<SubTexture name="Ghost_TeleDown instance 10051" x="4012" y="5378" width="569" height="528" frameX="-12" frameY="-1" frameWidth="604" frameHeight="559"/>
+	<SubTexture name="Ghost_TeleGlare instance 10000" x="4681" y="5378" width="538" height="549"/>
+	<SubTexture name="Ghost_TeleGlare instance 10001" x="4681" y="5378" width="538" height="549"/>
+	<SubTexture name="Ghost_TeleGlare instance 10002" x="4681" y="5378" width="538" height="549"/>
+	<SubTexture name="Ghost_TeleLeft instance 10000" x="5319" y="5378" width="604" height="548" frameX="0" frameY="0" frameWidth="609" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleLeft instance 10001" x="5319" y="5378" width="604" height="548" frameX="0" frameY="0" frameWidth="609" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleLeft instance 10002" x="6023" y="5378" width="607" height="544" frameX="-1" frameY="-2" frameWidth="609" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleLeft instance 10003" x="6023" y="5378" width="607" height="544" frameX="-1" frameY="-2" frameWidth="609" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleLeft instance 10004" x="6730" y="5378" width="608" height="544" frameX="-1" frameY="-2" frameWidth="609" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleLeft instance 10005" x="6730" y="5378" width="608" height="544" frameX="-1" frameY="-2" frameWidth="609" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleLeft instance 10006" x="6730" y="5378" width="608" height="544" frameX="-1" frameY="-2" frameWidth="609" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleLeft instance 10007" x="6730" y="5378" width="608" height="544" frameX="-1" frameY="-2" frameWidth="609" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleLeft instance 10008" x="6730" y="5378" width="608" height="544" frameX="-1" frameY="-2" frameWidth="609" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleLeft instance 10009" x="6730" y="5378" width="608" height="544" frameX="-1" frameY="-2" frameWidth="609" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleLeft instance 10010" x="6730" y="5378" width="608" height="544" frameX="-1" frameY="-2" frameWidth="609" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleLeft instance 10011" x="6730" y="5378" width="608" height="544" frameX="-1" frameY="-2" frameWidth="609" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleLeft instance 10012" x="6730" y="5378" width="608" height="544" frameX="-1" frameY="-2" frameWidth="609" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleLeft instance 10013" x="6730" y="5378" width="608" height="544" frameX="-1" frameY="-2" frameWidth="609" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleLeft instance 10014" x="6730" y="5378" width="608" height="544" frameX="-1" frameY="-2" frameWidth="609" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleLeft instance 10015" x="6730" y="5378" width="608" height="544" frameX="-1" frameY="-2" frameWidth="609" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleLeft instance 10016" x="6730" y="5378" width="608" height="544" frameX="-1" frameY="-2" frameWidth="609" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleLeft instance 10017" x="6730" y="5378" width="608" height="544" frameX="-1" frameY="-2" frameWidth="609" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleLeft instance 10018" x="6730" y="5378" width="608" height="544" frameX="-1" frameY="-2" frameWidth="609" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleLeft instance 10019" x="6730" y="5378" width="608" height="544" frameX="-1" frameY="-2" frameWidth="609" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleLeft instance 10020" x="6730" y="5378" width="608" height="544" frameX="-1" frameY="-2" frameWidth="609" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleLeft instance 10021" x="6730" y="5378" width="608" height="544" frameX="-1" frameY="-2" frameWidth="609" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleLeft instance 10022" x="6730" y="5378" width="608" height="544" frameX="-1" frameY="-2" frameWidth="609" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleLeft instance 10023" x="6730" y="5378" width="608" height="544" frameX="-1" frameY="-2" frameWidth="609" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleLeft instance 10024" x="6730" y="5378" width="608" height="544" frameX="-1" frameY="-2" frameWidth="609" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleLeft instance 10025" x="6730" y="5378" width="608" height="544" frameX="-1" frameY="-2" frameWidth="609" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleLeft instance 10026" x="6730" y="5378" width="608" height="544" frameX="-1" frameY="-2" frameWidth="609" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleLeft instance 10027" x="6730" y="5378" width="608" height="544" frameX="-1" frameY="-2" frameWidth="609" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleLeft instance 10028" x="6730" y="5378" width="608" height="544" frameX="-1" frameY="-2" frameWidth="609" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleLeft instance 10029" x="6730" y="5378" width="608" height="544" frameX="-1" frameY="-2" frameWidth="609" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleLeft instance 10030" x="6730" y="5378" width="608" height="544" frameX="-1" frameY="-2" frameWidth="609" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleLeft instance 10031" x="6730" y="5378" width="608" height="544" frameX="-1" frameY="-2" frameWidth="609" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleLeft instance 10032" x="6730" y="5378" width="608" height="544" frameX="-1" frameY="-2" frameWidth="609" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleLeft instance 10033" x="6730" y="5378" width="608" height="544" frameX="-1" frameY="-2" frameWidth="609" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleLeft instance 10034" x="6730" y="5378" width="608" height="544" frameX="-1" frameY="-2" frameWidth="609" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleLeft instance 10035" x="6730" y="5378" width="608" height="544" frameX="-1" frameY="-2" frameWidth="609" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleRight instance 10000" x="7438" y="5378" width="585" height="547" frameX="-1" frameY="0" frameWidth="590" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleRight instance 10001" x="7438" y="5378" width="585" height="547" frameX="-1" frameY="0" frameWidth="590" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleRight instance 10002" x="100" y="6027" width="589" height="546" frameX="-1" frameY="-1" frameWidth="590" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleRight instance 10003" x="100" y="6027" width="589" height="546" frameX="-1" frameY="-1" frameWidth="590" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleRight instance 10004" x="789" y="6027" width="590" height="547" frameX="0" frameY="-1" frameWidth="590" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleRight instance 10005" x="789" y="6027" width="590" height="547" frameX="0" frameY="-1" frameWidth="590" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleRight instance 10006" x="789" y="6027" width="590" height="547" frameX="0" frameY="-1" frameWidth="590" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleRight instance 10007" x="789" y="6027" width="590" height="547" frameX="0" frameY="-1" frameWidth="590" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleRight instance 10008" x="789" y="6027" width="590" height="547" frameX="0" frameY="-1" frameWidth="590" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleRight instance 10009" x="789" y="6027" width="590" height="547" frameX="0" frameY="-1" frameWidth="590" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleRight instance 10010" x="789" y="6027" width="590" height="547" frameX="0" frameY="-1" frameWidth="590" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleRight instance 10011" x="789" y="6027" width="590" height="547" frameX="0" frameY="-1" frameWidth="590" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleStill instance 10000" x="1479" y="6027" width="578" height="546" frameX="0" frameY="0" frameWidth="588" frameHeight="546"/>
+	<SubTexture name="Ghost_TeleStill instance 10001" x="1479" y="6027" width="578" height="546" frameX="0" frameY="0" frameWidth="588" frameHeight="546"/>
+	<SubTexture name="Ghost_TeleStill instance 10002" x="2157" y="6027" width="586" height="546" frameX="0" frameY="0" frameWidth="588" frameHeight="546"/>
+	<SubTexture name="Ghost_TeleStill instance 10003" x="2157" y="6027" width="586" height="546" frameX="0" frameY="0" frameWidth="588" frameHeight="546"/>
+	<SubTexture name="Ghost_TeleStill instance 10004" x="2843" y="6027" width="588" height="546"/>
+	<SubTexture name="Ghost_TeleStill instance 10005" x="2843" y="6027" width="588" height="546"/>
+	<SubTexture name="Ghost_TeleStill instance 10006" x="3531" y="6027" width="578" height="546" frameX="0" frameY="0" frameWidth="588" frameHeight="546"/>
+	<SubTexture name="Ghost_TeleStill instance 10007" x="3531" y="6027" width="578" height="546" frameX="0" frameY="0" frameWidth="588" frameHeight="546"/>
+	<SubTexture name="Ghost_Tele_Default instance 10000" x="4209" y="6027" width="537" height="547"/>
+	<SubTexture name="Ghost_Tele_Default instance 10001" x="4209" y="6027" width="537" height="547"/>
+	<SubTexture name="Ghost_Tele_Default instance 10002" x="4209" y="6027" width="537" height="547"/>
+	<SubTexture name="Ghost_Tele_Default instance 10003" x="4209" y="6027" width="537" height="547"/>
+	<SubTexture name="Ghost_Tele_Default instance 10004" x="4209" y="6027" width="537" height="547"/>
+	<SubTexture name="Ghost_Tele_Default instance 10005" x="4209" y="6027" width="537" height="547"/>
+	<SubTexture name="Ghost_Tele_Default instance 10006" x="4209" y="6027" width="537" height="547"/>
+	<SubTexture name="Ghost_Tele_Default instance 10007" x="4209" y="6027" width="537" height="547"/>
+	<SubTexture name="Ghost_Tele_Default instance 10008" x="4209" y="6027" width="537" height="547"/>
+	<SubTexture name="Ghost_Tele_Default instance 10009" x="4209" y="6027" width="537" height="547"/>
+	<SubTexture name="Ghost_Tele_Default instance 10010" x="4209" y="6027" width="537" height="547"/>
+	<SubTexture name="Ghost_Tele_Default instance 10011" x="4209" y="6027" width="537" height="547"/>
+	<SubTexture name="Ghost_Tele_Default instance 10012" x="4846" y="6027" width="537" height="547"/>
+	<SubTexture name="Ghost_Tele_Default instance 10013" x="4846" y="6027" width="537" height="547"/>
+	<SubTexture name="Ghost_Tele_Default instance 10014" x="4846" y="6027" width="537" height="547"/>
+	<SubTexture name="Ghost_Tele_Default instance 10015" x="4209" y="6027" width="537" height="547"/>
+	<SubTexture name="Ghost_Tele_Default instance 10016" x="4209" y="6027" width="537" height="547"/>
+	<SubTexture name="Ghost_Tele_Default instance 10017" x="4209" y="6027" width="537" height="547"/>
+	<SubTexture name="Ghost_Tele_Default instance 10018" x="4209" y="6027" width="537" height="547"/>
+	<SubTexture name="Ghost_Tele_Default instance 10019" x="4209" y="6027" width="537" height="547"/>
+	<SubTexture name="Ghost_Tele_Default instance 10020" x="4209" y="6027" width="537" height="547"/>
+	<SubTexture name="Ghost_Tele_Default instance 10021" x="4209" y="6027" width="537" height="547"/>
+	<SubTexture name="Ghost_Tele_Default instance 10022" x="4209" y="6027" width="537" height="547"/>
+	<SubTexture name="Ghost_Tele_Default instance 10023" x="4209" y="6027" width="537" height="547"/>
+	<SubTexture name="Ghost_Tele_Default instance 10024" x="4209" y="6027" width="537" height="547"/>
+	<SubTexture name="Ghost_Tele_Default instance 10025" x="4209" y="6027" width="537" height="547"/>
+	<SubTexture name="Ghost_Tele_Default instance 10026" x="4209" y="6027" width="537" height="547"/>
+	<SubTexture name="Ghost_Tele_Default instance 10027" x="4209" y="6027" width="537" height="547"/>
+	<SubTexture name="Ghost_Tele_Default instance 10028" x="4209" y="6027" width="537" height="547"/>
+	<SubTexture name="Ghost_Tele_Default instance 10029" x="4209" y="6027" width="537" height="547"/>
+	<SubTexture name="Ghost_Tele_Default instance 10030" x="4209" y="6027" width="537" height="547"/>
+	<SubTexture name="Ghost_Tele_Default instance 10031" x="4209" y="6027" width="537" height="547"/>
+	<SubTexture name="Ghost_Tele_Default instance 10032" x="4209" y="6027" width="537" height="547"/>
+	<SubTexture name="Ghost_Tele_Default instance 10033" x="4209" y="6027" width="537" height="547"/>
+	<SubTexture name="Ghost_Tele_Default instance 10034" x="4209" y="6027" width="537" height="547"/>
+	<SubTexture name="Ghost_Tele_Default instance 10035" x="4209" y="6027" width="537" height="547"/>
+	<SubTexture name="Ghost_Tele_Up instance 10000" x="5483" y="6027" width="520" height="544" frameX="0" frameY="-1" frameWidth="537" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up instance 10001" x="5483" y="6027" width="520" height="544" frameX="0" frameY="-1" frameWidth="537" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up instance 10002" x="6103" y="6027" width="522" height="543" frameX="-12" frameY="0" frameWidth="537" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up instance 10003" x="6103" y="6027" width="522" height="543" frameX="-12" frameY="0" frameWidth="537" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up instance 10004" x="6725" y="6027" width="524" height="543" frameX="-13" frameY="0" frameWidth="537" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up instance 10005" x="6725" y="6027" width="524" height="543" frameX="-13" frameY="0" frameWidth="537" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up instance 10006" x="6725" y="6027" width="524" height="543" frameX="-13" frameY="0" frameWidth="537" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up instance 10007" x="6725" y="6027" width="524" height="543" frameX="-13" frameY="0" frameWidth="537" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up instance 10008" x="6725" y="6027" width="524" height="543" frameX="-13" frameY="0" frameWidth="537" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up instance 10009" x="6725" y="6027" width="524" height="543" frameX="-13" frameY="0" frameWidth="537" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up instance 10010" x="6725" y="6027" width="524" height="543" frameX="-13" frameY="0" frameWidth="537" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up instance 10011" x="6725" y="6027" width="524" height="543" frameX="-13" frameY="0" frameWidth="537" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up instance 10012" x="6725" y="6027" width="524" height="543" frameX="-13" frameY="0" frameWidth="537" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up instance 10013" x="6725" y="6027" width="524" height="543" frameX="-13" frameY="0" frameWidth="537" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up instance 10014" x="6725" y="6027" width="524" height="543" frameX="-13" frameY="0" frameWidth="537" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up instance 10015" x="6725" y="6027" width="524" height="543" frameX="-13" frameY="0" frameWidth="537" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up instance 10016" x="6725" y="6027" width="524" height="543" frameX="-13" frameY="0" frameWidth="537" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up instance 10017" x="6725" y="6027" width="524" height="543" frameX="-13" frameY="0" frameWidth="537" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up instance 10018" x="6725" y="6027" width="524" height="543" frameX="-13" frameY="0" frameWidth="537" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up instance 10019" x="6725" y="6027" width="524" height="543" frameX="-13" frameY="0" frameWidth="537" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up instance 10020" x="6725" y="6027" width="524" height="543" frameX="-13" frameY="0" frameWidth="537" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up instance 10021" x="6725" y="6027" width="524" height="543" frameX="-13" frameY="0" frameWidth="537" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up instance 10022" x="6725" y="6027" width="524" height="543" frameX="-13" frameY="0" frameWidth="537" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up instance 10023" x="6725" y="6027" width="524" height="543" frameX="-13" frameY="0" frameWidth="537" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up instance 10024" x="6725" y="6027" width="524" height="543" frameX="-13" frameY="0" frameWidth="537" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up instance 10025" x="6725" y="6027" width="524" height="543" frameX="-13" frameY="0" frameWidth="537" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up instance 10026" x="6725" y="6027" width="524" height="543" frameX="-13" frameY="0" frameWidth="537" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up instance 10027" x="6725" y="6027" width="524" height="543" frameX="-13" frameY="0" frameWidth="537" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up instance 10028" x="6725" y="6027" width="524" height="543" frameX="-13" frameY="0" frameWidth="537" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up instance 10029" x="6725" y="6027" width="524" height="543" frameX="-13" frameY="0" frameWidth="537" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up instance 10030" x="6725" y="6027" width="524" height="543" frameX="-13" frameY="0" frameWidth="537" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up instance 10031" x="6725" y="6027" width="524" height="543" frameX="-13" frameY="0" frameWidth="537" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up instance 10032" x="6725" y="6027" width="524" height="543" frameX="-13" frameY="0" frameWidth="537" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up instance 10033" x="6725" y="6027" width="524" height="543" frameX="-13" frameY="0" frameWidth="537" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up instance 10034" x="6725" y="6027" width="524" height="543" frameX="-13" frameY="0" frameWidth="537" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up instance 10035" x="6725" y="6027" width="524" height="543" frameX="-13" frameY="0" frameWidth="537" frameHeight="545"/>
+	<SubTexture name="Ghost_Telephone1 instance 10000" x="7349" y="6027" width="601" height="576"/>
+	<SubTexture name="Ghost_Telephone1 instance 10001" x="7349" y="6027" width="601" height="576"/>
+	<SubTexture name="Ghost_Telephone1 instance 10002" x="100" y="6703" width="570" height="548" frameX="-14" frameY="-14" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="Ghost_Telephone1 instance 10003" x="100" y="6703" width="570" height="548" frameX="-14" frameY="-14" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="Ghost_Telephone1 instance 10004" x="770" y="6703" width="565" height="548" frameX="-14" frameY="-14" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="Ghost_Telephone1 instance 10005" x="770" y="6703" width="565" height="548" frameX="-14" frameY="-14" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="Ghost_Telephone1 instance 10006" x="1435" y="6703" width="565" height="548" frameX="-14" frameY="-14" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="Ghost_Telephone1 instance 10007" x="1435" y="6703" width="565" height="548" frameX="-14" frameY="-14" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="Ghost_Telephone1 instance 10008" x="2100" y="6703" width="529" height="548" frameX="-4" frameY="-14" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="Ghost_Telephone1 instance 10009" x="2100" y="6703" width="529" height="548" frameX="-4" frameY="-14" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="Ghost_Telephone1 instance 10010" x="2729" y="6703" width="434" height="548" frameX="-4" frameY="-14" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="Ghost_Telephone1 instance 10011" x="2729" y="6703" width="434" height="548" frameX="-4" frameY="-14" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="Ghost_Telephone1 instance 10012" x="3263" y="6703" width="456" height="548" frameX="-4" frameY="-14" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="Ghost_Telephone1 instance 10013" x="3263" y="6703" width="456" height="548" frameX="-4" frameY="-14" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="Ghost_Telephone1 instance 10014" x="3819" y="6703" width="530" height="548" frameX="-4" frameY="-14" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="Ghost_Telephone1 instance 10015" x="3819" y="6703" width="530" height="548" frameX="-4" frameY="-14" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="Ghost_Telephone1 instance 10016" x="4449" y="6703" width="558" height="548" frameX="-4" frameY="-14" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="Ghost_Telephone1 instance 10017" x="4449" y="6703" width="558" height="548" frameX="-4" frameY="-14" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="Ghost_Telephone1 instance 10018" x="5107" y="6703" width="577" height="548" frameX="-4" frameY="-14" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="Ghost_Telephone1 instance 10019" x="5107" y="6703" width="577" height="548" frameX="-4" frameY="-14" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="Ghost_Telephone1 instance 10020" x="5784" y="6703" width="576" height="548" frameX="-4" frameY="-14" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="Ghost_Telephone1 instance 10021" x="5784" y="6703" width="576" height="548" frameX="-4" frameY="-14" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="Ghost_Telephone1 instance 10022" x="6460" y="6703" width="576" height="548" frameX="-4" frameY="-14" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="Ghost_Telephone1 instance 10023" x="5107" y="6703" width="577" height="548" frameX="-4" frameY="-14" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="Ghost_Telephone1 instance 10024" x="5107" y="6703" width="577" height="548" frameX="-4" frameY="-14" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="Ghost_Telephone1 instance 10025" x="5784" y="6703" width="576" height="548" frameX="-4" frameY="-14" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="Ghost_Telephone1 instance 10026" x="5784" y="6703" width="576" height="548" frameX="-4" frameY="-14" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="Ghost_Telephone1 instance 10027" x="5107" y="6703" width="577" height="548" frameX="-4" frameY="-14" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="Ghost_Telephone1 instance 10028" x="7136" y="6703" width="577" height="548" frameX="-4" frameY="-14" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="Ghost_Telephone1 instance 10029" x="100" y="7351" width="576" height="548" frameX="-4" frameY="-14" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="Ghost_Telephone1 instance 10030" x="776" y="7351" width="576" height="548" frameX="-4" frameY="-14" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="Ghost_Telephone1 instance 10031" x="1452" y="7351" width="577" height="548" frameX="-4" frameY="-14" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="Ghost_Telephone1 instance 10032" x="5107" y="6703" width="577" height="548" frameX="-4" frameY="-14" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="Ghost_Telephone1 instance 10033" x="5784" y="6703" width="576" height="548" frameX="-4" frameY="-14" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="Ghost_Telephone1 instance 10034" x="5784" y="6703" width="576" height="548" frameX="-4" frameY="-14" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="Ghost_Telephone1 instance 10035" x="5107" y="6703" width="577" height="548" frameX="-4" frameY="-14" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="Ghost_Telephone1 instance 10036" x="5107" y="6703" width="577" height="548" frameX="-4" frameY="-14" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="Ghost_Telephone1 instance 10037" x="5784" y="6703" width="576" height="548" frameX="-4" frameY="-14" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="Ghost_Telephone1 instance 10038" x="5784" y="6703" width="576" height="548" frameX="-4" frameY="-14" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="Ghost_Telephone1 instance 10039" x="5107" y="6703" width="577" height="548" frameX="-4" frameY="-14" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="Ghost_Telephone1 instance 10040" x="5107" y="6703" width="577" height="548" frameX="-4" frameY="-14" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="Ghost_Telephone1 instance 10041" x="5784" y="6703" width="576" height="548" frameX="-4" frameY="-14" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="Ghost_Telephone1 instance 10042" x="5784" y="6703" width="576" height="548" frameX="-4" frameY="-14" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="Ghost_Telephone1 instance 10043" x="5107" y="6703" width="577" height="548" frameX="-4" frameY="-14" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="Ghost_Telephone1 instance 10044" x="5107" y="6703" width="577" height="548" frameX="-4" frameY="-14" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="Ghost_Telephone1 instance 10045" x="5784" y="6703" width="576" height="548" frameX="-4" frameY="-14" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="Ghost_Telephone1 instance 10046" x="5784" y="6703" width="576" height="548" frameX="-4" frameY="-14" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="Ghost_Telephone1 instance 10047" x="2129" y="7351" width="553" height="548" frameX="-4" frameY="-14" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="Ghost_Telephone1 instance 10048" x="2129" y="7351" width="553" height="548" frameX="-4" frameY="-14" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="Ghost_Telephone1 instance 10049" x="2129" y="7351" width="553" height="548" frameX="-4" frameY="-14" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="Ghost_Telephone1 instance 10050" x="2129" y="7351" width="553" height="548" frameX="-4" frameY="-14" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="Ghost_Telephone1 instance 10051" x="2129" y="7351" width="553" height="548" frameX="-4" frameY="-14" frameWidth="601" frameHeight="576"/>
+	<SubTexture name="Ghost_Telephone1 instance 10052" x="2129" y="7351" width="553" height="548" frameX="-4" frameY="-14" frameWidth="601" frameHeight="576"/>
+</TextureAtlas>

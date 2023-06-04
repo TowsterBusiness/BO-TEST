@@ -1,0 +1,276 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "GhostIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-10
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "GhostDownNorm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				20
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "GhostUpNorm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "GhostLeftNorm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "GhostRightNorm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				0
+			],
+			"anim": "openDoor",
+			"fps": 24,
+			"name": "Ghost_Open's door",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				10
+			],
+			"anim": "shockOG",
+			"fps": 24,
+			"name": "GhostShockOg",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-4
+			],
+			"anim": "idleShock",
+			"fps": 24,
+			"name": "Ghost_Shock ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				0
+			],
+			"anim": "lookaround",
+			"fps": 24,
+			"name": "GhostLookaround",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				20
+			],
+			"anim": "shock3",
+			"fps": 24,
+			"name": "Ghost_Shock3",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-2
+			],
+			"anim": "shock4",
+			"fps": 24,
+			"name": "Ghost_Shock4",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-3
+			],
+			"anim": "idleScared",
+			"fps": 24,
+			"name": "Ghost_Scared",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				20,
+				-10
+			],
+			"anim": "gone1",
+			"fps": 24,
+			"name": "GhostGone1",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				10,
+				20
+			],
+			"anim": "gone2",
+			"fps": 24,
+			"name": "GhostGone2",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "telephone",
+			"indices": [],
+			"name": "Ghost_Telephone1"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "Ghost_Tele_Default"
+		},
+		{
+			"offsets": [
+				-20,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Ghost_TeleDown"
+		},
+		{
+			"offsets": [
+				0,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Ghost_Tele_Up"
+		},
+		{
+			"offsets": [
+				10,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Ghost_TeleLeft"
+		},
+		{
+			"offsets": [
+				-10,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Ghost_TeleRight"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "button",
+			"indices": [],
+			"name": "Ghost_TeleButton "
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "glare",
+			"indices": [],
+			"name": "Ghost_TeleGlare"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "buttonBruh",
+			"indices": [],
+			"name": "Ghost_TeleButtonBruh"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BOONormie",
+	"position": [
+		670,
+		0
+	],
+	"healthicon": "ghost",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		65,
+		242
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

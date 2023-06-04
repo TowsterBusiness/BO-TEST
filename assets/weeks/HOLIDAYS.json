@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["ghost-picnic", "ghost", [0, 65, 242]],
+		["heart-of-gold", "tulip", [255, 0, 161]],
+		["skeleton-passion", "tulip", [255, 0, 161]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "WinterWeek",
+
+	"storyName": "Phantastic Winter",
+	"weekBefore": "SPWEEKED",
+	"weekName": "HOLIDAYS",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

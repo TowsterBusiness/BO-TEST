@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Cameo2.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Cameo0000" x="1" y="1" width="286" height="313"/>
+	<SubTexture name="Cameo0001" x="1" y="1" width="286" height="313"/>
+	<SubTexture name="Cameo0002" x="292" y="1" width="286" height="313"/>
+	<SubTexture name="Cameo0003" x="292" y="1" width="286" height="313"/>
+	<SubTexture name="Cameo0004" x="583" y="1" width="286" height="313"/>
+	<SubTexture name="Cameo0005" x="583" y="1" width="286" height="313"/>
+	<SubTexture name="Cameo0006" x="874" y="1" width="286" height="313"/>
+	<SubTexture name="Cameo0007" x="874" y="1" width="286" height="313"/>
+	<SubTexture name="CameoScared0000" x="1" y="319" width="286" height="319"/>
+	<SubTexture name="CameoScared0001" x="1" y="319" width="286" height="319"/>
+	<SubTexture name="CameoScared0002" x="292" y="319" width="286" height="319"/>
+	<SubTexture name="CameoScared0003" x="292" y="319" width="286" height="319"/>
+	<SubTexture name="CameoScared0004" x="583" y="319" width="286" height="319"/>
+	<SubTexture name="CameoScared0005" x="583" y="319" width="286" height="319"/>
+	<SubTexture name="CameoScared0006" x="583" y="319" width="286" height="319"/>
+	<SubTexture name="CameoScared0007" x="583" y="319" width="286" height="319"/>
+	<SubTexture name="CameoScared0008" x="583" y="319" width="286" height="319"/>
+	<SubTexture name="CameoScared0009" x="583" y="319" width="286" height="319"/>
+	<SubTexture name="CameoScared0010" x="583" y="319" width="286" height="319"/>
+	<SubTexture name="CameoScared0011" x="583" y="319" width="286" height="319"/>
+	<SubTexture name="SmokePuff0000" x="874" y="319" width="371" height="386"/>
+</TextureAtlas>

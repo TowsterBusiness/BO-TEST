@@ -1,0 +1,210 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				-30
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF_Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				-50
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF_Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				8
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF_Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-52
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF_Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				-30
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BFMissLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				0
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BFMissUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-52
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BFMissDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				-50
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BFMissRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				437,
+				3
+			],
+			"anim": "knockOnDoor",
+			"fps": 24,
+			"name": "BF_KnockonDoor1",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				273,
+				0
+			],
+			"anim": "idleStill",
+			"fps": 24,
+			"name": "BF_IdleStill",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-8,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "bruh",
+			"indices": [],
+			"name": "BF_Button"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				0
+			],
+			"anim": "shock",
+			"fps": 24,
+			"name": "BF_Shock",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-2,
+				0
+			],
+			"anim": "idleStillShock",
+			"fps": 24,
+			"name": "BF_StillShock",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				437,
+				0
+			],
+			"anim": "knockOnDoor2",
+			"fps": 24,
+			"name": "Door Knock 2",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "waiting",
+			"fps": 24,
+			"name": "BF Waiting",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF_Idle instance"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "laugh",
+			"indices": [],
+			"name": "BF_laugh instance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/StickyBoyMan",
+	"position": [
+		120,
+		190
+	],
+	"healthicon": "sticky",
+	"flip_x": true,
+	"healthbar_colors": [
+		95,
+		160,
+		115
+	],
+	"camera_position": [
+		420,
+		-161
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

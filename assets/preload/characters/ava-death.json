@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "Ava Dead0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "Ava Idle00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				0
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "Ava Confirm0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/AvaDEATH",
+	"position": [
+		90,
+		-200
+	],
+	"healthicon": "spooky",
+	"flip_x": true,
+	"healthbar_colors": [
+		51,
+		51,
+		51
+	],
+	"camera_position": [
+		-10,
+		190
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

@@ -1,0 +1,11 @@
+﻿<TextureAtlas imagePath="Con3.png">
+	<SubTexture name="Con30000" x="1" y="1" width="602" height="517"/>
+	<SubTexture name="Con30001" x="1" y="1" width="602" height="517"/>
+	<SubTexture name="Con30002" x="1" y="1" width="602" height="517"/>
+	<SubTexture name="Con30003" x="605" y="1" width="602" height="517"/>
+	<SubTexture name="Con30004" x="605" y="1" width="602" height="517"/>
+	<SubTexture name="Con30005" x="605" y="1" width="602" height="517"/>
+	<SubTexture name="Con30006" x="1209" y="1" width="602" height="517"/>
+	<SubTexture name="Con30007" x="1209" y="1" width="602" height="517"/>
+	<SubTexture name="Con30008" x="1209" y="1" width="602" height="517"/>
+</TextureAtlas>

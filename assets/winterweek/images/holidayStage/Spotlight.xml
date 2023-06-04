@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Spotlight.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SpotlightStillOpened0000" x="10" y="10" width="1557" height="936"/>
+	<SubTexture name="SpotlightStillOpened0001" x="10" y="10" width="1557" height="936"/>
+	<SubTexture name="SpotlightStillOpened0002" x="10" y="10" width="1557" height="936"/>
+	<SubTexture name="SpotlightStillOpened0003" x="10" y="10" width="1557" height="936"/>
+	<SubTexture name="SpotlightStillOpened0004" x="10" y="10" width="1557" height="936"/>
+	<SubTexture name="SpotlightStillOpened0005" x="10" y="10" width="1557" height="936"/>
+	<SubTexture name="SpotlightStillOpened0006" x="10" y="10" width="1557" height="936"/>
+	<SubTexture name="SpotlightStillOpened0007" x="10" y="10" width="1557" height="936"/>
+	<SubTexture name="SpotlightStillOpened0008" x="10" y="10" width="1557" height="936"/>
+
+	<SubTexture name="SpotlightStillClosed0000" x="1577" y="10" width="1557" height="934"/>
+	<SubTexture name="SpotlightStillClosed0001" x="1577" y="10" width="1557" height="934"/>
+	<SubTexture name="SpotlightStillClosed0002" x="1577" y="10" width="1557" height="934"/>
+
+	<SubTexture name="SpotlightStillAnim0000" x="1577" y="10" width="1557" height="934"/>
+	<SubTexture name="SpotlightStillAnim0001" x="1577" y="10" width="1557" height="934"/>
+	<SubTexture name="SpotlightStillAnim0002" x="1577" y="10" width="1557" height="934"/>
+	<SubTexture name="SpotlightStillAnim0003" x="10" y="956" width="1557" height="934"/>
+	<SubTexture name="SpotlightStillAnim0004" x="10" y="956" width="1557" height="934"/>
+	<SubTexture name="SpotlightStillAnim0005" x="1577" y="956" width="1557" height="934"/>
+	<SubTexture name="SpotlightStillAnim0006" x="1577" y="956" width="1557" height="934"/>
+	<SubTexture name="SpotlightStillAnim0007" x="1577" y="956" width="1557" height="934"/>
+	<SubTexture name="SpotlightStillAnim0008" x="10" y="1900" width="1557" height="934"/>
+	<SubTexture name="SpotlightStillAnim0009" x="10" y="1900" width="1557" height="934"/>
+	<SubTexture name="SpotlightStillAnim0010" x="10" y="1900" width="1557" height="934"/>
+	<SubTexture name="SpotlightStillAnim0011" x="10" y="1900" width="1557" height="934"/>
+	<SubTexture name="SpotlightStillAnim0012" x="10" y="1900" width="1557" height="934"/>
+	<SubTexture name="SpotlightStillAnim0013" x="10" y="1900" width="1557" height="934"/>
+	<SubTexture name="SpotlightStillAnim0014" x="10" y="1900" width="1557" height="934"/>
+	<SubTexture name="SpotlightStillAnim0015" x="10" y="1900" width="1557" height="934"/>
+	<SubTexture name="SpotlightStillAnim0016" x="10" y="1900" width="1557" height="934"/>
+	<SubTexture name="SpotlightStillAnim0017" x="10" y="1900" width="1557" height="934"/>
+	<SubTexture name="SpotlightStillAnim0018" x="10" y="1900" width="1557" height="934"/>
+	<SubTexture name="SpotlightStillAnim0019" x="10" y="1900" width="1557" height="934"/>
+	<SubTexture name="SpotlightStillAnim0020" x="10" y="1900" width="1557" height="934"/>
+	<SubTexture name="SpotlightStillAnim0021" x="10" y="1900" width="1557" height="934"/>
+	<SubTexture name="SpotlightStillAnim0022" x="10" y="1900" width="1557" height="934"/>
+	<SubTexture name="SpotlightStillAnim0023" x="10" y="1900" width="1557" height="934"/>
+	<SubTexture name="SpotlightStillAnim0024" x="10" y="1900" width="1557" height="934"/>
+	<SubTexture name="SpotlightStillAnim0025" x="10" y="1900" width="1557" height="934"/>
+	<SubTexture name="SpotlightStillAnim0026" x="10" y="1900" width="1557" height="934"/>
+	<SubTexture name="SpotlightStillAnim0027" x="10" y="1900" width="1557" height="934"/>
+	<SubTexture name="SpotlightStillAnim0028" x="10" y="1900" width="1557" height="934"/>
+</TextureAtlas>

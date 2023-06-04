@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LicoLeft instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				3
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "LicoDown instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				14
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "LicoUp instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-33,
+				5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "LicoRight instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "LicoIdleAlt instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				2
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "LicoLeftAlt instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-33,
+				6
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "LicoRightAlt instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				14
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "LicoUpAlt instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				3
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "LicoDownAlt instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				0
+			],
+			"anim": "midAnim",
+			"fps": 24,
+			"name": "LicoMidEvent instance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "LicoIdleAlt instance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/LicoriceBus",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "licorice",
+	"flip_x": false,
+	"healthbar_colors": [
+		240,
+		0,
+		0
+	],
+	"camera_position": [
+		-530,
+		120
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

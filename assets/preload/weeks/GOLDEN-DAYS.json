@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["meteorite-waltz", "tulip", [255, 0, 161]],
+		["earth-s-sister", "tulip-daisy", [255, 55, 73]],
+		["it-s-okay", "ghost", [0, 65, 242]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "Golden_Hours",
+
+	"storyName": "SummerWeen",
+	"weekBefore": "HOLIDAYS",
+	"weekName": "GOLDEN-DAYS",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CreditsBoo1.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Portrait instance0000" x="0" y="1" width="175" height="216"/>
+	<SubTexture name="Portrait instance0001" x="0" y="1" width="175" height="216"/>
+	<SubTexture name="Portrait instance0002" x="0" y="1" width="175" height="216"/>
+	<SubTexture name="Portrait instance0003" x="176" y="1" width="175" height="216"/>
+	<SubTexture name="Portrait instance0004" x="176" y="1" width="175" height="216"/>
+	<SubTexture name="Portrait instance0005" x="176" y="1" width="175" height="216"/>
+	<SubTexture name="Portrait instance0006" x="176" y="1" width="175" height="216"/>
+	<SubTexture name="Portrait instance0007" x="352" y="1" width="175" height="216"/>
+	<SubTexture name="Portrait instance0008" x="352" y="1" width="175" height="216"/>
+	<SubTexture name="Portrait instance0009" x="352" y="1" width="175" height="216"/>
+	<SubTexture name="Portrait instance0010" x="528" y="1" width="175" height="216"/>
+	<SubTexture name="Portrait instance0011" x="528" y="1" width="175" height="216"/>
+	<SubTexture name="Portrait instance0012" x="528" y="1" width="175" height="216"/>
+	<SubTexture name="Portrait instance0013" x="0" y="218" width="175" height="216"/>
+	<SubTexture name="Portrait instance0014" x="0" y="218" width="175" height="216"/>
+	<SubTexture name="Portrait instance0015" x="0" y="218" width="175" height="216"/>
+	<SubTexture name="Portrait instance0016" x="0" y="218" width="175" height="216"/>
+	<SubTexture name="Portrait instance0017" x="0" y="218" width="175" height="216"/>
+	<SubTexture name="Portrait instance0018" x="176" y="218" width="175" height="216"/>
+	<SubTexture name="Portrait instance0019" x="176" y="218" width="175" height="216"/>
+	<SubTexture name="Portrait instance0020" x="176" y="218" width="175" height="216"/>
+	<SubTexture name="Portrait instance0021" x="352" y="218" width="175" height="216"/>
+	<SubTexture name="Portrait instance0022" x="352" y="218" width="175" height="216"/>
+	<SubTexture name="Portrait instance0023" x="528" y="218" width="175" height="216"/>
+	<SubTexture name="Portrait instance0024" x="528" y="218" width="175" height="216"/>
+	<SubTexture name="Portrait instance0025" x="528" y="218" width="175" height="216"/>
+</TextureAtlas>

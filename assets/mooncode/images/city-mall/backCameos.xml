@@ -1,0 +1,14 @@
+﻿<TextureAtlas imagePath="backCameos.png">
+	<SubTexture name="Crowd Back0000" x="1" y="1" width="1167" height="389"/>
+	<SubTexture name="Crowd Back0001" x="1" y="1" width="1167" height="389"/>
+	<SubTexture name="Crowd Back0002" x="1" y="1" width="1167" height="389"/>
+	<SubTexture name="Crowd Back0003" x="1" y="1" width="1167" height="389"/>
+	<SubTexture name="Crowd Back0004" x="1" y="1" width="1167" height="389"/>
+	<SubTexture name="Crowd Back0005" x="1" y="1" width="1167" height="389"/>
+	<SubTexture name="Crowd Back0006" x="1" y="1" width="1167" height="389"/>
+	<SubTexture name="Crowd Back0007" x="1" y="1" width="1167" height="389"/>
+	<SubTexture name="Crowd Back0008" x="1" y="392" width="1167" height="389"/>
+	<SubTexture name="Crowd Back0009" x="1" y="392" width="1167" height="389"/>
+	<SubTexture name="Crowd Back0010" x="1" y="783" width="1167" height="389"/>
+	<SubTexture name="Crowd Back0011" x="1" y="783" width="1167" height="389"/>
+</TextureAtlas>

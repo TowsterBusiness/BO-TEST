@@ -1,0 +1,20 @@
+﻿<TextureAtlas imagePath="Con2.png">
+	<SubTexture name="Con20000" x="1" y="1" width="602" height="517"/>
+	<SubTexture name="Con20001" x="1" y="1" width="602" height="517"/>
+	<SubTexture name="Con20002" x="1" y="1" width="602" height="517"/>
+	<SubTexture name="Con20003" x="605" y="1" width="602" height="517"/>
+	<SubTexture name="Con20004" x="605" y="1" width="602" height="517"/>
+	<SubTexture name="Con20005" x="605" y="1" width="602" height="517"/>
+	<SubTexture name="Con20006" x="1209" y="1" width="602" height="517"/>
+	<SubTexture name="Con20007" x="1209" y="1" width="602" height="517"/>
+	<SubTexture name="Con20008" x="1209" y="1" width="602" height="517"/>
+	<SubTexture name="Con20009" x="1" y="520" width="602" height="517"/>
+	<SubTexture name="Con20010" x="1" y="520" width="602" height="517"/>
+	<SubTexture name="Con20011" x="1" y="520" width="602" height="517"/>
+	<SubTexture name="Con20012" x="605" y="520" width="602" height="517"/>
+	<SubTexture name="Con20013" x="605" y="520" width="602" height="517"/>
+	<SubTexture name="Con20014" x="605" y="520" width="602" height="517"/>
+	<SubTexture name="Con20015" x="1209" y="520" width="602" height="517"/>
+	<SubTexture name="Con20016" x="1209" y="520" width="602" height="517"/>
+	<SubTexture name="Con20017" x="1209" y="520" width="602" height="517"/>
+</TextureAtlas>

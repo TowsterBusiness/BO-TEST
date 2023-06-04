@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "TrueBoo_Idle0"
+		},
+		{
+			"offsets": [
+				-3,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idleStill",
+			"indices": [],
+			"name": "TrueBoo_IdleStill0"
+		},
+		{
+			"offsets": [
+				-10,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "TrueBoo_Left0"
+		},
+		{
+			"offsets": [
+				45,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "TrueBoo_Down0"
+		},
+		{
+			"offsets": [
+				0,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "TrueBoo_Up0"
+		},
+		{
+			"offsets": [
+				40,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "TrueBoo_Right0"
+		},
+		{
+			"offsets": [
+				-10,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "TrueBoo_LeftMiss0"
+		},
+		{
+			"offsets": [
+				45,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "TrueBoo_DownMiss0"
+		},
+		{
+			"offsets": [
+				0,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "TrueBoo_UpMiss0"
+		},
+		{
+			"offsets": [
+				40,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "TrueBoo_RightMiss0"
+		},
+		{
+			"offsets": [
+				30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "SHOCK",
+			"indices": [],
+			"name": "Shock0"
+		},
+		{
+			"offsets": [
+				40,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "SIGH",
+			"indices": [],
+			"name": "Sigh0"
+		},
+		{
+			"offsets": [
+				14,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "INHALE",
+			"indices": [],
+			"name": "TrueBoo_Inhale0"
+		},
+		{
+			"offsets": [
+				8,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "WALKUP",
+			"indices": [],
+			"name": "Walkup0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/TrueBoo",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "ghost",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		65,
+		242
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}

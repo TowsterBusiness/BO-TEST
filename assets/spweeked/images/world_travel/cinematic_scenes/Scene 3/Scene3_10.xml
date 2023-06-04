@@ -1,0 +1,29 @@
+﻿<TextureAtlas imagePath="Scene3_10.png">
+	<SubTexture name="Scene3_100000" x="1" y="1" width="374" height="315"/>
+	<SubTexture name="Scene3_100001" x="1" y="1" width="374" height="315"/>
+	<SubTexture name="Scene3_100002" x="1" y="1" width="374" height="315"/>
+	<SubTexture name="Scene3_100003" x="377" y="1" width="374" height="315"/>
+	<SubTexture name="Scene3_100004" x="377" y="1" width="374" height="315"/>
+	<SubTexture name="Scene3_100005" x="377" y="1" width="374" height="315"/>
+	<SubTexture name="Scene3_100006" x="1" y="318" width="374" height="315"/>
+	<SubTexture name="Scene3_100007" x="1" y="318" width="374" height="315"/>
+	<SubTexture name="Scene3_100008" x="1" y="318" width="374" height="315"/>
+	<SubTexture name="Scene3_100009" x="1" y="1" width="374" height="315"/>
+	<SubTexture name="Scene3_100010" x="1" y="1" width="374" height="315"/>
+	<SubTexture name="Scene3_100011" x="1" y="1" width="374" height="315"/>
+	<SubTexture name="Scene3_100012" x="377" y="1" width="374" height="315"/>
+	<SubTexture name="Scene3_100013" x="377" y="1" width="374" height="315"/>
+	<SubTexture name="Scene3_100014" x="377" y="1" width="374" height="315"/>
+	<SubTexture name="Scene3_100015" x="1" y="318" width="374" height="315"/>
+	<SubTexture name="Scene3_100016" x="1" y="318" width="374" height="315"/>
+	<SubTexture name="Scene3_100017" x="1" y="318" width="374" height="315"/>
+	<SubTexture name="Scene3_100018" x="1" y="318" width="374" height="315"/>
+	<SubTexture name="Scene3_100019" x="1" y="318" width="374" height="315"/>
+	<SubTexture name="Scene3_100020" x="377" y="318" width="374" height="315"/>
+	<SubTexture name="Scene3_100021" x="377" y="318" width="374" height="315"/>
+	<SubTexture name="Scene3_100022" x="377" y="318" width="374" height="315"/>
+	<SubTexture name="Scene3_100023" x="1" y="635" width="374" height="315"/>
+	<SubTexture name="Scene3_100024" x="1" y="635" width="374" height="315"/>
+	<SubTexture name="Scene3_100025" x="1" y="635" width="374" height="315"/>
+	<SubTexture name="Scene3_100026" x="1" y="635" width="374" height="315"/>
+</TextureAtlas>

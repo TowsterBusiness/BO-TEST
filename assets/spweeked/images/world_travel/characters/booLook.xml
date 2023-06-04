@@ -1,0 +1,65 @@
+﻿<TextureAtlas imagePath="booLook.png">
+	<SubTexture name="booLook1 0000" x="1" y="1" width="687" height="591"/>
+	<SubTexture name="booLook5 0000" x="690" y="1" width="687" height="591"/>
+	<SubTexture name="boolook2 0000" x="1379" y="1" width="699" height="616"/>
+	<SubTexture name="boolook2 0001" x="1379" y="1" width="699" height="616"/>
+	<SubTexture name="boolook2 0002" x="1379" y="1" width="699" height="616"/>
+	<SubTexture name="boolook2 0003" x="1379" y="1" width="699" height="616"/>
+	<SubTexture name="boolook2 0004" x="1379" y="1" width="699" height="616"/>
+	<SubTexture name="boolook2 0005" x="1379" y="1" width="699" height="616"/>
+	<SubTexture name="boolook2 0006" x="1379" y="1" width="699" height="616"/>
+	<SubTexture name="boolook2 0007" x="1379" y="1" width="699" height="616"/>
+	<SubTexture name="boolook2 0008" x="1379" y="1" width="699" height="616"/>
+	<SubTexture name="boolook2 0009" x="1379" y="1" width="699" height="616"/>
+	<SubTexture name="boolook2 0010" x="1379" y="1" width="699" height="616"/>
+	<SubTexture name="boolook2 0011" x="1379" y="1" width="699" height="616"/>
+	<SubTexture name="boolook2 0012" x="1379" y="1" width="699" height="616"/>
+	<SubTexture name="boolook2 0013" x="1379" y="1" width="699" height="616"/>
+	<SubTexture name="boolook2 0014" x="1379" y="1" width="699" height="616"/>
+	<SubTexture name="boolook2 0015" x="1379" y="1" width="699" height="616"/>
+	<SubTexture name="boolook2 0016" x="1379" y="1" width="699" height="616"/>
+	<SubTexture name="boolook2 0017" x="1379" y="1" width="699" height="616"/>
+	<SubTexture name="boolook2 0018" x="1379" y="1" width="699" height="616"/>
+	<SubTexture name="boolook2 0019" x="1379" y="1" width="699" height="616"/>
+	<SubTexture name="boolook2 0020" x="1379" y="1" width="699" height="616"/>
+	<SubTexture name="boolook3 0000" x="2080" y="1" width="832" height="624" frameX="150" frameY="0" frameWidth="832" frameHeight="624"/>
+	<SubTexture name="boolook3 0001" x="2080" y="1" width="832" height="624" frameX="150" frameY="0" frameWidth="832" frameHeight="624"/>
+	<SubTexture name="boolook3 0002" x="1" y="627" width="832" height="624" frameX="150" frameY="0" frameWidth="832" frameHeight="624"/>
+	<SubTexture name="boolook3 0003" x="1" y="627" width="832" height="624" frameX="150" frameY="0" frameWidth="832" frameHeight="624"/>
+	<SubTexture name="boolook3 0004" x="835" y="627" width="832" height="624" frameX="150" frameY="0" frameWidth="832" frameHeight="624"/>
+	<SubTexture name="boolook3 0005" x="835" y="627" width="832" height="624" frameX="150" frameY="0" frameWidth="832" frameHeight="624"/>
+	<SubTexture name="boolook3 0006" x="1669" y="627" width="832" height="624" frameX="150" frameY="0" frameWidth="832" frameHeight="624"/>
+	<SubTexture name="boolook3 0007" x="2503" y="627" width="832" height="624" frameX="150" frameY="0" frameWidth="832" frameHeight="624"/>
+	<SubTexture name="boolook3 0008" x="2503" y="627" width="832" height="624" frameX="150" frameY="0" frameWidth="832" frameHeight="624"/>
+	<SubTexture name="boolook3 0009" x="2503" y="627" width="832" height="624" frameX="150" frameY="0" frameWidth="832" frameHeight="624"/>
+	<SubTexture name="boolook3 0010" x="2503" y="627" width="832" height="624" frameX="150" frameY="0" frameWidth="832" frameHeight="624"/>
+	<SubTexture name="boolook3 0011" x="2503" y="627" width="832" height="624" frameX="150" frameY="0" frameWidth="832" frameHeight="624"/>
+	<SubTexture name="boolook3 0012" x="2503" y="627" width="832" height="624" frameX="150" frameY="0" frameWidth="832" frameHeight="624"/>
+	<SubTexture name="boolook3 0013" x="2503" y="627" width="832" height="624" frameX="150" frameY="0" frameWidth="832" frameHeight="624"/>
+	<SubTexture name="boolook3 0014" x="2503" y="627" width="832" height="624" frameX="150" frameY="0" frameWidth="832" frameHeight="624"/>
+	<SubTexture name="boolook3 0015" x="2503" y="627" width="832" height="624" frameX="150" frameY="0" frameWidth="832" frameHeight="624"/>
+	<SubTexture name="boolook3 0016" x="2503" y="627" width="832" height="624" frameX="150" frameY="0" frameWidth="832" frameHeight="624"/>
+	<SubTexture name="boolook3 0017" x="2503" y="627" width="832" height="624" frameX="150" frameY="0" frameWidth="832" frameHeight="624"/>
+	<SubTexture name="boolook3 0018" x="2503" y="627" width="832" height="624" frameX="150" frameY="0" frameWidth="832" frameHeight="624"/>
+	<SubTexture name="boolook3 0019" x="2503" y="627" width="832" height="624" frameX="150" frameY="0" frameWidth="832" frameHeight="624"/>
+	<SubTexture name="boolook3 0020" x="2503" y="627" width="832" height="624" frameX="150" frameY="0" frameWidth="832" frameHeight="624"/>
+	<SubTexture name="boolook3 0021" x="2503" y="627" width="832" height="624" frameX="150" frameY="0" frameWidth="832" frameHeight="624"/>
+	<SubTexture name="boolook3 0022" x="2503" y="627" width="832" height="624" frameX="150" frameY="0" frameWidth="832" frameHeight="624"/>
+	<SubTexture name="boolook3 0023" x="2503" y="627" width="832" height="624" frameX="150" frameY="0" frameWidth="832" frameHeight="624"/>
+	<SubTexture name="boolook3 0024" x="2503" y="627" width="832" height="624" frameX="150" frameY="0" frameWidth="832" frameHeight="624"/>
+	<SubTexture name="boolook3 0025" x="2503" y="627" width="832" height="624" frameX="150" frameY="0" frameWidth="832" frameHeight="624"/>
+	<SubTexture name="boolook3 0026" x="2503" y="627" width="832" height="624" frameX="150" frameY="0" frameWidth="832" frameHeight="624"/>
+	<SubTexture name="boolook3 0027" x="2503" y="627" width="832" height="624" frameX="150" frameY="0" frameWidth="832" frameHeight="624"/>
+	<SubTexture name="boolook3 0028" x="2503" y="627" width="832" height="624" frameX="150" frameY="0" frameWidth="832" frameHeight="624"/>
+	<SubTexture name="boolook3 0029" x="2503" y="627" width="832" height="624" frameX="150" frameY="0" frameWidth="832" frameHeight="624"/>
+	<SubTexture name="boolook3 0030" x="2503" y="627" width="832" height="624" frameX="150" frameY="0" frameWidth="832" frameHeight="624"/>
+	<SubTexture name="boolook3 0031" x="2503" y="627" width="832" height="624" frameX="150" frameY="0" frameWidth="832" frameHeight="624"/>
+	<SubTexture name="boolook3 0032" x="2503" y="627" width="832" height="624" frameX="150" frameY="0" frameWidth="832" frameHeight="624"/>
+	<SubTexture name="boolook3 0033" x="2503" y="627" width="832" height="624" frameX="150" frameY="0" frameWidth="832" frameHeight="624"/>
+	<SubTexture name="boolook3 0034" x="2503" y="627" width="832" height="624" frameX="150" frameY="0" frameWidth="832" frameHeight="624"/>
+	<SubTexture name="boolook3 0035" x="2503" y="627" width="832" height="624" frameX="150" frameY="0" frameWidth="832" frameHeight="624"/>
+	<SubTexture name="boolook3 0036" x="2503" y="627" width="832" height="624" frameX="150" frameY="0" frameWidth="832" frameHeight="624"/>
+	<SubTexture name="boolook3 0037" x="2503" y="627" width="832" height="624" frameX="150" frameY="0" frameWidth="832" frameHeight="624"/>
+	<SubTexture name="boolook3 0038" x="2503" y="627" width="832" height="624" frameX="150" frameY="0" frameWidth="832" frameHeight="624"/>
+	<SubTexture name="boolook3 0039" x="2503" y="627" width="832" height="624" frameX="150" frameY="0" frameWidth="832" frameHeight="624"/>
+</TextureAtlas>

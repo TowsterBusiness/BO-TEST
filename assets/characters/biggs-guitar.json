@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BiggsLeft0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BiggsDown0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BiggsUp0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-15,
+				-15
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BiggsRight0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-6,
+				-3
+			],
+			"loop": false,
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "BiggsLeftEyesClosed0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-5
+			],
+			"loop": false,
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "BiggsDownEyesClosed0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				5,
+				-5
+			],
+			"loop": false,
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "BiggsUpEyesClosed0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-5,
+				-15
+			],
+			"loop": false,
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "BiggsRightEyesClosed0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "BiggsIdle0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				35,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "LAUGH",
+			"indices": [],
+			"name": "BiggsLaughing0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BiggsGuitar",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "biggs",
+	"flip_x": false,
+	"healthbar_colors": [
+		11,
+		177,
+		0
+	],
+	"camera_position": [
+		-10,
+		60
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

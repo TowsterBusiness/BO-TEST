@@ -1,0 +1,211 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				10,
+				-6
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Tulip_Left0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				5,
+				-3
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Tulip_Down0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				6,
+				2
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Tulip_Up0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-10,
+				-3
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Tulip_Right0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Tulip_Idle0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				5,
+				-3
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"indices": [
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "Tulip_Down0"
+		},
+		{
+			"offsets": [
+				10,
+				-6
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "Tulip_Left0"
+		},
+		{
+			"offsets": [
+				-10,
+				-3
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "Tulip_Right0"
+		},
+		{
+			"offsets": [
+				6,
+				2
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "Tulip_Up0"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "BOW",
+			"indices": [],
+			"name": "Tulip_BowEnd0"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "BOW-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35
+			],
+			"name": "Tulip_BowEnd0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Tulip",
+	"position": [
+		15,
+		345
+	],
+	"healthicon": "tulip",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		161
+	],
+	"camera_position": [
+		-160,
+		160
+	],
+	"sing_duration": 6.1,
+	"scale": 0.52
+}

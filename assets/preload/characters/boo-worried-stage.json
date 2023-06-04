@@ -1,0 +1,191 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Boo_IdleWorriPhase20"
+		},
+		{
+			"offsets": [
+				-13,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Boo_LeftWorriPhase20"
+		},
+		{
+			"offsets": [
+				19,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Boo_DownWorriPhase20"
+		},
+		{
+			"offsets": [
+				9,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Boo_UpWorri_Phase20"
+		},
+		{
+			"offsets": [
+				6,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Boo_RightWorriPhase20"
+		},
+		{
+			"offsets": [
+				-12,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Boo_LeftMiss0"
+		},
+		{
+			"offsets": [
+				19,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Boo_DownMiss0"
+		},
+		{
+			"offsets": [
+				8,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Boo_UpMiss0"
+		},
+		{
+			"offsets": [
+				11,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Boo_RightMiss0"
+		},
+		{
+			"offsets": [
+				8,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "BOW",
+			"indices": [],
+			"name": "BooBow0"
+		},
+		{
+			"offsets": [
+				8,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "BOW-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35
+			],
+			"name": "BooBow0"
+		},
+		{
+			"offsets": [
+				-1,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "TRANSITION",
+			"indices": [],
+			"name": "BooTransition0"
+		},
+		{
+			"offsets": [
+				22,
+				41
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "FLIP",
+			"indices": [],
+			"name": "Boo_IdleFlip0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BooStage",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "ghost",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		65,
+		242
+	],
+	"camera_position": [
+		0,
+		130
+	],
+	"sing_duration": 4,
+	"scale": 0.52
+}

@@ -1,0 +1,46 @@
+{
+	"song": {
+		"events": [
+			[
+				38727.2727272727,
+				[
+					[
+						"Play Animation",
+						"midAnim",
+						"Dad"
+					]
+				]
+			],
+			[
+				39136.3636363637,
+				[
+					[
+						"Change Character",
+						"dad",
+						"LicoriceBus2"
+					]
+				]
+			],
+			[
+				40909.0909090909,
+				[
+					[
+						"Play Animation",
+						"midEvent",
+						"BF"
+					]
+				]
+			],
+			[
+				41318.1818181818,
+				[
+					[
+						"Alt Idle Animation",
+						"bf",
+						"-alt"
+					]
+				]
+			]
+		]
+	}
+}

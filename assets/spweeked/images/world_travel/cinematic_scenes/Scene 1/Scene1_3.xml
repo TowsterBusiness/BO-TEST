@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Scene1_3.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Scene1_30000" x="4" y="4" width="720" height="566"/>
+	<SubTexture name="Scene1_30001" x="4" y="4" width="720" height="566"/>
+	<SubTexture name="Scene1_30002" x="4" y="4" width="720" height="566"/>
+	<SubTexture name="Scene1_30003" x="4" y="582" width="720" height="566"/>
+	<SubTexture name="Scene1_30004" x="4" y="582" width="720" height="566"/>
+	<SubTexture name="Scene1_30005" x="4" y="582" width="720" height="566"/>
+</TextureAtlas>

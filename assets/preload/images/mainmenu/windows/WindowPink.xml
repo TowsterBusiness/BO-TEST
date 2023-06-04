@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="WindowPink.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="slide pink0000" x="100" y="100" width="1403" height="1403" frameX="0" frameY="0" frameWidth="1403" frameHeight="1405"/>
+	<SubTexture name="slide pink0001" x="1603" y="100" width="1403" height="1403" frameX="0" frameY="0" frameWidth="1403" frameHeight="1405"/>
+	<SubTexture name="slide pink0002" x="3106" y="100" width="1403" height="1403" frameX="0" frameY="0" frameWidth="1403" frameHeight="1405"/>
+	<SubTexture name="slide pink0003" x="4609" y="100" width="1403" height="1403" frameX="0" frameY="0" frameWidth="1403" frameHeight="1405"/>
+	<SubTexture name="slide pink0004" x="6112" y="100" width="1403" height="1403" frameX="0" frameY="0" frameWidth="1403" frameHeight="1405"/>
+	<SubTexture name="slide pink0005" x="100" y="1603" width="1403" height="1403" frameX="0" frameY="0" frameWidth="1403" frameHeight="1405"/>
+	<SubTexture name="slide pink0006" x="1603" y="1603" width="1403" height="1403" frameX="0" frameY="0" frameWidth="1403" frameHeight="1405"/>
+	<SubTexture name="slide pink0007" x="3106" y="1603" width="1403" height="1403" frameX="0" frameY="0" frameWidth="1403" frameHeight="1405"/>
+	<SubTexture name="slide pink0008" x="4609" y="1603" width="1403" height="1403" frameX="0" frameY="0" frameWidth="1403" frameHeight="1405"/>
+	<SubTexture name="slide pink0009" x="6112" y="1603" width="1403" height="1403" frameX="0" frameY="0" frameWidth="1403" frameHeight="1405"/>
+	<SubTexture name="slide pink0010" x="100" y="3106" width="1403" height="1403" frameX="0" frameY="0" frameWidth="1403" frameHeight="1405"/>
+	<SubTexture name="slide pink0011" x="1603" y="3106" width="1403" height="1403" frameX="0" frameY="0" frameWidth="1403" frameHeight="1405"/>
+	<SubTexture name="slide pink0012" x="3106" y="3106" width="1403" height="1403" frameX="0" frameY="0" frameWidth="1403" frameHeight="1405"/>
+	<SubTexture name="slide pink0013" x="4609" y="3106" width="1403" height="1403" frameX="0" frameY="0" frameWidth="1403" frameHeight="1405"/>
+	<SubTexture name="slide pink0014" x="6112" y="3106" width="1403" height="1403" frameX="0" frameY="0" frameWidth="1403" frameHeight="1405"/>
+	<SubTexture name="slide pink0015" x="100" y="4609" width="1403" height="1403" frameX="0" frameY="-2" frameWidth="1403" frameHeight="1405"/>
+	<SubTexture name="slide pink0016" x="1603" y="4609" width="1403" height="1403" frameX="0" frameY="-2" frameWidth="1403" frameHeight="1405"/>
+	<SubTexture name="slide pink0017" x="3106" y="4609" width="1403" height="1403" frameX="0" frameY="-2" frameWidth="1403" frameHeight="1405"/>
+	<SubTexture name="slide pink0018" x="4609" y="4609" width="1403" height="1403" frameX="0" frameY="-2" frameWidth="1403" frameHeight="1405"/>
+	<SubTexture name="slide pink0019" x="6112" y="4609" width="1403" height="1403" frameX="0" frameY="-2" frameWidth="1403" frameHeight="1405"/>
+	<SubTexture name="slide pink0020" x="100" y="6112" width="1403" height="1403" frameX="0" frameY="-2" frameWidth="1403" frameHeight="1405"/>
+	<SubTexture name="slide pink0021" x="1603" y="6112" width="1403" height="1403" frameX="0" frameY="-2" frameWidth="1403" frameHeight="1405"/>
+	<SubTexture name="slide pink0022" x="3106" y="1603" width="1403" height="1403" frameX="0" frameY="-2" frameWidth="1403" frameHeight="1405"/>
+	<SubTexture name="slide pink0023" x="4609" y="1603" width="1403" height="1403" frameX="0" frameY="-2" frameWidth="1403" frameHeight="1405"/>
+	<SubTexture name="slide pink0024" x="6112" y="1603" width="1403" height="1403" frameX="0" frameY="-2" frameWidth="1403" frameHeight="1405"/>
+	<SubTexture name="slide pink0025" x="100" y="3106" width="1403" height="1403" frameX="0" frameY="-2" frameWidth="1403" frameHeight="1405"/>
+	<SubTexture name="slide pink0026" x="1603" y="3106" width="1403" height="1403" frameX="0" frameY="-2" frameWidth="1403" frameHeight="1405"/>
+	<SubTexture name="slide pink0027" x="3106" y="3106" width="1403" height="1403" frameX="0" frameY="-2" frameWidth="1403" frameHeight="1405"/>
+	<SubTexture name="slide pink0028" x="4609" y="3106" width="1403" height="1403" frameX="0" frameY="-2" frameWidth="1403" frameHeight="1405"/>
+	<SubTexture name="slide pink0029" x="6112" y="3106" width="1403" height="1403" frameX="0" frameY="-2" frameWidth="1403" frameHeight="1405"/>
+</TextureAtlas>

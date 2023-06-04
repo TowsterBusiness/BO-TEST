@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TransitionSpiral.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SpiralGif0000" x="1" y="1" width="627" height="334"/>
+	<SubTexture name="SpiralGif0001" x="1" y="1" width="627" height="334"/>
+	<SubTexture name="SpiralGif0002" x="1" y="1" width="627" height="334"/>
+	<SubTexture name="SpiralGif0003" x="1" y="1" width="627" height="334"/>
+	<SubTexture name="SpiralGif0004" x="629" y="1" width="627" height="334"/>
+	<SubTexture name="SpiralGif0005" x="1257" y="1" width="627" height="334"/>
+	<SubTexture name="SpiralGif0006" x="1885" y="1" width="627" height="334"/>
+	<SubTexture name="SpiralGif0007" x="2513" y="1" width="627" height="334"/>
+	<SubTexture name="SpiralGif0008" x="1" y="336" width="627" height="334"/>
+	<SubTexture name="SpiralGif0009" x="629" y="336" width="627" height="334"/>
+	<SubTexture name="SpiralGif0010" x="1257" y="336" width="627" height="334"/>
+	<SubTexture name="SpiralGif0011" x="1885" y="336" width="627" height="334"/>
+	<SubTexture name="SpiralGif0012" x="2513" y="336" width="627" height="334"/>
+	<SubTexture name="SpiralGif0013" x="1" y="671" width="627" height="334"/>
+	<SubTexture name="SpiralGif0014" x="629" y="671" width="627" height="334"/>
+	<SubTexture name="SpiralGif0015" x="1257" y="671" width="627" height="334"/>
+	<SubTexture name="SpiralGif0016" x="1885" y="671" width="627" height="334"/>
+	<SubTexture name="SpiralGif0017" x="2513" y="671" width="627" height="334"/>
+	<SubTexture name="SpiralGif0018" x="1" y="1006" width="627" height="334"/>
+	<SubTexture name="SpiralGif0019" x="629" y="1006" width="627" height="334"/>
+	<SubTexture name="SpiralGif0020" x="1257" y="1006" width="627" height="334"/>
+	<SubTexture name="SpiralGif0021" x="1885" y="1006" width="627" height="334"/>
+	<SubTexture name="SpiralGif0022" x="2513" y="1006" width="627" height="334"/>
+	<SubTexture name="SpiralGif0023" x="1" y="1341" width="627" height="334"/>
+	<SubTexture name="SpiralGif0024" x="629" y="1341" width="627" height="334"/>
+	<SubTexture name="SpiralGif0025" x="1257" y="1341" width="627" height="334"/>
+	<SubTexture name="SpiralGif0026" x="1885" y="1341" width="627" height="334"/>
+	<SubTexture name="SpiralGif0027" x="2513" y="1341" width="627" height="334"/>
+	<SubTexture name="SpiralGif0028" x="1" y="1676" width="627" height="334"/>
+	<SubTexture name="SpiralGif0029" x="629" y="1676" width="627" height="334"/>
+	<SubTexture name="SpiralGif0030" x="1257" y="1676" width="627" height="334"/>
+	<SubTexture name="SpiralGif0031" x="1885" y="1676" width="627" height="334"/>
+	<SubTexture name="SpiralGif0032" x="2513" y="1676" width="627" height="334"/>
+	<SubTexture name="SpiralGif0033" x="1" y="2011" width="627" height="334"/>
+	<SubTexture name="SpiralGif0034" x="629" y="2011" width="627" height="334"/>
+	<SubTexture name="SpiralGif0035" x="1257" y="2011" width="627" height="334"/>
+	<SubTexture name="SpiralGif0036" x="1885" y="2011" width="627" height="334"/>
+	<SubTexture name="SpiralGif0037" x="2513" y="2011" width="627" height="334"/>
+	<SubTexture name="SpiralGif0038" x="2513" y="2011" width="627" height="334"/>
+	<SubTexture name="SpiralGif0039" x="2513" y="2011" width="627" height="334"/>
+	<SubTexture name="SpiralGif0040" x="2513" y="2011" width="627" height="334"/>
+	<SubTexture name="SpiralGif0041" x="2513" y="2011" width="627" height="334"/>
+	<SubTexture name="SpiralGif0042" x="2513" y="2011" width="627" height="334"/>
+	<SubTexture name="SpiralGif0043" x="2513" y="2011" width="627" height="334"/>
+	<SubTexture name="SpiralGif0044" x="2513" y="2011" width="627" height="334"/>
+	<SubTexture name="SpiralGif0045" x="2513" y="2011" width="627" height="334"/>
+	<SubTexture name="SpiralGif0046" x="2513" y="2011" width="627" height="334"/>
+	<SubTexture name="SpiralGif0047" x="2513" y="2011" width="627" height="334"/>
+	<SubTexture name="SpiralGif0048" x="2513" y="2011" width="627" height="334"/>
+	<SubTexture name="SpiralGif0049" x="2513" y="2011" width="627" height="334"/>
+	<SubTexture name="SpiralGif0050" x="2513" y="2011" width="627" height="334"/>
+	<SubTexture name="SpiralGif0051" x="2513" y="2011" width="627" height="334"/>
+	<SubTexture name="SpiralGif0052" x="2513" y="2011" width="627" height="334"/>
+	<SubTexture name="SpiralGif0053" x="2513" y="2011" width="627" height="334"/>
+	<SubTexture name="SpiralGif0054" x="2513" y="2011" width="627" height="334"/>
+	<SubTexture name="SpiralGif0055" x="2513" y="2011" width="627" height="334"/>
+	<SubTexture name="SpiralGif0056" x="2513" y="2011" width="627" height="334"/>
+</TextureAtlas>

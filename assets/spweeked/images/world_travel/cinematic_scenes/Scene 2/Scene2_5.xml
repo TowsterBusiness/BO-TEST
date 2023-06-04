@@ -1,0 +1,8 @@
+﻿<TextureAtlas imagePath="Scene2_5.png">
+	<SubTexture name="Scene2_50000" x="1" y="1" width="751" height="457"/>
+	<SubTexture name="Scene2_50001" x="1" y="1" width="751" height="457"/>
+	<SubTexture name="Scene2_50002" x="1" y="1" width="751" height="457"/>
+	<SubTexture name="Scene2_50003" x="1" y="460" width="751" height="457"/>
+	<SubTexture name="Scene2_50004" x="1" y="460" width="751" height="457"/>
+	<SubTexture name="Scene2_50005" x="1" y="460" width="751" height="457"/>
+</TextureAtlas>

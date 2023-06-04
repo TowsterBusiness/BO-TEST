@@ -1,0 +1,23 @@
+﻿<TextureAtlas imagePath="Cameo20.png">
+	<SubTexture name="Cameo0000" x="1" y="1" width="209" height="274"/>
+	<SubTexture name="Cameo0001" x="1" y="1" width="209" height="274"/>
+	<SubTexture name="Cameo0002" x="212" y="1" width="209" height="274"/>
+	<SubTexture name="Cameo0003" x="212" y="1" width="209" height="274"/>
+	<SubTexture name="Cameo0004" x="423" y="1" width="209" height="274"/>
+	<SubTexture name="Cameo0005" x="423" y="1" width="209" height="274"/>
+	<SubTexture name="Cameo0006" x="634" y="1" width="209" height="274"/>
+	<SubTexture name="Cameo0007" x="634" y="1" width="209" height="274"/>
+	<SubTexture name="CameoScared0000" x="845" y="1" width="260" height="252"/>
+	<SubTexture name="CameoScared0001" x="845" y="1" width="260" height="252"/>
+	<SubTexture name="CameoScared0002" x="1" y="277" width="260" height="252"/>
+	<SubTexture name="CameoScared0003" x="1" y="277" width="260" height="252"/>
+	<SubTexture name="CameoScared0004" x="263" y="277" width="260" height="252"/>
+	<SubTexture name="CameoScared0005" x="263" y="277" width="260" height="252"/>
+	<SubTexture name="CameoScared0006" x="263" y="277" width="260" height="252"/>
+	<SubTexture name="CameoScared0007" x="263" y="277" width="260" height="252"/>
+	<SubTexture name="CameoScared0008" x="263" y="277" width="260" height="252"/>
+	<SubTexture name="CameoScared0009" x="263" y="277" width="260" height="252"/>
+	<SubTexture name="CameoScared0010" x="263" y="277" width="260" height="252"/>
+	<SubTexture name="CameoScared0011" x="263" y="277" width="260" height="252"/>
+	<SubTexture name="SmokePuff0000" x="525" y="277" width="290" height="302"/>
+</TextureAtlas>

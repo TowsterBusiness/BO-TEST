@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Tulip_Idle0"
+		},
+		{
+			"offsets": [
+				5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "TulipLeft0"
+		},
+		{
+			"offsets": [
+				0,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "TulipDown0"
+		},
+		{
+			"offsets": [
+				0,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "TulipUp0"
+		},
+		{
+			"offsets": [
+				-7,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "TulipRight0"
+		},
+		{
+			"offsets": [
+				4,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "LOOKATDAISY",
+			"indices": [],
+			"name": "Tulip_LookAtDaisy0"
+		},
+		{
+			"offsets": [
+				4,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "LOOKATDAISYSTILL",
+			"indices": [],
+			"name": "Tulip_LookAtDaisyStill0"
+		},
+		{
+			"offsets": [
+				5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "LOOKUP",
+			"indices": [],
+			"name": "Tulip_LookUp0"
+		},
+		{
+			"offsets": [
+				5,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "LOOKUPSTILL",
+			"indices": [],
+			"name": "Tulip_LookUpStill0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/TulipSit",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "tulip",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		161
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

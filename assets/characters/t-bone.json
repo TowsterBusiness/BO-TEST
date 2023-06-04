@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				1
+			],
+			"loop": true,
+			"anim": "PLAY",
+			"fps": 24,
+			"name": "T-Bone Bass0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "T-Bone Idle0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/T-Bone",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "skeletons",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

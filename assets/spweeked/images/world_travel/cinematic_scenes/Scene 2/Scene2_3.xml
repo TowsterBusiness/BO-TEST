@@ -1,0 +1,10 @@
+﻿<TextureAtlas imagePatheight="Scene2_3.png">
+	<SubTexture name="Scene2_30000" x="1" y="1" width="751" height="458"/>
+	<SubTexture name="Scene2_30001" x="1" y="1" width="751" height="458"/>
+	<SubTexture name="Scene2_30002" x="1" y="1" width="751" height="458"/>
+	<SubTexture name="Scene2_30003" x="1" y="1" width="751" height="458"/>
+	<SubTexture name="Scene2_30004" x="1" y="461" width="751" height="458"/>
+	<SubTexture name="Scene2_30005" x="1" y="461" width="751" height="458"/>
+	<SubTexture name="Scene2_30006" x="1" y="461" width="751" height="458"/>
+	<SubTexture name="Scene2_30007" x="1" y="461" width="751" height="458"/>
+</TextureAtlas>

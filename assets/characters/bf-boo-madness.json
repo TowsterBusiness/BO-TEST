@@ -1,0 +1,215 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "MadnessBooRight",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "MadnessBooDown",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-19
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "MadnessBooLeft",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				10
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "MadnessBooUp",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-9
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "MadnessBooIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-19
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "MadnessBooLeft miss",
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "MadnessBooUp miss",
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				10
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "MadnessBooDown miss",
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "MadnessBooRight miss",
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-20
+			],
+			"anim": "hit",
+			"fps": 24,
+			"name": "MadnessBooHit",
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-20
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "MadnessBooHit",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BooMadness_Sprites",
+	"position": [
+		670,
+		-20
+	],
+	"healthicon": "ghost",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		65,
+		242
+	],
+	"camera_position": [
+		220,
+		140
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

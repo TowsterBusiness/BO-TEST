@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Cut 5.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Cut 50000" x="1" y="1" width="769" height="1135"/>
+	<SubTexture name="Cut 50001" x="1" y="1" width="769" height="1135"/>
+	<SubTexture name="Cut 50002" x="1" y="1" width="769" height="1135"/>
+	<SubTexture name="Cut 50003" x="775" y="1" width="769" height="1135"/>
+	<SubTexture name="Cut 50004" x="775" y="1" width="769" height="1135"/>
+	<SubTexture name="Cut 50005" x="775" y="1" width="769" height="1135"/>
+	<SubTexture name="Cut 50006" x="1549" y="1" width="769" height="1135"/>
+	<SubTexture name="Cut 50007" x="1549" y="1" width="769" height="1135"/>
+	<SubTexture name="Cut 50008" x="2323" y="1" width="769" height="1135"/>
+	<SubTexture name="Cut 50009" x="2323" y="1" width="769" height="1135"/>
+	<SubTexture name="Cut 50010" x="3097" y="1" width="769" height="1135"/>
+	<SubTexture name="Cut 50011" x="3097" y="1" width="769" height="1135"/>
+	<SubTexture name="Cut 50012" x="1" y="1141" width="769" height="1135"/>
+	<SubTexture name="Cut 50013" x="1" y="1141" width="769" height="1135"/>
+	<SubTexture name="Cut 50014" x="775" y="1141" width="769" height="1135"/>
+	<SubTexture name="Cut 50015" x="775" y="1141" width="769" height="1135"/>
+	<SubTexture name="Cut 50016" x="1549" y="1141" width="769" height="1135"/>
+	<SubTexture name="Cut 50017" x="2323" y="1141" width="769" height="1135"/>
+	<SubTexture name="Cut 50018" x="2323" y="1141" width="769" height="1135"/>
+	<SubTexture name="Cut 50019" x="3097" y="1141" width="769" height="1135"/>
+	<SubTexture name="Cut 50020" x="3097" y="1141" width="769" height="1135"/>
+	<SubTexture name="Cut 50021" x="3097" y="1141" width="769" height="1135"/>
+	<SubTexture name="Cut 50022" x="3097" y="1141" width="769" height="1135"/>
+	<SubTexture name="Cut 50023" x="3097" y="1141" width="769" height="1135"/>
+	<SubTexture name="Cut 50024" x="3097" y="1141" width="769" height="1135"/>
+	<SubTexture name="Cut 50025" x="3097" y="1141" width="769" height="1135"/>
+	<SubTexture name="Cut 50026" x="3097" y="1141" width="769" height="1135"/>
+	<SubTexture name="Cut 50027" x="3097" y="1141" width="769" height="1135"/>
+	<SubTexture name="Cut 50028" x="3097" y="1141" width="769" height="1135"/>
+	<SubTexture name="Cut 50029" x="3097" y="1141" width="769" height="1135"/>
+	<SubTexture name="Cut 50030" x="3097" y="1141" width="769" height="1135"/>
+	<SubTexture name="Cut 50031" x="3097" y="1141" width="769" height="1135"/>
+	<SubTexture name="Cut 50032" x="3097" y="1141" width="769" height="1135"/>
+	<SubTexture name="Cut 50033" x="3097" y="1141" width="769" height="1135"/>
+	<SubTexture name="Cut 50034" x="3097" y="1141" width="769" height="1135"/>
+	<SubTexture name="Cut 50035" x="3097" y="1141" width="769" height="1135"/>
+	<SubTexture name="Cut 50036" x="3097" y="1141" width="769" height="1135"/>
+	<SubTexture name="Cut 50037" x="3097" y="1141" width="769" height="1135"/>
+	<SubTexture name="Cut 50038" x="3097" y="1141" width="769" height="1135"/>
+	<SubTexture name="Cut 50039" x="3097" y="1141" width="769" height="1135"/>
+	<SubTexture name="Cut 50040" x="3097" y="1141" width="769" height="1135"/>
+</TextureAtlas>

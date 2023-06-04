@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="WindowRed.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="slide red0000" x="0" y="0" width="650" height="650"/>
+	<SubTexture name="slide red0001" x="650" y="0" width="650" height="650"/>
+	<SubTexture name="slide red0002" x="1300" y="0" width="650" height="650"/>
+	<SubTexture name="slide red0003" x="1950" y="0" width="650" height="650"/>
+	<SubTexture name="slide red0004" x="2600" y="0" width="650" height="650"/>
+	<SubTexture name="slide red0005" x="3250" y="0" width="650" height="650"/>
+	<SubTexture name="slide red0006" x="0" y="650" width="650" height="650"/>
+	<SubTexture name="slide red0007" x="0" y="650" width="650" height="650"/>
+	<SubTexture name="slide red0008" x="0" y="650" width="650" height="650"/>
+	<SubTexture name="slide red0009" x="0" y="650" width="650" height="650"/>
+	<SubTexture name="slide red0010" x="0" y="650" width="650" height="650"/>
+	<SubTexture name="slide red0011" x="0" y="650" width="650" height="650"/>
+	<SubTexture name="slide red0012" x="0" y="650" width="650" height="650"/>
+	<SubTexture name="slide red0013" x="0" y="650" width="650" height="650"/>
+	<SubTexture name="slide red0014" x="0" y="650" width="650" height="650"/>
+	<SubTexture name="slide red0015" x="0" y="650" width="650" height="650"/>
+	<SubTexture name="slide red0016" x="0" y="650" width="650" height="650"/>
+	<SubTexture name="slide red0017" x="0" y="650" width="650" height="650"/>
+	<SubTexture name="slide red0018" x="0" y="650" width="650" height="650"/>
+	<SubTexture name="slide red0019" x="0" y="650" width="650" height="650"/>
+	<SubTexture name="slide red0020" x="0" y="650" width="650" height="650"/>
+</TextureAtlas>

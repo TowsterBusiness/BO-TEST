@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle0"
+		},
+		{
+			"offsets": [
+				30,
+				90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Booga0"
+		},
+		{
+			"offsets": [
+				30,
+				90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Booga0"
+		},
+		{
+			"offsets": [
+				30,
+				90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "OogaBooga0"
+		},
+		{
+			"offsets": [
+				-35,
+				125
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Ogga0"
+		},
+		{
+			"offsets": [
+				30,
+				90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "BoogaMiss0"
+		},
+		{
+			"offsets": [
+				30,
+				90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "BoogaMiss0"
+		},
+		{
+			"offsets": [
+				0,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "CHUCKLESBIGGS",
+			"indices": [],
+			"name": "ChuckleBiggs0"
+		},
+		{
+			"offsets": [
+				-15,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "CHUCKLESBUGGS",
+			"indices": [],
+			"name": "ChuckleBuggs0"
+		},
+		{
+			"offsets": [
+				0,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "CHUCKLESBIGGS2",
+			"indices": [],
+			"name": "ChuckleBiggs20"
+		},
+		{
+			"offsets": [
+				30,
+				90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "OogaBoogaMiss0"
+		},
+		{
+			"offsets": [
+				-35,
+				125
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "OggaMiss0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/OogaboogaBois",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "biggs",
+	"flip_x": true,
+	"healthbar_colors": [
+		11,
+		177,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 5,
+	"scale": 0.9
+}

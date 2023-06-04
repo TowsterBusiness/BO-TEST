@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Luna0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "LOOKATDAISY",
+			"indices": [],
+			"name": "Luna_LookAtDaisy0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "LOOKATDAISYSTILL",
+			"indices": [],
+			"name": "Luna_LookAtDaisyStill0"
+		},
+		{
+			"offsets": [
+				3,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "LOOKUP",
+			"indices": [],
+			"name": "Luna_LookUp0"
+		},
+		{
+			"offsets": [
+				3,
+				1
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "LOOKUPSTILL",
+			"indices": [],
+			"name": "Luna_LookUpStill0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/LunaSit",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "daisy",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		161
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}
